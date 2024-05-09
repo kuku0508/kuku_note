@@ -1,0 +1,316 @@
+{
+  "main": {
+    "id": "c6f51cbd71b762ae",
+    "type": "split",
+    "children": [
+      {
+        "id": "9b979a2f8cdf952a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "296e2b2cdf38d644",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "知識/統計/統計學/基礎知識/母體參數／樣本統計量/相關係數.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "1b53cf9687e985aa",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "79d081944a826f53",
+    "type": "split",
+    "children": [
+      {
+        "id": "32beda51556d64d8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "418f87f864239790",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "c1eb8eaa520f8c0b",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "符號",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "1f77d61cd010fee6",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 301.5,
+    "collapsed": true
+  },
+  "right": {
+    "id": "1e2f35858b280e10",
+    "type": "split",
+    "children": [
+      {
+        "id": "1a5f8aa796116c0f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1a53ff68b113ea94",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "7381e23a6fc9d6fa",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "9b0c75fcff2fc7c8",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "0c0a78a5e406f307",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          },
+          {
+            "id": "90d7a9af941e07fc",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "698a28f3ddcf431f",
+            "type": "leaf",
+            "state": {
+              "type": "BC-matrix",
+              "state": {}
+            }
+          },
+          {
+            "id": "fbda357cb10df8bd",
+            "type": "leaf",
+            "state": {
+              "type": "BC-tree",
+              "state": {}
+            }
+          },
+          {
+            "id": "086de97f543941c7",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          },
+          {
+            "id": "174d11e6e3a78682",
+            "type": "leaf",
+            "state": {
+              "type": "localgraph",
+              "state": {
+                "options": {
+                  "collapse-filter": true,
+                  "search": "",
+                  "localJumps": 1,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": false,
+                  "showTags": false,
+                  "showAttachments": false,
+                  "hideUnresolved": false,
+                  "collapse-color-groups": true,
+                  "colorGroups": [],
+                  "collapse-display": true,
+                  "showArrow": false,
+                  "textFadeMultiplier": 0,
+                  "nodeSizeMultiplier": 1,
+                  "lineSizeMultiplier": 1,
+                  "collapse-forces": true,
+                  "centerStrength": 0.518713248970312,
+                  "repelStrength": 10,
+                  "linkStrength": 1,
+                  "linkDistance": 250,
+                  "scale": 0.7132754626224431,
+                  "close": false
+                }
+              }
+            }
+          }
+        ],
+        "currentTab": 5
+      }
+    ],
+    "direction": "horizontal",
+    "width": 343.5,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:開啟快速切換": false,
+      "graph:查看關聯圖": false,
+      "canvas:建立新畫布": false,
+      "daily-notes:開啟今天的每日筆記": false,
+      "templates:插入模板": false,
+      "command-palette:開啟命令面板": false,
+      "zk-prefixer:建立新唯一筆記": false,
+      "random-note:開始漫遊筆記": false,
+      "audio-recorder:開始/停止錄音": false,
+      "workspaces:管理工作區配置": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "breadcrumbs:Breadcrumbs Visualisation": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "obsidian42-text-transporter:Text Transporter": false,
+      "templater-obsidian:Templater": false
+    }
+  },
+  "floating": {
+    "id": "372e86a17c55a459",
+    "type": "floating",
+    "children": [
+      {
+        "id": "a0d6c75ee388cd25",
+        "type": "window",
+        "children": [
+          {
+            "id": "ed263504666048f3",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "3ed3ee39b478fe11",
+                "type": "leaf",
+                "state": {
+                  "type": "image",
+                  "state": {
+                    "file": "文本/附件/文本/惡性黑色素瘤 資料集說明.png"
+                  }
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 0,
+        "y": 0,
+        "width": 960,
+        "height": 1032,
+        "maximize": false,
+        "zoom": 0
+      }
+    ]
+  },
+  "active": "1b53cf9687e985aa",
+  "lastOpenFiles": [
+    "文本/附件/文本/惡性黑色素瘤 資料集說明.png",
+    "文本/附件/報告/研究背景.md",
+    "文本/附件/文本",
+    "文本/附件/報告/112-2 存活分析｜惡性黑色素瘤",
+    "文本/講義/類別資料分析/CDA Topic 2.md",
+    "文本/附件/報告",
+    "知識/統計/存活分析/基礎知識/截斷/雙邊截斷.md",
+    "文本/講義/存活分析/Survival Analysis topic 1.md",
+    "知識/統計/存活分析/基礎知識/截斷/截斷.md",
+    "知識/統計/存活分析/基礎知識/設限/型I設限.md",
+    "知識/統計/存活分析/基礎知識/設限/型II設限.md",
+    "知識/統計/存活分析/基礎知識/設限/區間設限.md",
+    "知識/統計/存活分析/基礎知識/設限/左設限.md",
+    "知識/統計/存活分析/基礎知識/截斷/左截斷.md",
+    "知識/統計/存活分析/基礎知識/截斷/右截斷.md",
+    "知識/統計/存活分析/基礎知識/截斷",
+    "知識/統計/存活分析/基礎知識/設限/設限.md",
+    "知識/統計/存活分析/存活分析目錄.md",
+    "知識/統計/存活分析/基礎知識/設限/隨機設限.md",
+    "知識/統計/存活分析/基礎知識/設限/右設限.md",
+    "知識/統計/存活分析/基礎知識/Time to event data.md",
+    "文本/問題/時間數列 第二次作業.md",
+    "文本/附件/圖/Type II censoring example.png",
+    "文本/附件/圖/右、區間、隨機、左設限.png",
+    "知識/統計/統計知識總目錄.md",
+    "文本/附件/圖/time to event data.png",
+    "文本/附件/圖/左、區間、右設限.png",
+    "知識/統計/存活分析/基礎知識/設限",
+    "知識/統計/統計學/圖表/表/次數分配表.md",
+    "知識/統計/存活分析/基礎知識",
+    "知識/統計/統計學/統計學目錄.md",
+    "知識/統計/統計學/圖表/圖/相對次數直方圖.md",
+    "知識/統計/類別資料分析/無序.md",
+    "知識/統計/存活分析",
+    "知識/統計/類別資料分析/有序.md",
+    "知識/統計/統計學/基礎知識/統計學.md",
+    "知識/統計/統計學/基礎知識/母體參數／樣本統計量/共變異數.md",
+    "文本/附件/圖/散佈圖 相關性說明.png",
+    "文本/附件/圖/離群值判斷方式　箱型圖說明.png",
+    "文本/附件/圖/Normal Distribution 68 95 99.7.png",
+    "暫存/Pasted Image 20240422042556_398.png",
+    "暫存",
+    "未命名/資料視覺化.pptx",
+    "資料視覺化 1.pptx",
+    "文本/問題/未命名.canvas",
+    "文本/附件/圖/散佈圖 預測與實際變數.png"
+  ]
+}

@@ -1,0 +1,201 @@
+{
+  "main": {
+    "id": "9b8598bd9a8fd755",
+    "type": "split",
+    "children": [
+      {
+        "id": "4fe22562905d16f9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7f60415b56ffefad",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "程式語言/Latex/語法表/積分.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "9b20691b983eb4b2",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "a663acf10f2dee35",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "c854c9f4b4d9a838",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "63a17234542ac794",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true
+          }
+        }
+      },
+      {
+        "id": "0e3e09e8e8120bea",
+        "type": "leaf",
+        "state": {
+          "type": "bookmarks",
+          "state": {}
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "2ccb863ac4773209",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "8a92f2181afc25b5",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "程式語言/Latex/語法表/積分.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "684181581ccd7e8c",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "file": "程式語言/Latex/語法表/積分.md",
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "9b0ce848aa45aacf",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {
+            "file": "程式語言/Latex/語法表/積分.md"
+          }
+        }
+      },
+      {
+        "id": "c7cad02c837c862e",
+        "type": "leaf",
+        "state": {
+          "type": "calendar",
+          "state": {}
+        }
+      },
+      {
+        "id": "4a288bf15ea5efa0",
+        "type": "leaf",
+        "state": {
+          "type": "BC-matrix",
+          "state": {}
+        }
+      },
+      {
+        "id": "e9d65abb505f05af",
+        "type": "leaf",
+        "state": {
+          "type": "BC-tree",
+          "state": {}
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:開啟快速切換": false,
+      "graph:查看關聯圖": false,
+      "canvas:建立新畫布": false,
+      "daily-notes:開啟今天的每日筆記": false,
+      "templates:插入模板": false,
+      "command-palette:開啟命令面板": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "breadcrumbs:Breadcrumbs Visualisation": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "obsidian42-text-transporter:Obsidian42 - Text Transporter": false,
+      "templater-obsidian:Templater": false
+    }
+  },
+  "active": "7f60415b56ffefad",
+  "lastOpenFiles": [
+    "程式語言/HTML/HTML語法表.md",
+    "程式語言/Latex/展式數式.md",
+    "辯論/健言公告.md",
+    "程式語言/Latex/Latex語法表.md",
+    "程式語言/Latex/隨文數式.md",
+    "程式語言/Latex/數學模式.md",
+    "程式語言/Latex/Latex.md",
+    "未命名.md",
+    "程式語言/MarkDown/Markdown語法表.md",
+    "程式語言/HTML/HTML.md",
+    "辯論/廉政盃.md",
+    "辯論/網路讓人類思考多元or單一.md",
+    "辯論/菁英盃.md",
+    "程式語言/MarkDown/語法表/分隔線.md",
+    "程式語言/MarkDown/語法表/圖片.md",
+    "照片/unknown.png",
+    "程式語言/HTML/語法表/跑馬燈.md",
+    "程式語言/MarkDown/語法表/圓形標記.md",
+    "程式語言/HTML/語法表/字體大小.md",
+    "程式語言/MarkDown/語法表/表格.md",
+    "程式語言/MarkDown/語法表/字體大小.md",
+    "程式語言/程式語言.md",
+    "程式語言/MarkDown/語法表/引文.md",
+    "程式語言/MarkDown/語法表/圖片連結.md",
+    "程式語言/MarkDown/語法表/跳脫字元.md",
+    "程式語言/MarkDown/MarkDown.md",
+    "程式語言/HTML/語法表/文字顏色.md",
+    "照片",
+    "辯論",
+    "程式語言/HTML/語法表",
+    "程式語言/MarkDown/語法表",
+    "程式語言/HTML",
+    "程式語言/MarkDown",
+    "程式語言"
+  ]
+}

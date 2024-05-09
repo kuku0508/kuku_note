@@ -1,0 +1,13 @@
+{
+  "editor:save-file": [],
+  "obsidian-excalidraw-plugin:insert-link": [],
+  "note-refactor-obsidian:app:extract-selection-first-line": [],
+  "obsidian-excalidraw-plugin:insert-LaTeX-symbol": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "="
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "collapse-filter": true,
+  "search": "",
+  "showTags": false,
+  "showAttachments": false,
+  "hideUnresolved": true,
+  "showOrphans": true,
+  "collapse-color-groups": false,
+  "colorGroups": [
+    {
+      "query": "path:程式語言/MarkDown  ",
+      "color": {
+        "a": 1,
+        "rgb": 1385568
+      }
+    },
+    {
+      "query": "path:程式語言/HTML  ",
+      "color": {
+        "a": 1,
+        "rgb": 14701138
+      }
+    },
+    {
+      "query": "path:程式語言/Latex  ",
+      "color": {
+        "a": 1,
+        "rgb": 16448627
+      }
+    },
+    {
+      "query": "path:知識/統計/統計學  ",
+      "color": {
+        "a": 1,
+        "rgb": 16761591
+      }
+    },
+    {
+      "query": "path:知識/統計/存活分析  ",
+      "color": {
+        "a": 1,
+        "rgb": 5431473
+      }
+    }
+  ],
+  "collapse-display": true,
+  "showArrow": false,
+  "textFadeMultiplier": -1,
+  "nodeSizeMultiplier": 0.67421875,
+  "lineSizeMultiplier": 0.776302083333333,
+  "collapse-forces": false,
+  "centerStrength": 0.291666666666667,
+  "repelStrength": 11.875,
+  "linkStrength": 1,
+  "linkDistance": 94,
+  "scale": 0.6316046762909513,
+  "close": true
+}
