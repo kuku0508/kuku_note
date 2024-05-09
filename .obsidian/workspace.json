@@ -13,23 +13,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "知識/統計/統計學/基礎知識/母體參數／樣本統計量/相關係數.md",
+                "file": "文本/附件/報告/112-2｜survival analysis｜黑色素瘤/研究背景.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               }
             }
-          },
-          {
-            "id": "1b53cf9687e985aa",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -79,8 +70,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 301.5,
-    "collapsed": true
+    "width": 301.5
   },
   "right": {
     "id": "1e2f35858b280e10",
@@ -96,6 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "文本/附件/報告/112-2｜survival analysis｜黑色素瘤/研究背景.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,6 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "文本/附件/報告/112-2｜survival analysis｜黑色素瘤/研究背景.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +125,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "文本/附件/報告/112-2｜survival analysis｜黑色素瘤/研究背景.md"
+              }
             }
           },
           {
@@ -174,6 +168,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "文本/附件/報告/112-2｜survival analysis｜黑色素瘤/研究背景.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -229,43 +224,9 @@
       "templater-obsidian:Templater": false
     }
   },
-  "floating": {
-    "id": "372e86a17c55a459",
-    "type": "floating",
-    "children": [
-      {
-        "id": "a0d6c75ee388cd25",
-        "type": "window",
-        "children": [
-          {
-            "id": "ed263504666048f3",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "3ed3ee39b478fe11",
-                "type": "leaf",
-                "state": {
-                  "type": "image",
-                  "state": {
-                    "file": "文本/附件/文本/惡性黑色素瘤 資料集說明.png"
-                  }
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": 0,
-        "y": 0,
-        "width": 960,
-        "height": 1032,
-        "maximize": false,
-        "zoom": 0
-      }
-    ]
-  },
-  "active": "1b53cf9687e985aa",
+  "active": "296e2b2cdf38d644",
   "lastOpenFiles": [
+    "知識/統計/統計學/基礎知識/母體參數／樣本統計量/相關係數.md",
     "文本/附件/文本/惡性黑色素瘤 資料集說明.png",
     "文本/附件/報告/研究背景.md",
     "文本/附件/文本",
