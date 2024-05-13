@@ -11,8 +11,13 @@
             "id": "296e2b2cdf38d644",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "文本/附件/報告/112-2｜survival analysis｜黑色素瘤/資料來源.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "文本/附件/報告/112-2｜survival analysis｜黑色素瘤/資料來源.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "文本/附件/報告/112-2｜survival analysis｜黑色素瘤/資料來源.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +125,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "文本/附件/報告/112-2｜survival analysis｜黑色素瘤/資料來源.md"
+              }
             }
           },
           {
@@ -159,6 +168,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "文本/附件/報告/112-2｜survival analysis｜黑色素瘤/資料來源.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
