@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "文本/附件/報告/112-2｜survival analysis｜黑色素瘤/變數介紹.md",
+                "file": "文本/附件/報告/112-2｜survival analysis｜黑色素瘤/研究背景.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "文本/附件/報告/112-2｜survival analysis｜黑色素瘤/變數介紹.md",
+                "file": "文本/附件/報告/112-2｜survival analysis｜黑色素瘤/研究背景.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "文本/附件/報告/112-2｜survival analysis｜黑色素瘤/變數介紹.md",
+                "file": "文本/附件/報告/112-2｜survival analysis｜黑色素瘤/研究背景.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "文本/附件/報告/112-2｜survival analysis｜黑色素瘤/變數介紹.md"
+                "file": "文本/附件/報告/112-2｜survival analysis｜黑色素瘤/研究背景.md"
               }
             }
           },
@@ -168,7 +168,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "文本/附件/報告/112-2｜survival analysis｜黑色素瘤/變數介紹.md",
+                "file": "文本/附件/報告/112-2｜survival analysis｜黑色素瘤/研究背景.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -224,13 +224,48 @@
       "templater-obsidian:Templater": false
     }
   },
+  "floating": {
+    "id": "075ac17bd627fee5",
+    "type": "floating",
+    "children": [
+      {
+        "id": "a2402fa08ebfd13c",
+        "type": "window",
+        "children": [
+          {
+            "id": "d52a26f0777cbf66",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "2203a921e74bc2d8",
+                "type": "leaf",
+                "state": {
+                  "type": "image",
+                  "state": {
+                    "file": "文本/附件/文本/惡性黑色素瘤 資料集說明.png"
+                  }
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 1920,
+        "y": 0,
+        "width": 640,
+        "height": 1392,
+        "maximize": false,
+        "zoom": 0
+      }
+    ]
+  },
   "active": "296e2b2cdf38d644",
   "lastOpenFiles": [
-    "文本/附件/文本/惡性黑色素瘤 資料集說明.png",
-    "文本/附件/報告/112-2｜survival analysis｜黑色素瘤/變數介紹.md",
     "文本/附件/報告/112-2｜survival analysis｜黑色素瘤/資料來源.md",
+    "文本/附件/報告/112-2｜survival analysis｜黑色素瘤/變數介紹.md",
+    "文本/附件/文本/惡性黑色素瘤 資料集說明.png",
     "文本/附件/報告/112-2｜survival analysis｜黑色素瘤/研究背景.md",
-    "知識/統計/類別資料分析/有序.md",
+    "文本/附件/報告/112-2｜survival analysis｜黑色素瘤/未命名.md",
     "知識/統計/統計學/基礎知識/母體參數／樣本統計量/相關係數.md",
     "文本/附件/報告/研究背景.md",
     "文本/附件/文本",
@@ -262,6 +297,7 @@
     "知識/統計/統計學/圖表/表/次數分配表.md",
     "知識/統計/存活分析/基礎知識",
     "知識/統計/統計學/統計學目錄.md",
+    "知識/統計/統計學/圖表/圖/相對次數直方圖.md",
     "知識/統計/存活分析",
     "文本/附件/圖/散佈圖 相關性說明.png",
     "文本/附件/圖/離群值判斷方式　箱型圖說明.png",
