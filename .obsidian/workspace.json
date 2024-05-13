@@ -11,8 +11,10 @@
             "id": "296e2b2cdf38d644",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "image",
+              "state": {
+                "file": "文本/附件/文本/惡性黑色素瘤 資料集說明.png"
+              }
             }
           }
         ]
@@ -81,6 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "文本/附件/文本/惡性黑色素瘤 資料集說明.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +100,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "文本/附件/文本/惡性黑色素瘤 資料集說明.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +122,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "文本/附件/文本/惡性黑色素瘤 資料集說明.png"
+              }
             }
           },
           {
@@ -159,6 +165,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "文本/附件/文本/惡性黑色素瘤 資料集說明.png",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
