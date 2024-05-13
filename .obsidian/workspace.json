@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "文本/附件/報告/112-2｜survival analysis｜黑色素瘤/變數介紹.md",
+                "file": "文本/附件/文本/惡性黑色素瘤 資料集說明.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "文本/附件/報告/112-2｜survival analysis｜黑色素瘤/變數介紹.md",
+                "file": "文本/附件/文本/惡性黑色素瘤 資料集說明.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "文本/附件/報告/112-2｜survival analysis｜黑色素瘤/變數介紹.md"
+                "file": "文本/附件/文本/惡性黑色素瘤 資料集說明.png"
               }
             }
           },
@@ -168,7 +168,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "文本/附件/報告/112-2｜survival analysis｜黑色素瘤/變數介紹.md",
+                "file": "文本/附件/文本/惡性黑色素瘤 資料集說明.png",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -259,11 +259,11 @@
       }
     ]
   },
-  "active": "296e2b2cdf38d644",
+  "active": "2203a921e74bc2d8",
   "lastOpenFiles": [
+    "文本/附件/報告/112-2｜survival analysis｜黑色素瘤/變數介紹.md",
     "文本/附件/報告/112-2｜survival analysis｜黑色素瘤/資料來源.md",
     "文本/附件/文本/惡性黑色素瘤 資料集說明.png",
-    "文本/附件/報告/112-2｜survival analysis｜黑色素瘤/變數介紹.md",
     "文本/附件/報告/112-2｜survival analysis｜黑色素瘤/研究背景.md",
     "文本/附件/報告/112-2｜survival analysis｜黑色素瘤/未命名.md",
     "知識/統計/統計學/基礎知識/母體參數／樣本統計量/相關係數.md",
