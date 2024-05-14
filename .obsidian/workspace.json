@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "知識/用語/電子陽痿.md",
+                "file": "知識/用語/網路用語目錄.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "知識/用語/電子陽痿.md",
+                "file": "知識/用語/網路用語目錄.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "知識/用語/電子陽痿.md",
+                "file": "知識/用語/網路用語目錄.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "知識/用語/電子陽痿.md"
+                "file": "知識/用語/網路用語目錄.md"
               }
             }
           },
@@ -168,7 +168,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "知識/用語/電子陽痿.md",
+                "file": "知識/用語/網路用語目錄.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -261,8 +261,9 @@
   },
   "active": "296e2b2cdf38d644",
   "lastOpenFiles": [
-    "文本/附件/圖/酒吞童子.png",
     "知識/用語/電子陽痿.md",
+    "知識/用語/網路用語目錄.md",
+    "文本/附件/圖/酒吞童子.png",
     "知識/用語",
     "文本/附件/圖/散佈圖 相關性說明.png",
     "文本/附件/圖/散佈圖 預測與實際變數.png",
