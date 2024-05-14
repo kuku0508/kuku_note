@@ -11,12 +11,9 @@
             "id": "296e2b2cdf38d644",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "文本/附件/報告/112-2｜survival analysis｜黑色素瘤/研究背景.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
+                "file": "文本/附件/圖/散佈圖 相關性說明.png"
               }
             }
           }
@@ -86,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "文本/附件/報告/112-2｜survival analysis｜黑色素瘤/研究背景.md",
+                "file": "文本/附件/圖/散佈圖 相關性說明.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +100,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "文本/附件/報告/112-2｜survival analysis｜黑色素瘤/研究背景.md",
+                "file": "文本/附件/圖/散佈圖 相關性說明.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +123,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "文本/附件/報告/112-2｜survival analysis｜黑色素瘤/研究背景.md"
+                "file": "文本/附件/圖/散佈圖 相關性說明.png"
               }
             }
           },
@@ -168,7 +165,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "文本/附件/報告/112-2｜survival analysis｜黑色素瘤/研究背景.md",
+                "file": "文本/附件/圖/散佈圖 相關性說明.png",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -259,12 +256,21 @@
       }
     ]
   },
-  "active": "296e2b2cdf38d644",
+  "active": "418f87f864239790",
   "lastOpenFiles": [
+    "文本/附件/圖/散佈圖 預測與實際變數.png",
+    "文本/附件/圖/圓餅圖範例 台灣政黨席次.png",
+    "文本/附件/圖/點圖範例 員工工作完成率.png",
+    "文本/附件/圖/Normal Distribution 68 95 99.7.png",
+    "文本/附件/圖/離群值處理方式 分佈圖.png",
+    "文本/附件/圖/離群值判斷方式　箱型圖說明.png",
+    "文本/附件/圖/time to event data.png",
+    "文本/附件/圖/Type II censoring example.png",
+    "文本/附件/報告/112-2｜survival analysis｜黑色素瘤/研究背景.md",
+    "README.md",
     "文本/附件/報告/112-2｜survival analysis｜黑色素瘤/資料來源.md",
     "文本/附件/報告/112-2｜survival analysis｜黑色素瘤/變數介紹.md",
     "文本/附件/文本/惡性黑色素瘤 資料集說明.png",
-    "文本/附件/報告/112-2｜survival analysis｜黑色素瘤/研究背景.md",
     "文本/附件/報告/112-2｜survival analysis｜黑色素瘤/未命名.md",
     "知識/統計/統計學/基礎知識/母體參數／樣本統計量/相關係數.md",
     "文本/附件/報告/研究背景.md",
@@ -288,24 +294,16 @@
     "知識/統計/存活分析/基礎知識/設限/右設限.md",
     "知識/統計/存活分析/基礎知識/Time to event data.md",
     "文本/問題/時間數列 第二次作業.md",
-    "文本/附件/圖/Type II censoring example.png",
     "文本/附件/圖/右、區間、隨機、左設限.png",
     "知識/統計/統計知識總目錄.md",
-    "文本/附件/圖/time to event data.png",
     "文本/附件/圖/左、區間、右設限.png",
     "知識/統計/存活分析/基礎知識/設限",
     "知識/統計/統計學/圖表/表/次數分配表.md",
     "知識/統計/存活分析/基礎知識",
-    "知識/統計/統計學/統計學目錄.md",
     "知識/統計/存活分析",
-    "文本/附件/圖/散佈圖 相關性說明.png",
-    "文本/附件/圖/離群值判斷方式　箱型圖說明.png",
-    "文本/附件/圖/Normal Distribution 68 95 99.7.png",
-    "暫存/Pasted Image 20240422042556_398.png",
     "暫存",
     "未命名/資料視覺化.pptx",
     "資料視覺化 1.pptx",
-    "文本/問題/未命名.canvas",
-    "文本/附件/圖/散佈圖 預測與實際變數.png"
+    "文本/問題/未命名.canvas"
   ]
 }
