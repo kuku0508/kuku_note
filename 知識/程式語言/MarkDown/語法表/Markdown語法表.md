@@ -2,7 +2,7 @@
 
 ```dataview
 LIST
-FROM "程式語言/MarkDown/語法表"
+FROM "知識/程式語言/MarkDown/語法表"
 ```
 - - -
 #markdown  
