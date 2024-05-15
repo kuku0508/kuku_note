@@ -997,8 +997,9 @@ async function createFileChooser(plugin, excludeFileFromList) {
       if (filePath.search(";") > 0)
         filePath = filePath.substr(0, filePath.search(";"));
       filePath = filePath.replace("*", "");
-      if (filePath === "DNPTODAY" || filePath === "DNPTOMORROW" || await plugin.app.vault.adapter.exists(filePath))
+      if (filePath === "DNPTODAY" || filePath === "DNPTOMORROW" || await plugin.app.vault.adapter.exists(filePath)) {
         fileList.unshift({ display: "Bookmark: " + bookmarks[i], info: bookmarks[i] });
+      }
     }
   }
   const chooser = new GenericFuzzySuggester(plugin);
@@ -1148,13 +1149,15 @@ async function displayFileLineSuggester(plugin, returnEndPoint, showTop, pullTyp
     const shiftKeyUsed = evtFileSelected.shiftKey;
     let fileContentsStartingLine = 0;
     let targetFileName = fileSelected.info;
+    console.log(targetFileName);
     if (targetFileName === TAG_FILE_SEARCH) {
       await createTagFileListChooser(plugin, returnEndPoint, showTop, callback);
       return;
     } else if (targetFileName === TAG_BLOCK_SEARCH) {
       await createTagBlockListChooser(plugin, returnEndPoint, showTop, callback);
       return;
-    } else if (targetFileName.search(".md;") > 0) {
+    } else if (targetFileName.includes("DNPTODAY") || targetFileName.includes("DNPTOMORROW") || targetFileName.includes(".md;")) {
+      console.log("xxxx");
       const bkmkInfo = await parseBookmarkForItsElements(plugin, targetFileName, pullTypeRequest);
       if (shiftKeyUsed === false) {
         callback(bkmkInfo.fileName, bkmkInfo.fileBookmarkContentsArray, bkmkInfo.fileLineNumber, bkmkInfo.fileLineNumber, evtFileSelected);
@@ -4912,7 +4915,7 @@ var PluginCommands = class {
         isContextMenuItem: true,
         cmItemEnabled: true,
         icon: "blocks",
-        command: async () => addBlockRefsToSelection(this.plugin, true, true, this.plugin.settings.blockRefAliasIndicator)
+        command: async () => await addBlockRefsToSelection(this.plugin, true, true, this.plugin.settings.blockRefAliasIndicator)
       },
       {
         caption: "Copy line/selection to another file",
