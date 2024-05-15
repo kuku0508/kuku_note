@@ -11,8 +11,10 @@
             "id": "296e2b2cdf38d644",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "excalidraw",
+              "state": {
+                "file": "文本/講義/統計/ch10.md"
+              }
             }
           }
         ]
@@ -81,6 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "文本/講義/統計/ch10.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +100,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "文本/講義/統計/ch10.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +122,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "文本/講義/統計/ch10.md"
+              }
             }
           },
           {
@@ -159,6 +165,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "文本/講義/統計/ch10.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -251,12 +258,13 @@
   },
   "active": "296e2b2cdf38d644",
   "lastOpenFiles": [
+    "文本/講義/統計/ch9.md",
+    "文本/講義/統計/ch11.md",
     "未命名.canvas",
     "文本/附件/報告/112-2｜survival analysis｜黑色素瘤/研究背景.md",
     "文本/附件/報告/112-2｜survival analysis｜黑色素瘤/資料來源.md",
     "文本/附件/報告/112-2｜survival analysis｜黑色素瘤/變數介紹.md",
     "文本/講義/統計/ch10.md",
-    "文本/講義/統計/ch11.md",
     "文本/講義/統計/ch12.md",
     "知識/用語/網路用語/電子陽痿.md",
     "知識/用語/網路用語目錄.md",
