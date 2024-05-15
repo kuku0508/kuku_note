@@ -13,7 +13,7 @@
             "state": {
               "type": "excel-view",
               "state": {
-                "file": "Excel 2024-05-15 21.18.15.sheet.md"
+                "file": "文本/附件/報告/112-2｜survival analysis｜黑色素瘤/survMelanoma.xls.md"
               }
             }
           }
@@ -83,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excel 2024-05-15 21.18.15.sheet.md",
+                "file": "文本/附件/報告/112-2｜survival analysis｜黑色素瘤/survMelanoma.xls.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +100,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excel 2024-05-15 21.18.15.sheet.md",
+                "file": "文本/附件/報告/112-2｜survival analysis｜黑色素瘤/survMelanoma.xls.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,7 +123,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excel 2024-05-15 21.18.15.sheet.md"
+                "file": "文本/附件/報告/112-2｜survival analysis｜黑色素瘤/survMelanoma.xls.md"
               }
             }
           },
@@ -165,7 +165,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Excel 2024-05-15 21.18.15.sheet.md",
+                "file": "文本/附件/報告/112-2｜survival analysis｜黑色素瘤/survMelanoma.xls.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -257,11 +257,11 @@
       }
     ]
   },
-  "active": "296e2b2cdf38d644",
+  "active": "418f87f864239790",
   "lastOpenFiles": [
-    "survMelanoma 1.xls",
     "文本/附件/報告/112-2｜survival analysis｜黑色素瘤/研究背景.md",
-    "Excel 2024-05-15 21.18.15.sheet.md",
+    "文本/附件/報告/112-2｜survival analysis｜黑色素瘤/survMelanoma.xls.md",
+    "survMelanoma 1.xls",
     "未命名.canvas",
     "survMelanoma.xls",
     "文本/講義/統計/ch10.md",
@@ -305,7 +305,6 @@
     "知識/統計/存活分析/基礎知識/截斷",
     "知識/統計/存活分析/基礎知識/設限",
     "知識/統計/存活分析/基礎知識",
-    "知識/統計/存活分析",
     "文本/問題/未命名.canvas"
   ]
 }
