@@ -11,9 +11,12 @@
             "id": "296e2b2cdf38d644",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "文本/講義/統計/ch10.md"
+                "file": "文本/附件/報告/112-2｜survival analysis｜黑色素瘤/資料來源.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
               }
             }
           }
@@ -83,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "文本/講義/統計/ch10.md",
+                "file": "文本/附件/報告/112-2｜survival analysis｜黑色素瘤/資料來源.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "文本/講義/統計/ch10.md",
+                "file": "文本/附件/報告/112-2｜survival analysis｜黑色素瘤/資料來源.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "文本/講義/統計/ch10.md"
+                "file": "文本/附件/報告/112-2｜survival analysis｜黑色素瘤/資料來源.md"
               }
             }
           },
@@ -165,7 +168,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "文本/講義/統計/ch10.md",
+                "file": "文本/附件/報告/112-2｜survival analysis｜黑色素瘤/資料來源.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -258,8 +261,9 @@
   },
   "active": "296e2b2cdf38d644",
   "lastOpenFiles": [
-    "文本/講義/統計/ch11.md",
+    "文本/附件/報告/112-2｜survival analysis｜黑色素瘤/研究背景.md",
     "文本/講義/統計/ch10.md",
+    "文本/講義/統計/ch11.md",
     "文本/講義/統計/ch12.md",
     "知識/用語/網路用語/電子陽痿.md",
     "知識/用語/網路用語目錄.md",
@@ -283,7 +287,6 @@
     "文本/附件/圖/離群值判斷方式　箱型圖說明.png",
     "文本/附件/圖/time to event data.png",
     "文本/附件/圖/Type II censoring example.png",
-    "文本/附件/報告/112-2｜survival analysis｜黑色素瘤/研究背景.md",
     "README.md",
     "文本/附件/報告/112-2｜survival analysis｜黑色素瘤/資料來源.md",
     "文本/附件/報告/112-2｜survival analysis｜黑色素瘤/變數介紹.md",
