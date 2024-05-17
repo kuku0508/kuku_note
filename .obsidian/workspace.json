@@ -11,9 +11,12 @@
             "id": "296e2b2cdf38d644",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "文本/講義/類別資料分析/CDA Topic 2.md"
+                "file": "文本/講義/類別資料分析/Untitled.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
               }
             }
           }
@@ -83,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "文本/講義/類別資料分析/CDA Topic 2.md",
+                "file": "文本/講義/類別資料分析/Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "文本/講義/類別資料分析/CDA Topic 2.md",
+                "file": "文本/講義/類別資料分析/Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "文本/講義/類別資料分析/CDA Topic 2.md"
+                "file": "文本/講義/類別資料分析/Untitled.md"
               }
             }
           },
@@ -165,7 +168,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "文本/講義/類別資料分析/CDA Topic 2.md",
+                "file": "文本/講義/類別資料分析/Untitled.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -259,6 +262,8 @@
   },
   "active": "296e2b2cdf38d644",
   "lastOpenFiles": [
+    "文本/講義/類別資料分析/CDA Topic 2.md",
+    "文本/講義/類別資料分析/Untitled.md",
     "文本/附件/報告/112-2｜survival analysis｜惡性黑色素瘤/惡性黑色素瘤目錄.md",
     "文本/附件/報告/112-2｜survival analysis｜惡性黑色素瘤/惡性黑色素瘤/survMelanoma.xls.md",
     "文本/附件/報告/112-2｜survival analysis｜惡性黑色素瘤/惡性黑色素瘤/reh.md",
@@ -302,9 +307,7 @@
     "文本/附件/報告/研究背景.md",
     "文本/附件/文本",
     "文本/附件/報告/112-2 存活分析｜惡性黑色素瘤",
-    "文本/講義/類別資料分析/CDA Topic 2.md",
     "文本/附件/報告",
-    "知識/統計/存活分析/基礎知識/截斷/雙邊截斷.md",
     "知識/統計/存活分析/基礎知識/截斷",
     "文本/問題/未命名.canvas"
   ]
