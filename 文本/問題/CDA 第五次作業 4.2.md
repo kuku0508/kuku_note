@@ -1,12 +1,6 @@
 > LI <-c(8,8,10,10,12,12,12,14,14,14,16,16,16,18,20,20,20,22,22,24,26,28,32,34,38,38,38)
 > y <-c(0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,0,1,0,0,1,1,0,1,1,1,0)
 > summary(glm(y~LI,family =binomial))
-Call:
-glm(formula = y ~ LI, family = binomial)
-
-Deviance Residuals: 
-    Min       1Q   Median       3Q      Max  
--1.9448  -0.6465  -0.4947   0.6571   1.6971  
 
 Coefficients:
             Estimate Std. Error z value Pr(>|z|)   
