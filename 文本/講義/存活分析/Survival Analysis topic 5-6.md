@@ -18,8 +18,8 @@ tags: [excalidraw]
 	"elements": [
 		{
 			"type": "embeddable",
-			"version": 81,
-			"versionNonce": 1387063210,
+			"version": 85,
+			"versionNonce": 2028674474,
 			"index": "a0",
 			"isDeleted": false,
 			"id": "fCPwEbKkETvJ5Fw_WLEga",
@@ -29,7 +29,7 @@ tags: [excalidraw]
 			"roughness": 1,
 			"opacity": 100,
 			"angle": 0,
-			"x": -419.75,
+			"x": -420.75,
 			"y": -611.4375,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
@@ -42,8 +42,8 @@ tags: [excalidraw]
 				"type": 3
 			},
 			"boundElements": [],
-			"updated": 1715973943961,
-			"link": "https://drive.google.com/file/d/1R0b3J0ipcjaWRAoNJvSMwuxRxcZhRGpy/view?usp=drive_link",
+			"updated": 1715973983106,
+			"link": "https://drive.google.com/file/d/1Dz6m2I0zbZDV3nHslZ366hz0VqdJJJyg/view?usp=drive_link",
 			"locked": false,
 			"scale": [
 				1,
@@ -67,7 +67,7 @@ tags: [excalidraw]
 		"currentItemStartArrowhead": null,
 		"currentItemEndArrowhead": "arrow",
 		"scrollX": 1102,
-		"scrollY": 660,
+		"scrollY": 860,
 		"zoom": {
 			"value": 1
 		},
