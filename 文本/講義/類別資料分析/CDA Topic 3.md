@@ -43,7 +43,7 @@ tags: [excalidraw]
 			},
 			"boundElements": [],
 			"updated": 1715973654421,
-			"link": "https://drive.google.com/file/d/1Fa86FFdbl6x3Wr4SWzDruN9ovtO5tbhy/view?usp=drive_link",
+			"link": "https://drive.google.com/file/d/16LY5Wrg_lvpjRhZY4ARSs-xY-QyZoe6P/view?usp=drive_link",
 			"locked": false,
 			"scale": [
 				1,
