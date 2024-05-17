@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "文本/講義/存活分析/Survival Analysis topic 4.md",
+                "file": "文本/講義/存活分析/Survival Analysis topic 1.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "文本/講義/存活分析/Survival Analysis topic 4.md",
+                "file": "文本/講義/存活分析/Survival Analysis topic 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "文本/講義/存活分析/Survival Analysis topic 4.md",
+                "file": "文本/講義/存活分析/Survival Analysis topic 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "文本/講義/存活分析/Survival Analysis topic 4.md"
+                "file": "文本/講義/存活分析/Survival Analysis topic 1.md"
               }
             }
           },
@@ -168,7 +168,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "文本/講義/存活分析/Survival Analysis topic 4.md",
+                "file": "文本/講義/存活分析/Survival Analysis topic 1.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -262,9 +262,14 @@
   },
   "active": "296e2b2cdf38d644",
   "lastOpenFiles": [
-    "文本/講義/存活分析/Survival Analysis topic 3.md",
     "文本/講義/存活分析/Survival Analysis topic 4.md",
+    "知識/程式語言/MarkDown/語法表/引文.md",
+    "知識/程式語言/MarkDown/基礎知識/Markdown概論.md",
     "文本/講義/類別資料分析/CDA Topic 3.md",
+    "文本/講義/類別資料分析/CDA Topic 1.md",
+    "文本/講義/存活分析/Survival Analysis topic 3.md",
+    "文本/講義/存活分析/Survival Analysis topic 2.md",
+    "文本/講義/存活分析/Survival Analysis topic 1.md",
     "文本/講義/類別資料分析/CDA Topic 4-6.md",
     "文本/講義/類別資料分析/CDA Topic 2.md",
     "文本/附件/報告/112-2｜survival analysis｜惡性黑色素瘤/惡性黑色素瘤目錄.md",
@@ -289,11 +294,6 @@
     "知識/用語/網路用語目錄.md",
     "知識/用語/網路用語",
     "知識/程式語言/HTML/HTML知識總目錄.md",
-    "知識/程式語言/HTML/基礎知識/HTML.md",
-    "知識/程式語言/HTML/基礎知識/HTML基礎知識目錄.md",
-    "知識/統計/統計學/統計學目錄.md",
-    "知識/統計/統計學/基礎知識/資料.md",
-    "知識/統計/統計學/資料/橫斷面資料.md",
     "文本/附件/圖/酒吞童子.png",
     "知識/用語",
     "文本/附件/圖/散佈圖 相關性說明.png",
