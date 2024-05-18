@@ -11,9 +11,12 @@
             "id": "296e2b2cdf38d644",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "文本/附件/文本/講義/類別資料分析/CDA Topic 4-6.md"
+                "file": "知識/統計/存活分析/基礎知識/常用符號/Hazard function.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
               }
             }
           }
@@ -83,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "文本/附件/文本/講義/類別資料分析/CDA Topic 4-6.md",
+                "file": "知識/統計/存活分析/基礎知識/常用符號/Hazard function.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "文本/附件/文本/講義/類別資料分析/CDA Topic 4-6.md",
+                "file": "知識/統計/存活分析/基礎知識/常用符號/Hazard function.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "文本/附件/文本/講義/類別資料分析/CDA Topic 4-6.md"
+                "file": "知識/統計/存活分析/基礎知識/常用符號/Hazard function.md"
               }
             }
           },
@@ -165,7 +168,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "文本/附件/文本/講義/類別資料分析/CDA Topic 4-6.md",
+                "file": "知識/統計/存活分析/基礎知識/常用符號/Hazard function.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -222,43 +225,10 @@
       "obsidian42-text-transporter:Text Transporter": false
     }
   },
-  "floating": {
-    "id": "075ac17bd627fee5",
-    "type": "floating",
-    "children": [
-      {
-        "id": "a2402fa08ebfd13c",
-        "type": "window",
-        "children": [
-          {
-            "id": "d52a26f0777cbf66",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "2203a921e74bc2d8",
-                "type": "leaf",
-                "state": {
-                  "type": "image",
-                  "state": {
-                    "file": "文本/附件/文本/惡性黑色素瘤 資料集說明.png"
-                  }
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": 1920,
-        "y": 0,
-        "width": 640,
-        "height": 1392,
-        "maximize": false,
-        "zoom": 0
-      }
-    ]
-  },
   "active": "296e2b2cdf38d644",
   "lastOpenFiles": [
+    "文本/附件/文本/講義/類別資料分析/CDA Topic 4-6.md",
+    "文本/附件/文本/惡性黑色素瘤 資料集說明.png",
     "知識/統計/存活分析/基礎知識/常用符號/Hazard function.md",
     "文本/附件/文本/講義/存活分析/Survival Analysis topic 1.md",
     "知識/程式語言/Latex/基礎知識/語法表/希臘字母.md",
@@ -276,8 +246,6 @@
     "知識/統計/存活分析/基礎知識/常用符號/Survival Time.md",
     "知識/程式語言/Latex/基礎知識/語法表/箭頭.md",
     "知識/統計/存活分析/基礎知識/常用符號",
-    "文本/附件/文本/惡性黑色素瘤 資料集說明.png",
-    "文本/附件/文本/講義/類別資料分析/CDA Topic 4-6.md",
     "文本/問題/CDA 第五次作業 4.2.md",
     "文本/附件/文本/講義/存活分析/Survival Analysis topic 5-6.md",
     "文本/附件/文本/講義/存活分析/Survival Analysis topic 4.md",
@@ -287,7 +255,6 @@
     "文本/附件/文本/講義/類別資料分析/CDA Topic 3.md",
     "文本/附件/文本/講義/類別資料分析/CDA Topic 1.md",
     "文本/附件/文本/講義/存活分析/Survival Analysis topic 2.md",
-    "文本/附件/文本/講義/類別資料分析/CDA Topic 2.md",
     "FA992700",
     "文本/附件/報告/112-2｜survival analysis｜惡性黑色素瘤/惡性黑色素瘤",
     "survMelanoma 1.xls",
