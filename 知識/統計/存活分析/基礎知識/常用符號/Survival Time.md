@@ -7,7 +7,8 @@ Survival Time(存活時間)，一般以t表示。是指從開始觀察到感興�
 某個病人在每個月的隨訪中記錄是否存活，存活時間為 12 個月表示從治療開始到病人死亡共經歷了 12 次隨訪。
 - - -
 # 備註：
-通常我們會將Random Sample 表示為$T_1,T_2,\ldots T_n$，將實際觀測值表示為$t_1,t_2,\ldots t_n$
+通常我們會將Random Sample 表示為$T_1,T_2,\ldots T_n$，將實際觀測值表示為$t_1,t_2,\ldots t_n$。
+且這些Survival Time應為i.i.d。
 - - -
 ![[time to event data.png]]
 - - -
