@@ -15,8 +15,8 @@ $$
 2. monotone decreasing as t $\uparrow$
 3. $$f(t)=\frac{-ds(t)}{dt}$$
 4. 在$t=0$時，所有個體都存活，因此S(0)=1。
-5. 隨著t趨近於無限，
-6. 
+5. $\lim_{t\rightarrow \infty}S(t)$
+6. 如果t
 - - -
 ![[survival function example.png]]
 - - -
