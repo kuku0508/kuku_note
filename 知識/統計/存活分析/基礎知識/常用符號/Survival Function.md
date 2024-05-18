@@ -17,6 +17,8 @@ $$
 $$
 f(t)=\frac{-ds(t)}{dt}
 $$
+1. 在$t=0$時，所有個體都存活，因此S(0)=1。
+
 - - -
 ![[survival function example.png]]
 - - -
