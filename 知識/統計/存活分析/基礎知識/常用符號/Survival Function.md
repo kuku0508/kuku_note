@@ -20,4 +20,4 @@ $$
 - - -
 ![[survival function example.png]]
 - - -
-parent::[[
+parent::[[存活分析目錄]],[[Survival Time]],[[Time to event data]]
