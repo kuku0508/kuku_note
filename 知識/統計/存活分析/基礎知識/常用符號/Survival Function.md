@@ -13,12 +13,10 @@ $$
 特性：
 1. $0\leq S(t)\leq 1$
 2. monotone decreasing as t $\uparrow$
-3. 
-$$
-f(t)=\frac{-ds(t)}{dt}
-$$
-1. 在$t=0$時，所有個體都存活，因此S(0)=1。
-
+3. $$f(t)=\frac{-ds(t)}{dt}$$
+4. 在$t=0$時，所有個體都存活，因此S(0)=1。
+5. 隨著t趨近於無限，
+6. 
 - - -
 ![[survival function example.png]]
 - - -
