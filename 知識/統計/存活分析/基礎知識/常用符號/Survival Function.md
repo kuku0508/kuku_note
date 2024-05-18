@@ -16,7 +16,7 @@ $$
 3. $$f(t)=\frac{-ds(t)}{dt}$$
 4. 在$t=0$時，所有個體都存活，因此S(0)=1。
 5. $\lim_{t\rightarrow \infty}S(t)$
-6. 如果t
+6. 如果t是連續的，則S(t)通常是連續且可微的。
 - - -
 ![[survival function example.png]]
 - - -
