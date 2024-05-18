@@ -15,5 +15,6 @@ $$
 2. monotone decreasing as t $\uparrow$
 3. 
 $$
-f(t)=
+f(t)=\frac{-ds(t)}{dt}
 $$
+- - -
