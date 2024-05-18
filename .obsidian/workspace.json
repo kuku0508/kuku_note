@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "知識/統計/存活分析/基礎知識/常用符號/Hazard function.md",
+                "file": "知識/程式語言/Latex/基礎知識/語法表/希臘字母.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "知識/統計/存活分析/基礎知識/常用符號/Hazard function.md",
+                "file": "知識/程式語言/Latex/基礎知識/語法表/希臘字母.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "知識/統計/存活分析/基礎知識/常用符號/Hazard function.md",
+                "file": "知識/程式語言/Latex/基礎知識/語法表/希臘字母.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "知識/統計/存活分析/基礎知識/常用符號/Hazard function.md"
+                "file": "知識/程式語言/Latex/基礎知識/語法表/希臘字母.md"
               }
             }
           },
@@ -168,7 +168,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "知識/統計/存活分析/基礎知識/常用符號/Hazard function.md",
+                "file": "知識/程式語言/Latex/基礎知識/語法表/希臘字母.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -291,8 +291,15 @@
   },
   "active": "296e2b2cdf38d644",
   "lastOpenFiles": [
-    "知識/統計/存活分析/基礎知識/常用符號/Survival Function.md",
+    "知識/程式語言/Latex/基礎知識/語法表/其他符號.md",
+    "知識/程式語言/Latex/基礎知識/語法表/省略符號 ‧‧‧.md",
+    "知識/程式語言/Latex/基礎知識/語法表/特殊符號.md",
+    "知識/程式語言/Latex/基礎知識/語法表/條件表達式.md",
+    "知識/程式語言/Latex/基礎知識/語法表/集合符號.md",
+    "知識/程式語言/Latex/基礎知識/語法表/邏輯運算.md",
+    "知識/程式語言/Latex/基礎知識/語法表/關係符號.md",
     "知識/統計/存活分析/基礎知識/常用符號/Hazard function.md",
+    "知識/統計/存活分析/基礎知識/常用符號/Survival Function.md",
     "知識/統計/存活分析/存活分析目錄.md",
     "知識/統計/存活分析/基礎知識/Time to event data.md",
     "文本/附件/圖/survival function example.png",
@@ -313,15 +320,8 @@
     "文本/附件/文本/講義/存活分析/Survival Analysis topic 2.md",
     "文本/附件/文本/講義/類別資料分析/CDA Topic 2.md",
     "文本/附件/報告/112-2｜survival analysis｜惡性黑色素瘤/惡性黑色素瘤目錄.md",
-    "文本/附件/報告/112-2｜survival analysis｜惡性黑色素瘤/惡性黑色素瘤/survMelanoma.xls.md",
-    "文本/附件/報告/112-2｜survival analysis｜惡性黑色素瘤/惡性黑色素瘤/reh.md",
-    "文本/附件/報告/112-2｜survival analysis｜惡性黑色素瘤/惡性黑色素瘤/研究背景.md",
-    "文本/附件/報告/112-2｜survival analysis｜惡性黑色素瘤/惡性黑色素瘤/變數介紹.md",
     "FA992700",
-    "文本/附件/報告/112-2｜survival analysis｜惡性黑色素瘤/惡性黑色素瘤/資料來源.md",
     "文本/附件/報告/112-2｜survival analysis｜惡性黑色素瘤/惡性黑色素瘤",
-    "知識/程式語言/基礎知識/程式語言.md",
-    "知識/程式語言/MarkDown/語法表/Markdown語法表.md",
     "survMelanoma 1.xls",
     "未命名.canvas",
     "survMelanoma.xls",
