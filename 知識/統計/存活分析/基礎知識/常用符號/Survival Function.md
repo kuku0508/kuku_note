@@ -10,3 +10,7 @@ $$
 \end{align}
 $$
 - - -
+特性：
+1. $0\leq S(t)\leq 1$
+2. monotone decreasing as t
+3. 
