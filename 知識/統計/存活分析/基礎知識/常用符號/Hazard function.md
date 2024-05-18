@@ -1,0 +1,1 @@
+Hazard function(危險函數)，通常以h(t)表示，
