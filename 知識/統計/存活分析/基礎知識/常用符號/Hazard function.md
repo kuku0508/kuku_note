@@ -7,5 +7,5 @@ Hazard function(危險函數)，通常以h(t)表示，是指觀察對象在時�
 - - -
 公式：
 $$
-h(t)=lim_{}
+h(t)=lim_{\Delta t\rightarrow 0}\frac{P(t\leq T <t+\Delta t|T)}{}
 $$
