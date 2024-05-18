@@ -18,3 +18,6 @@ $$
 f(t)=\frac{-ds(t)}{dt}
 $$
 - - -
+![[survival function example.png]]
+- - -
+parent::[[
