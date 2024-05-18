@@ -1,1 +1,1 @@
-Survival Function(存活函數)，
+Survival Function(存活函數)，通常以S(t)表示。是指時間t
