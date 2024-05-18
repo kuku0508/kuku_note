@@ -1,1 +1,1 @@
-Hazard function(危險函數)，通常以h(t)表示，
+Hazard function(危險函數)，通常以h(t)表示，是指觀察對象在時間t依然存活時，在下一個瞬間發生事件的機率。
