@@ -1,1 +1,1 @@
-Survival Function(存活函數)
+Survival Function(存活函數)，
