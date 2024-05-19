@@ -24,6 +24,6 @@ h(t)=&\lim_{\Delta t\rightarrow0}\frac{P(t\leq T <t+\Delta t\mid T \geq t)}{\Del
 =&\frac{f(t)}{S(t)}\\
 =&\frac{-S^{'}(t)}{S(t)}\\
 =&-\frac{d}{dt}\ln S(t)\\
-
+\Rightarrow S(t)=exp\lbrace-
 \end{align}
 $$
