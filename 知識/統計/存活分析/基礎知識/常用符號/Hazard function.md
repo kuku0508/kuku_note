@@ -28,5 +28,5 @@ h(t)=&\lim_{\Delta t\rightarrow0}\frac{P(t\leq T <t+\Delta t\mid T \geq t)}{\Del
 \end{align}
 $$
 - - -
-parent::[[Survival Time]],[[存活分析目錄]]
+parent::[[Survival Time]],[[存活分析目錄]],[[Time to event data]]
 slbling::[[Survival Function]]
