@@ -13,4 +13,5 @@ $$
 備註：不是機率、不是機率、不是機率
 - - - 
 # 性質：
-1. $h(t)$ is a conditional failure rate not a probability
+1. $h(t)$ is a conditional failure rate **not a probability**
+2. $h(t) \geq0(h(t)\nleq1)$  
