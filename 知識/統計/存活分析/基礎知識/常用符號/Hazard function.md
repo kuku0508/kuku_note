@@ -16,4 +16,9 @@ $$
 1. $h(t)$ is a conditional failure rate **not a probability**
 2. $h(t) \geq0(h(t)\nleq1)$  
 - - -
-Relationship bewteen$S(t)\,and$
+# Relationship bewteen $S(t)\,and\,h(t)$：
+$$
+\begin{align}
+h(t)=lim_{}
+\end{align}
+$$
