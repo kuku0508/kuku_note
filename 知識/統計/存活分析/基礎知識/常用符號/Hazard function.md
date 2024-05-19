@@ -20,6 +20,7 @@ $$
 $$
 \begin{align}
 h(t)=&\lim_{\Delta t\rightarrow0}\frac{P(t\leq T <t+\Delta t\mid T \geq t)}{\Delta t}\\
-=&\lim_{\Delta\rightarrow0}\frac{P(t\leq T<t+\Delta t)}{\Delta t}\times\frac{1}{P}
+=&\lim_{\Delta\rightarrow0}\frac{P(t\leq T<t+\Delta t)}{\Delta t}\times\frac{1}{P(T\geq t)}\\
+=&\frac{}{}
 \end{align}
 $$
