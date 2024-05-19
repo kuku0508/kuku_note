@@ -1,4 +1,4 @@
-Hazard function(危險函數)，通常以h(t)表示，是指觀察對象在時間t依然存活時，在下一個瞬間發生事件的機率。
+Hazard function(危險函數)，通常以h(t)$\lambda$表示，是指觀察對象在時間t依然存活時，在下一個瞬間發生事件的機率。
 - - -
 我一開始很不能理解Hazard function這個概念，妳可以這樣想像Hazard function。
 想像你是一艘船，在一條河流上運行，河流上面有一些地方有激流或是危險，會讓妳的船翻覆。Hazard function就是妳在河流的不同位置遇到激流或危險的機率。
@@ -7,5 +7,5 @@ Hazard function(危險函數)，通常以h(t)表示，是指觀察對象在時�
 - - -
 公式：
 $$
-h(t)=lim_{\Delta t\rightarrow 0}\frac{P(t\leq T <t+\Delta t|T\geq t)}{\Delta t}
+h(t)=\lambda(t)=lim_{\Delta t\rightarrow 0}\frac{P(t\leq T <t+\Delta t|T\geq t)}{\Delta t}
 $$
