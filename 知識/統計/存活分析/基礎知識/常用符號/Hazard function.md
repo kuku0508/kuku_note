@@ -20,6 +20,6 @@ $$
 $$
 \begin{align}
 h(t)=&\lim_{\Delta t\rightarrow0}\frac{P(t\leq T <t+\Delta t\mid T \geq t)}{\Delta t}\\
-=&\lim_{\Delta}
+=&\lim_{\Delta\rightarrow0} \frac{P(t\leq T<t+\Delta t)}{}}
 \end{align}
 $$
