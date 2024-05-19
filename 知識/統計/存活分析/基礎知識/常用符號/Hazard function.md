@@ -19,6 +19,6 @@ $$
 # Relationship bewteen $S(t)\,and\,h(t)$：
 $$
 \begin{align}
-h(t)=lim_{}
+h(t)=lim_{\Delta t\rightarrow0}
 \end{align}
 $$

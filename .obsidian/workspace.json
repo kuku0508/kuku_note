@@ -49,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "符號",
+                "query": "極限",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -66,7 +66,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -225,7 +226,7 @@
       "obsidian42-text-transporter:Text Transporter": false
     }
   },
-  "active": "296e2b2cdf38d644",
+  "active": "c1eb8eaa520f8c0b",
   "lastOpenFiles": [
     "知識/統計/存活分析/基礎知識/常用符號/Survival Time.md",
     "知識/統計/存活分析/基礎知識/常用符號/Survival Function.md",
