@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "知識/統計/存活分析/基礎知識/常用符號/Hazard function.md",
+                "file": "知識/程式語言/Latex/基礎知識/語法表/箭頭.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -49,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "極限",
+                "query": "箭頭",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -87,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "知識/統計/存活分析/基礎知識/常用符號/Hazard function.md",
+                "file": "知識/程式語言/Latex/基礎知識/語法表/箭頭.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "知識/統計/存活分析/基礎知識/常用符號/Hazard function.md",
+                "file": "知識/程式語言/Latex/基礎知識/語法表/箭頭.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "知識/統計/存活分析/基礎知識/常用符號/Hazard function.md"
+                "file": "知識/程式語言/Latex/基礎知識/語法表/箭頭.md"
               }
             }
           },
@@ -169,7 +169,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "知識/統計/存活分析/基礎知識/常用符號/Hazard function.md",
+                "file": "知識/程式語言/Latex/基礎知識/語法表/箭頭.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -228,8 +228,8 @@
   },
   "active": "296e2b2cdf38d644",
   "lastOpenFiles": [
-    "知識/程式語言/Latex/基礎知識/語法表/極限.md",
     "知識/統計/存活分析/基礎知識/常用符號/Hazard function.md",
+    "知識/程式語言/Latex/基礎知識/語法表/極限.md",
     "知識/統計/存活分析/基礎知識/常用符號/Survival Time.md",
     "知識/統計/存活分析/基礎知識/常用符號/Survival Function.md",
     "文本/附件/文本/講義/類別資料分析/CDA Topic 4-6.md",
