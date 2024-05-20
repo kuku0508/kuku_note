@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "知識/統計/存活分析/基礎知識/常用符號/Hazard function.md",
+                "file": "知識/統計/存活分析/存活分析目錄.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -66,8 +66,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -87,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "知識/統計/存活分析/基礎知識/常用符號/Hazard function.md",
+                "file": "知識/統計/存活分析/存活分析目錄.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "知識/統計/存活分析/基礎知識/常用符號/Hazard function.md",
+                "file": "知識/統計/存活分析/存活分析目錄.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "知識/統計/存活分析/基礎知識/常用符號/Hazard function.md"
+                "file": "知識/統計/存活分析/存活分析目錄.md"
               }
             }
           },
@@ -169,7 +168,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "知識/統計/存活分析/基礎知識/常用符號/Hazard function.md",
+                "file": "知識/統計/存活分析/存活分析目錄.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
