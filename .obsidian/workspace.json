@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "知識/統計/存活分析/基礎知識/常用符號/Hazard function.md",
+                "file": "知識/統計/存活分析/基礎知識/常用符號/cumulative hazard function.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "知識/統計/存活分析/基礎知識/常用符號/Hazard function.md",
+                "file": "文本/附件/文本/講義/存活分析/Survival Analysis topic 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "知識/統計/存活分析/基礎知識/常用符號/Hazard function.md",
+                "file": "文本/附件/文本/講義/存活分析/Survival Analysis topic 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "知識/統計/存活分析/基礎知識/常用符號/Hazard function.md"
+                "file": "文本/附件/文本/講義/存活分析/Survival Analysis topic 1.md"
               }
             }
           },
@@ -168,7 +168,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "知識/統計/存活分析/基礎知識/常用符號/Hazard function.md",
+                "file": "文本/附件/文本/講義/存活分析/Survival Analysis topic 1.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -225,8 +225,45 @@
       "obsidian42-text-transporter:Text Transporter": false
     }
   },
-  "active": "296e2b2cdf38d644",
+  "floating": {
+    "id": "45e861449ccdf868",
+    "type": "floating",
+    "children": [
+      {
+        "id": "a2dbbd9851822aec",
+        "type": "window",
+        "children": [
+          {
+            "id": "9b8b04fc7f6eb445",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "c6354c6bd04d25e0",
+                "type": "leaf",
+                "state": {
+                  "type": "excalidraw",
+                  "state": {
+                    "file": "文本/附件/文本/講義/存活分析/Survival Analysis topic 1.md"
+                  }
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 0,
+        "y": 0,
+        "width": 960,
+        "height": 1032,
+        "maximize": false,
+        "zoom": 0
+      }
+    ]
+  },
+  "active": "c6354c6bd04d25e0",
   "lastOpenFiles": [
+    "知識/統計/存活分析/基礎知識/常用符號/cumulative hazard function.md",
+    "文本/附件/文本/講義/存活分析/Survival Analysis topic 1.md",
     "知識/統計/存活分析/存活分析目錄.md",
     "知識/統計/存活分析/基礎知識/常用符號/Hazard function.md",
     "知識/程式語言/Latex/基礎知識/語法表/大括號與行標.md",
@@ -237,7 +274,6 @@
     "知識/統計/存活分析/基礎知識/常用符號/Survival Function.md",
     "文本/附件/文本/講義/類別資料分析/CDA Topic 4-6.md",
     "文本/附件/文本/惡性黑色素瘤 資料集說明.png",
-    "文本/附件/文本/講義/存活分析/Survival Analysis topic 1.md",
     "知識/程式語言/Latex/基礎知識/語法表/希臘字母.md",
     "知識/程式語言/Latex/基礎知識/語法表/其他符號.md",
     "知識/程式語言/Latex/基礎知識/語法表/省略符號 ‧‧‧.md",
@@ -255,7 +291,6 @@
     "文本/附件/文本/講義/存活分析/Survival Analysis topic 3.md",
     "知識/程式語言/MarkDown/語法表/引文.md",
     "知識/程式語言/MarkDown/基礎知識/Markdown概論.md",
-    "文本/附件/文本/講義/類別資料分析/CDA Topic 3.md",
     "FA992700",
     "文本/附件/報告/112-2｜survival analysis｜惡性黑色素瘤/惡性黑色素瘤",
     "survMelanoma 1.xls",
