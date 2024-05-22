@@ -20,5 +20,5 @@ $$
 - - -
 ![[survival function example.png]]
 - - -
-parent::[[存活分析目錄]],[[Survival Time]],[[Time to event data]]
+parent::[[常用符號目錄]],[[Survival Time]],[[Time to event data]]
 sibling::[[Hazard function]]
