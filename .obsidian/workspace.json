@@ -11,13 +11,8 @@
             "id": "296e2b2cdf38d644",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "知識/統計/存活分析/基礎知識/常用符號/Survival Function.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ]
@@ -86,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "知識/統計/存活分析/基礎知識/常用符號/Survival Function.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "知識/統計/存活分析/基礎知識/常用符號/Survival Function.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "知識/統計/存活分析/基礎知識/常用符號/Survival Function.md"
-              }
+              "state": {}
             }
           },
           {
@@ -168,7 +159,6 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "知識/統計/存活分析/基礎知識/常用符號/Survival Function.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -262,17 +252,17 @@
   },
   "active": "296e2b2cdf38d644",
   "lastOpenFiles": [
+    "知識/統計/存活分析/基礎知識/常用符號/Hazard function.md",
+    "知識/統計/存活分析/基礎知識/常用符號/cumulative hazard function.md",
+    "知識/統計/存活分析/基礎知識/常用符號/Survival Function.md",
     "知識/統計/存活分析/基礎知識/常用符號/Survival Time.md",
     "知識/統計/存活分析/常用符號目錄.md",
     "知識/統計/存活分析/存活分析目錄.md",
-    "知識/統計/存活分析/基礎知識/常用符號/cumulative hazard function.md",
-    "知識/統計/存活分析/基礎知識/常用符號/Hazard function.md",
     "文本/附件/文本/講義/存活分析/Survival Analysis topic 1.md",
     "知識/程式語言/Latex/基礎知識/語法表/大括號與行標.md",
     "知識/程式語言/Latex/基礎知識/語法表/積分.md",
     "知識/程式語言/Latex/基礎知識/語法表/箭頭.md",
     "知識/程式語言/Latex/基礎知識/語法表/極限.md",
-    "知識/統計/存活分析/基礎知識/常用符號/Survival Function.md",
     "文本/附件/文本/講義/類別資料分析/CDA Topic 4-6.md",
     "文本/附件/文本/惡性黑色素瘤 資料集說明.png",
     "知識/程式語言/Latex/基礎知識/語法表/希臘字母.md",

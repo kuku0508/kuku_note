@@ -12,4 +12,4 @@ $$
 \end{align}
 $$
 - - -
-parent::[[Hazard function]],[[存活分析目錄]],[[Time to event data]]
+parent::[[Hazard function]],[[常用符號目錄]],[[Time to event data]]
