@@ -8,6 +8,6 @@ $$
 \begin{align}
 &h(t)=\frac{-d}{dt}\ln S(t)\\
 \Rightarrow& H(t)=-\ln S(t)\\
-
+&S(t)=exp\left\lb
 \end{align}
 $$
