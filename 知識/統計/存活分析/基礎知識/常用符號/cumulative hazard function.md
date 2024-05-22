@@ -11,3 +11,5 @@ $$
 \Rightarrow &S(t)=exp\left\lbrace-H(t)\right\rbrace
 \end{align}
 $$
+- - -
+parent::[[Hazard function]],[[存活分析目錄]],[[Time to event data]]
