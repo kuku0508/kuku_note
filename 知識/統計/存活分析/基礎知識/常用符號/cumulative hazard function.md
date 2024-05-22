@@ -2,3 +2,9 @@ cumulative hazard function(累積危險函數)，通常用H(t)表示，即危險
 - - -
 # 公式：
 $H(t)=\int^t_0 h(u)du$
+- - -
+# 性質：
+$$
+\begin{align}
+\end{}
+$$
