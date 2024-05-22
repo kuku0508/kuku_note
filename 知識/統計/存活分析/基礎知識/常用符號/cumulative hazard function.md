@@ -6,8 +6,8 @@ $H(t)=\int^t_0 h(u)du$
 # 性質：
 $$
 \begin{align}
-h(t)=&\frac{-d}{dt}\ln S(t)\\
+&h(t)=\frac{-d}{dt}\ln S(t)\\
+\Rightarrow& H(t)=-\ln S(t)\\
 
-\Rightarrow
 \end{align}
 $$
