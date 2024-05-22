@@ -30,3 +30,5 @@ $$
 - - -
 parent::[[Survival Time]],[[存活分析目錄]],[[Time to event data]]
 slbling::[[Survival Function]]
+
+ㄕ
