@@ -11,13 +11,8 @@
             "id": "296e2b2cdf38d644",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "文本/附件/文本/名言/節日的意義.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ]
@@ -86,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "文本/附件/文本/名言/節日的意義.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "文本/附件/文本/名言/節日的意義.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "文本/附件/文本/名言/節日的意義.md"
-              }
+              "state": {}
             }
           },
           {
@@ -168,7 +159,6 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "文本/附件/文本/名言/節日的意義.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -228,12 +218,12 @@
   },
   "active": "296e2b2cdf38d644",
   "lastOpenFiles": [
-    "文本/附件/文本/名言/宿儺與漏瑚對決.md",
-    "文本/附件/文本/名言/節日的意義.md",
     "文本/附件/文本/名言/有遺憾挺好.md",
-    "文本/附件/文本/名言/羅南森學長-寫給辯論門外的少年.md",
     "文本/附件/文本/名言/柯柏-雜菜煲食後感.md",
     "文本/附件/文本/名言/粉紅色的雪.md",
+    "文本/附件/文本/名言/宿儺與漏瑚對決.md",
+    "文本/附件/文本/名言/節日的意義.md",
+    "文本/附件/文本/名言/羅南森學長-寫給辯論門外的少年.md",
     "文本/附件/文本/名言",
     "知識/統計/存活分析/常用符號目錄.md",
     "知識/統計/存活分析/基礎知識/常用符號/cumulative hazard function.md",
