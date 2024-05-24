@@ -11,8 +11,13 @@
             "id": "296e2b2cdf38d644",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "文本/問題/未命名.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "文本/問題/未命名.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "文本/問題/未命名.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +125,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "文本/問題/未命名.md"
+              }
             }
           },
           {
@@ -159,6 +168,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "文本/問題/未命名.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -218,6 +228,7 @@
   },
   "active": "296e2b2cdf38d644",
   "lastOpenFiles": [
+    "文本/問題/未命名.md",
     "文本/附件/文本/名言/有遺憾挺好.md",
     "文本/附件/文本/名言/柯柏-雜菜煲食後感.md",
     "文本/附件/文本/名言/粉紅色的雪.md",
@@ -245,7 +256,6 @@
     "知識/程式語言/Latex/基礎知識/語法表/特殊符號.md",
     "知識/程式語言/Latex/基礎知識/語法表/條件表達式.md",
     "知識/程式語言/Latex/基礎知識/語法表/集合符號.md",
-    "知識/程式語言/Latex/基礎知識/語法表/邏輯運算.md",
     "文本/附件/圖/survival function example.png",
     "知識/統計/存活分析/基礎知識/常用符號",
     "FA992700",
