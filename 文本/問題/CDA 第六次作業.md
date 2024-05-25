@@ -4,4 +4,5 @@ In a study on the effects of AZT in slowing the development of AIDS symptoms,338
 a.what null hypothesis is tested by the difference between the null devuance and the residual deviance?Interpret.
 
 b.Explain how to set up indicator variables for azt and race to obtain the estimates shown.
+
 4.17
