@@ -66,8 +66,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -227,12 +226,13 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "c1eb8eaa520f8c0b",
+  "active": "296e2b2cdf38d644",
   "lastOpenFiles": [
+    "知識/程式語言/Latex/基礎知識/語法表/希臘字母.md",
+    "文本/問題/CDA 第六次作業.md",
     "文本/附件/圖/CDA HW6 4.12 R code.png",
     "文本/問題/CDA 第五次作業 4.2.md",
     "文本/問題/時間數列 第二次作業.md",
-    "文本/問題/CDA 第六次作業.md",
     "文本/附件/文本/名言/有遺憾挺好.md",
     "文本/附件/文本/名言/柯柏-雜菜煲食後感.md",
     "文本/附件/文本/名言/粉紅色的雪.md",
@@ -254,7 +254,6 @@
     "文本/附件/文本/講義/類別資料分析/CDA Topic 4-6.md",
     "文本/附件/文本/惡性黑色素瘤 資料集說明.png",
     "文本/附件/文本/講義/存活分析/Survival Analysis topic 1.md",
-    "知識/程式語言/Latex/基礎知識/語法表/希臘字母.md",
     "知識/程式語言/Latex/基礎知識/語法表/其他符號.md",
     "知識/程式語言/Latex/基礎知識/語法表/省略符號 ‧‧‧.md",
     "文本/附件/圖/survival function example.png",
@@ -273,7 +272,6 @@
     "文本/附件/圖/點圖範例 員工工作完成率.png",
     "文本/附件/圖/Normal Distribution 68 95 99.7.png",
     "文本/附件/圖/離群值處理方式 分佈圖.png",
-    "文本/附件/圖/離群值判斷方式　箱型圖說明.png",
     "文本/附件/文本",
     "文本/附件/報告/112-2 存活分析｜惡性黑色素瘤",
     "文本/問題/未命名.canvas"

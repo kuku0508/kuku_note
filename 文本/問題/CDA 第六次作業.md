@@ -8,5 +8,5 @@ b.Explain how to set up indicator variables for azt and race to obtain the estim
 - - -
 4.17
 Table 4.11 shows estimeted effects for a logistic regression model for $y=presence\, of \,squamous\,cell\,esophageal\,cancer(1=yes,0=no)$.Smoking status(s) equals 1 for at least one pack per day and 0 otherwise,alcohol consumption(a) eqia;s the average number of alcoholic drinks consumed per day,and race(r)equals 1 for blacks and 0 for whites.
-a.To describe the race-by-smoking interaction,construct the prediction equation when $\thu$
+a.To describe the race-by-smoking interaction,construct the prediction equation when $\tau=1$ and a
 
