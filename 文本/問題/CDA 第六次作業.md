@@ -7,4 +7,5 @@ a.what null hypothesis is tested by the difference between the null devuance and
 b.Explain how to set up indicator variables for azt and race to obtain the estimates shown.
 
 4.17
-Table 4.11 shows estimeted effects for a logistic regression model for $y=presence of squamous$
+Table 4.11 shows estimeted effects for a logistic regression model for $y=presence\, of \,squamous\,cell\,esophageal\,cancer(1=yes,)$
+
