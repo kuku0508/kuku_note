@@ -12,10 +12,11 @@ a.To describe the race-by-smoking interaction,construct the prediction equation 
 
 b.In table 4.11,what do the coefficients of smoking and race represent?What hypotheses do their P-values refer to?
 
-| Variable    | effect | P-value |
-| ----------- | ------ | ------- |
-| Intercept   |        |         |
-| Alcohol use |        |         |
-| Smoking     |        |         |
-| Race        |        |         |
-|             |        |         |
+
+|      Variable       | effect | P-value |
+| :-----------------: | :----: | :-----: |
+|      Intercept      | -7.00  |  <0.01  |
+|     Alcohol use     |  0.1   |  0.03   |
+|       Smoking       |  1.2   |  <0.01  |
+|        Race         |  0.30  |  0.02   |
+| Race$\times$Smoking |  0.20  |  0.04   |
