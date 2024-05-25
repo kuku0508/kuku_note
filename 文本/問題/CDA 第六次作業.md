@@ -12,7 +12,7 @@ a.To describe the race-by-smoking interaction,construct the prediction equation 
 
 b.In table 4.11,what do the coefficients of smoking and race represent?What hypotheses do their P-values refer to?
 
-Table 4.11 Table for Exercise 4.17 on effects on esophageal cancer
+**Table 4.11 Table for Exercise 4.17 on effects on esophageal cancer.**
 
 |      Variable       | effect | P-value |
 | :-----------------: | :----: | :-----: |
