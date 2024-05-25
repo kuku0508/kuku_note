@@ -7,5 +7,5 @@ a.what null hypothesis is tested by the difference between the null devuance and
 b.Explain how to set up indicator variables for azt and race to obtain the estimates shown.
 
 4.17
-Table 4.11 shows estimeted effects for a logistic regression model for $y=presence\, of \,squamous\,cell\,esophageal\,cancer(1=yes,0=no)$.Smoking status(s) equals 1 for at least one pack per day and 0 otherwise,alcohol consumption
+Table 4.11 shows estimeted effects for a logistic regression model for $y=presence\, of \,squamous\,cell\,esophageal\,cancer(1=yes,0=no)$.Smoking status(s) equals 1 for at least one pack per day and 0 otherwise,alcohol consumption(a) eqia;s the average number of alcoholic drinks consumed per day
 
