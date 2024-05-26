@@ -4,16 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "9b979a2f8cdf952a",
+        "id": "297402cc5fbcac76",
         "type": "tabs",
         "children": [
           {
-            "id": "296e2b2cdf38d644",
+            "id": "b35b3274ef44c969",
             "type": "leaf",
             "state": {
-              "type": "pdf-annotator",
+              "type": "markdown",
               "state": {
-                "file": "文本/問題/1.md"
+                "file": "文本/問題/未命名.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
               }
             }
           }
@@ -83,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "文本/問題/1.md",
+                "file": "文本/問題/未命名.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "文本/問題/1.md",
+                "file": "文本/問題/未命名.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "文本/問題/1.md"
+                "file": "文本/問題/未命名.md"
               }
             }
           },
@@ -165,7 +168,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "文本/問題/1.md",
+                "file": "文本/問題/未命名.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -223,10 +226,11 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "296e2b2cdf38d644",
+  "active": "b35b3274ef44c969",
   "lastOpenFiles": [
-    "文本/問題/CDA 第六次作業.md",
+    "文本/問題/未命名.md",
     "文本/問題/1.md",
+    "文本/問題/CDA 第六次作業.md",
     "知識/程式語言/Latex/基礎知識/語法表/希臘字母.md",
     "文本/附件/圖/CDA HW6 4.12 R code.png",
     "文本/問題/CDA 第五次作業 4.2.md",
@@ -253,7 +257,6 @@
     "文本/附件/文本/惡性黑色素瘤 資料集說明.png",
     "文本/附件/文本/講義/存活分析/Survival Analysis topic 1.md",
     "知識/程式語言/Latex/基礎知識/語法表/其他符號.md",
-    "知識/程式語言/Latex/基礎知識/語法表/省略符號 ‧‧‧.md",
     "文本/附件/圖/survival function example.png",
     "知識/統計/存活分析/基礎知識/常用符號",
     "FA992700",
