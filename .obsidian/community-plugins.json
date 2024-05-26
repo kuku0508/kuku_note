@@ -21,5 +21,6 @@
   "templater-obsidian",
   "obsidian-chartsview-plugin",
   "excel",
-  "obsidian-link-embed"
+  "obsidian-link-embed",
+  "obsidian-annotator"
 ]

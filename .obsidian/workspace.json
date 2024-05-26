@@ -24,12 +24,9 @@
             "id": "79e6e4cd8e12d374",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf-annotator",
               "state": {
-                "file": "文本/問題/1.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
+                "file": "文本/問題/1.md"
               }
             }
           }
