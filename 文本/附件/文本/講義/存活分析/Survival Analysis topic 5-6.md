@@ -7,87 +7,21 @@ tags: [excalidraw]
 ==⚠  Switch to EXCALIDRAW VIEW in the MORE OPTIONS menu of this document. ⚠==
 
 
-# Text Elements
+# Excalidraw Data
+## Text Elements
 %%
-# Drawing
-```json
-{
-	"type": "excalidraw",
-	"version": 2,
-	"source": "https://github.com/zsviczian/obsidian-excalidraw-plugin/releases/tag/2.1.8",
-	"elements": [
-		{
-			"type": "embeddable",
-			"version": 85,
-			"versionNonce": 2028674474,
-			"index": "a0",
-			"isDeleted": false,
-			"id": "fCPwEbKkETvJ5Fw_WLEga",
-			"fillStyle": "solid",
-			"strokeWidth": 2,
-			"strokeStyle": "solid",
-			"roughness": 1,
-			"opacity": 100,
-			"angle": 0,
-			"x": -420.75,
-			"y": -611.4375,
-			"strokeColor": "#1e1e1e",
-			"backgroundColor": "transparent",
-			"width": 848,
-			"height": 1216,
-			"seed": 837895151,
-			"groupIds": [],
-			"frameId": null,
-			"roundness": {
-				"type": 3
-			},
-			"boundElements": [],
-			"updated": 1715973983106,
-			"link": "https://drive.google.com/file/d/1Dz6m2I0zbZDV3nHslZ366hz0VqdJJJyg/view?usp=drive_link",
-			"locked": false,
-			"scale": [
-				1,
-				1
-			]
-		}
-	],
-	"appState": {
-		"theme": "light",
-		"viewBackgroundColor": "#ffffff",
-		"currentItemStrokeColor": "#1e1e1e",
-		"currentItemBackgroundColor": "transparent",
-		"currentItemFillStyle": "solid",
-		"currentItemStrokeWidth": 2,
-		"currentItemStrokeStyle": "solid",
-		"currentItemRoughness": 1,
-		"currentItemOpacity": 100,
-		"currentItemFontFamily": 1,
-		"currentItemFontSize": 20,
-		"currentItemTextAlign": "left",
-		"currentItemStartArrowhead": null,
-		"currentItemEndArrowhead": "arrow",
-		"scrollX": 1102,
-		"scrollY": 860,
-		"zoom": {
-			"value": 1
-		},
-		"currentItemRoundness": "round",
-		"gridSize": null,
-		"gridColor": {
-			"Bold": "#C9C9C9FF",
-			"Regular": "#EDEDEDFF"
-		},
-		"currentStrokeOptions": null,
-		"previousGridSize": null,
-		"frameRendering": {
-			"enabled": true,
-			"clip": true,
-			"name": true,
-			"outline": true
-		},
-		"objectsSnapModeEnabled": false
-	},
-	"files": {}
-}
+## Drawing
+```compressed-json
+N4KAkARALgngDgUwgLgAQQQDwMYEMA2AlgCYBOuA7hADTgQBuCpAzoQPYB2KqATLZMzYBXUtiRoIACyhQ4zZAHoFAc0JRJQgEYA6bGwC2CgF7N6hbEcK4OCtptbErHALRY8RMpWdx8Q1TdIEfARcZgRmBShcZQUebTieGjoghH0EDihmbgBtcDBQMELoeHF0VM0EYmJcTWCkwshGFnYuNAAOADZ+IqbWTgA5TjFuAEYABjbxgE4AVgAWGbbuyEIO
+
+YixuCFwx+qLCZgARFKhK7gAzAjDliBJNs4BhAAUKAFFNAGkAaxeAFXoAKRmADEKAB9ADqABkXspcLtIGdCPh8ABlWB1CSCDzwiDMKCkNifBDgkjqbh8PICfGEhBomAY9BY27XAl+SQccJZNAja5sOC4bBqGCjMZja7WZQMsWUiCYbjOOYjKbaADsM2uwrQzg6IxG2jmAGY1dc8QSifc2Pg2KRNgBiEYIB0OnGaAWfZSstYWq02iT46zMfmBDI4ii
+
+kyTcNpzJYyyQIQjKaSjHgjLoysKndpGtqzEYzHkyj3COAASWIXNQ2QAutczuQ0mXuBwhMiWcI1hzmBWCg1iohuAbKQBfa6advEF7BNIZCvV65CODVE7EUYq1NTA08KYdFVtHhp3tEDifTbSWTyJRkQiMbTKNhsSUIXQGBSI4IKYgKEYHIwdfQ8EsxiMTQAC0DgANQNDgAAlmHwECDQ6DpJCMMZwIAR2If5sJgGIzAQCgAH4hEDABeK9GFBI8T2uK
+
+1sCJFc0AufArnTdxSlyBowALLiRkpKs8iHcAazoXA4DgNFcBObge2gOM0k2IhEygXYGEIAiACE3SLIQvUta07TOIzjNU7ARGDKASxOfQ0TNBBvQMiR7UdFzTPM9JLOsrT6J0vSfU2f0OEDXALLc0gLKs1IgSRVF0VKXFLWZPIIDM8KPMimzqSJEliDJNAKSKVKIus2yaTpBkEuxboUvcjIMoAJWERNOwrHjICK9LrIAeX5QVYBFaVCtqzyos4KAg
+
+VwfQkU1VA2pqtK6usoExpRQgjFKHhBva4aMp+LAoAAQSU1p0GCM4VOqjrFtSSTSEO8K2AoONcEY1Bm1bZKrpG/QXjWA6HqekJXq2AHVOYbACWRAANUZxgNarwch/AAE1uCQraICMe99BkmV6AIIRSj4woR0+nbrMa3TiBazZPRXaqPRIVb1qbFt8AZ0gSAc31UB7SANMtYHbXuKYRZFoEgRxeqEGUFsQrtF4DkVxWJYgQTLuG0qiR6qAWgrd72eS
+
+uBAjMYRmAAcU54hmdKA3qrrSaEGltYmFWZRcd7dIamCV78UJ65sCIOBuD9hBrg4R2Q9If2ZWEKAj1KUP1eSuwACsEGwTIUQjuAAFk2HWX7vczVBmLCcBSYRJFwhkoShyAA==
 ```
 %%
