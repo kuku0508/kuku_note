@@ -11,8 +11,10 @@
             "id": "b35b3274ef44c969",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "excalidraw",
+              "state": {
+                "file": "文本/附件/文本/講義/存活分析/Survival Analysis topic 4.md"
+              }
             }
           }
         ]
@@ -81,6 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "文本/附件/文本/講義/存活分析/Survival Analysis topic 4.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +100,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "文本/附件/文本/講義/存活分析/Survival Analysis topic 4.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +122,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "文本/附件/文本/講義/存活分析/Survival Analysis topic 4.md"
+              }
             }
           },
           {
@@ -159,6 +165,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "文本/附件/文本/講義/存活分析/Survival Analysis topic 4.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -218,6 +225,7 @@
   },
   "active": "b35b3274ef44c969",
   "lastOpenFiles": [
+    "文本/附件/文本/講義/存活分析/Survival Analysis topic 3.md",
     "文本/問題/未命名.md",
     "文本/問題/1.md",
     "文本/問題/CDA 第六次作業.md",
@@ -246,7 +254,6 @@
     "文本/附件/文本/講義/類別資料分析/CDA Topic 4-6.md",
     "文本/附件/文本/惡性黑色素瘤 資料集說明.png",
     "文本/附件/文本/講義/存活分析/Survival Analysis topic 1.md",
-    "知識/程式語言/Latex/基礎知識/語法表/其他符號.md",
     "文本/附件/圖/survival function example.png",
     "知識/統計/存活分析/基礎知識/常用符號",
     "FA992700",
