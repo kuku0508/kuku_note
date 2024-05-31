@@ -1,1 +1,1 @@
-mean residual life(平均餘命)，又被稱為Expected Remaining Lifetime，
+mean residual life(平均餘命)，又被稱為Expected Remaining Lifetime。是指在時間點t之後，個體沒有發生事件
