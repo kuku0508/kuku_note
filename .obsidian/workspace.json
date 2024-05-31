@@ -263,8 +263,9 @@
   },
   "active": "b35b3274ef44c969",
   "lastOpenFiles": [
-    "文本/附件/文本/講義/存活分析/Survival Analysis topic 1.md",
+    "知識/統計/存活分析/基礎知識/常用符號/Survival Function.md",
     "知識/統計/存活分析/基礎知識/常用符號/mean residual life.md",
+    "文本/附件/文本/講義/存活分析/Survival Analysis topic 1.md",
     "知識/統計/存活分析/基礎知識/常用符號/Survival Time.md",
     "知識/統計/存活分析/常用符號目錄.md",
     "知識/統計/存活分析/基礎知識/Time to event data.md",
@@ -290,7 +291,6 @@
     "未命名.md",
     "知識/統計/存活分析/基礎知識/常用符號/Hazard function.md",
     "知識/程式語言/Latex/基礎知識/語法表/大括號與行標.md",
-    "知識/程式語言/Latex/基礎知識/語法表/積分.md",
     "文本/附件/文本/惡性黑色素瘤 資料集說明.png",
     "文本/附件/圖/survival function example.png",
     "知識/統計/存活分析/基礎知識/常用符號",
