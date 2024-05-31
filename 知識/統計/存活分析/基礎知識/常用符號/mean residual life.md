@@ -3,7 +3,8 @@ mean residual life(平均餘命)，又被稱為Expected Remaining Lifetime。是
 # 公式：
 $$
 \begin{align}
-E\left[T-t\mid T>t \right]
+&E\left[T-t\mid T>t \right]\\
+=&\int^
 
 \end{align}
 $$
