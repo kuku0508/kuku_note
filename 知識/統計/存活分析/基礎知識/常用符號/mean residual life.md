@@ -13,6 +13,6 @@ m(t)
 =&\frac{\int^\infty_t tuf(u)\int^\infty_t tf(u) \,du}{S(t)}\\
 =&\frac{\int^\infty_ tuf(u)\,du\,t\int^\infty_ tf(u) \,du}{S(t)}\\
 =&\frac{\int^\infty_ tuf(u)\,du\,t\int^\infty_ tf(u) \,du}{S(t)}\\
-=&\frac{\int^\infty_ tuf(u)\,du\,t\int^\infty_ tf(u) \,du}{S(t)}\\
+=&\frac{\int^\infty_ tuf(u)\,du\,\,t\,S(t) \,du}{S(t)}\\
 \end{align}
 $$
