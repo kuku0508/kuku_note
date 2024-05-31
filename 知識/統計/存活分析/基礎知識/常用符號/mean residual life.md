@@ -3,10 +3,11 @@ mean residual life(平均餘命)，又被稱為Expected Remaining Lifetime。是
 # 公式：
 $$
 \begin{align}
-m(t)=\\
-&E\left[T-t\mid T>t \right]\\
+m(t)
+=&E\left[T-t\mid T>t \right]\\
 =&\int^\infty_t(u-t)f(u\mid T>t)du\\
 =&\int^\infty_t(u-t)\frac{f(u)}{P(T>t)}\\
-=&\int^\infty_t(u-t)\frac{f(u)}{S(t)}
+=&\int^\infty_t(u-t)\frac{f(u)}{S(t)}\\
+=&
 \end{align}
 $$
