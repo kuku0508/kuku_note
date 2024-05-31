@@ -2,7 +2,7 @@ mean residual life(平均餘命)，又被稱為Expected Remaining Lifetime。是
 - - -
 # 公式：
 $$
-\start{align}
+\begin{align}
+E\left[]
 \end{align}
-
 $$
