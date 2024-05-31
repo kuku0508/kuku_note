@@ -1,1 +1,1 @@
-mean residual life(平均餘命)，又被稱為Expected Remaining Lifetime
+mean residual life(平均餘命)，又被稱為Expected Remaining Lifetime，
