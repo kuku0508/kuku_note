@@ -5,6 +5,7 @@ $$
 \begin{align}
 &E\left[T-t\mid T>t \right]\\
 =&\int^\infty_t(u-t)f(u\mid T>t)du\\
-=&\int^\infty_t
+=&\int^\infty_t(u-t)\frac{f(u)}{P(T>t)}\\
+=&\int^
 \end{align}
 $$
