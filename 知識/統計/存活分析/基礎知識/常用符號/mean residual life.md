@@ -4,7 +4,7 @@ mean residual life(平均餘命)，又被稱為Expected Remaining Lifetime。是
 $$
 \begin{align}
 &E\left[T-t\mid T>t \right]\\
-=&\int^
+=&\int^\infty_t(u-t)f(u\mid T>t)du
 
 \end{align}
 $$
