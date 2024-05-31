@@ -8,6 +8,7 @@ m(t)
 =&\int^\infty_t(u-t)f(u\mid T>t)du\\
 =&\int^\infty_t(u-t)\frac{f(u)}{P(T>t)}\\
 =&\int^\infty_t(u-t)\frac{f(u)}{S(t)}\\
-=&\frac{\int^\infty_t(u-t)f(u)}{S(t)}
+=&\frac{\int^\infty_t(u-t)f(u)du}{S(t)}
+=&\frac{}{}
 \end{align}
 $$
