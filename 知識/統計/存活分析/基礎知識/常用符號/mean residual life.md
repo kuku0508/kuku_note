@@ -10,8 +10,8 @@ m(t)
 =&\int^\infty_t(u-t)\frac{f(u)}{S(t)}\\
 =&\frac{\int^\infty_t(u-t)f(u)du}{S(t)}\\
 =&\frac{\int^\infty_tuf(u)-tf(u) \,du}{S(t)}\\
-=&\frac{\int^\infty_t tuf(u)\int^\infty_t tf(u) \,du}{S(t)}\\
-=&\frac{\int^\infty_ tuf(u)\,du\,t\int^\infty_ tf(u) \,du}{S(t)}\\
+=&\frac{\int^\infty_ tuf(u)du-\int^\infty_t tf(u) \,du}{S(t)}\\
+=&\frac{\int^\infty_ tuf(u)\,du-t\int^\infty_ tf(u) \,du}{S(t)}\\
 =&\frac{\int^\infty_ tuf(u)\,du-t\int^\infty_ tf(u) \,du}{S(t)}\\
 =&\frac{\int^\infty_ tuf(u)\,du\,\,-tS(t)}{S(t)}\\
 -&\frac{\int^\infty_tS(u)du}{S(t)}
