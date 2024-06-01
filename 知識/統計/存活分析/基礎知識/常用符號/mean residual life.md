@@ -6,8 +6,8 @@ $$
 m(t)
 =&E\left[T-t\mid T>t \right]\\
 =&\int^\infty_t(u-t)f(u\mid T>t)du\\
-=&\int^\infty_t(u-t)\frac{f(u)}{P(T>t)}\\
-=&\int^\infty_t(u-t)\frac{f(u)}{S(t)}\\
+=&\int^\infty_t(u-t)\frac{f(u)}{P(T>t)}du\\
+=&\int^\infty_t(u-t)\frac{f(u)}{S(t)}du\\
 =&\frac{\int^\infty_t(u-t)f(u)du}{S(t)}\\
 =&\frac{\int^\infty_tuf(u)-tf(u) \,du}{S(t)}\\
 =&\frac{\int^\infty_ tuf(u)du-\int^\infty_t tf(u) \,du}{S(t)}\\
