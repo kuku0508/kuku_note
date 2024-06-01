@@ -7,7 +7,9 @@ $t_{0.5}=median$
 # 公式：
 $$
 \begin{align}
-t_p=int\lbrace t:S(t)\leq 1-p \rbrace
+t_p=inf\lbrace t:S(t)\leq 1-p \rbrace\\
+\\
+inf:最大下界
 \end{align}
 $$
 ## 連續型：當t為continuous的時候
@@ -22,5 +24,5 @@ $$
 \begin{align}
 \Rightarrow S(t_p)=P(T>t_p)=1-p
 \end{align}
-$$![[Pasted image 20240602074948.png]]
+$$![[example S(t)-t圖 in pth quantile.png]]
 - - -
