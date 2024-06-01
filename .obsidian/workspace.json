@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "未命名.md",
+                "file": "知識/統計/存活分析/基礎知識/常用符號/pth quantile.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "未命名.md",
+                "file": "知識/統計/存活分析/基礎知識/常用符號/pth quantile.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "未命名.md",
+                "file": "知識/統計/存活分析/基礎知識/常用符號/pth quantile.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "未命名.md"
+                "file": "知識/統計/存活分析/基礎知識/常用符號/pth quantile.md"
               }
             }
           },
@@ -168,7 +168,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "未命名.md",
+                "file": "知識/統計/存活分析/基礎知識/常用符號/pth quantile.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -261,8 +261,9 @@
       }
     ]
   },
-  "active": "418f87f864239790",
+  "active": "b35b3274ef44c969",
   "lastOpenFiles": [
+    "未命名.md",
     "知識/統計/存活分析/基礎知識/常用符號/pth quantile.md",
     "0.2th 0.5th example.png",
     "example S(t)-t圖 in pth quantile.png",
