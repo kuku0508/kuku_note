@@ -17,4 +17,4 @@ $$
 \begin{align}
 \Rightarrow S(t_p)=P(T>t_p)=1-p
 \end{align}
-$$
+$$![[Pasted image 20240602074948.png]]
