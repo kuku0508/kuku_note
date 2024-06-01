@@ -3,6 +3,7 @@ mean life(平均生命)。是指在一開始的時間點，距離事件發生時
 # 公式：
 $$
 \begin{align}
-E=()
+\mu=E(T)\\
+\\=mrl(0)
 \end{align}
 $$
