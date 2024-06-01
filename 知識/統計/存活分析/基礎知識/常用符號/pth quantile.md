@@ -4,5 +4,7 @@ pth quantile，就是指[[Survival Time|存活時間]]的百分位數，以$t_{p
 $t_{0.5}=median$
 - - -
 # 公式：
-## 連續型：
-當t為continu
+## 連續型：當t為continuous的時候
+$$
+F(t_p)=p(T\leq)=P
+$$
