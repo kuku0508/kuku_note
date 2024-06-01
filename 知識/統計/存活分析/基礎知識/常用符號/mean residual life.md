@@ -13,4 +13,6 @@ $$
 - 用於預測病人在治療後的預期存活時間
 - 用於預測機器或設備在運行一段時間後的預期剩餘壽命
 - - -
+![[mean residual life 圖例.png]]
+- - -
 parent::[[Survival Time]],[[Survival Function]],[[Time to event data]],[[常用符號目錄]]
