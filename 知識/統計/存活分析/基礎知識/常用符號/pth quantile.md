@@ -9,7 +9,12 @@ $t_{0.5}=median$
 $$
 \begin{align}
 &F(t_p)=p(T\leq t)=P\\
-&\Rightarrow 1-S(t_p)
+&= 1-S(t_p)
 \end{align}
 $$
 ![[example F(t)-t圖 in pth quantile.png]]
+$$
+\begin{align}
+\Rightarrow S(t_p)=P(
+\end{align}
+$$
