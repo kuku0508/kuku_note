@@ -15,6 +15,6 @@ m(t)
 =&\frac{\int^\infty_ tuf(u)\,du-t\int^\infty_ tf(u) \,du}{S(t)}\\
 =&\frac{\int^\infty_ tuf(u)\,du\,\,-tS(t)}{S(t)}\\
 =&\frac{\int^\infty_tS(u)du-tS(t)}{S(t)}\\
-=&\frac{\int^\infty_tS(u)du}{S(t)}-\frac{tS(t)}{S(t)}
+=&\frac{\int^\infty_tS(u)du}{S(t)}-t
 \end{align}
 $$
