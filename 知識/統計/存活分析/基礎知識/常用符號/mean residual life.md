@@ -9,4 +9,4 @@ m(t)
 \end{align}
 $$
 - - -
-parent::[[Survival Time]],[[
+parent::[[Survival Time]],[[Survival Function]],[[Time to event data]],[[常用符號目錄]]
