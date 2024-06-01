@@ -12,7 +12,7 @@ t_p=inf\lbrace t:S(t)\leq 1-p \rbrace\\
 inf:最大下界
 \end{align}
 $$
-BTW
+BTW：{t：條件}，{}表集合，括號裡面是他的元素。
 
 ## 連續型：當t為continuous的時候
 $$
