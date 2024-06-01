@@ -6,7 +6,9 @@ $t_{0.5}=median$
 - - -
 # 公式：
 $$
-t_p=int\
+\begin{align}
+t_p=int\lbrace t:S(t)\leq 1-p \rbrace
+\end{align}
 $$
 ## 連續型：當t為continuous的時候
 $$
