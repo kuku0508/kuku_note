@@ -13,7 +13,7 @@ inf:最大下界
 \end{align}
 $$
 BTW：{t：條件}，{}表集合，括號裡面是他的元素。
-
+![[0.2th 0.5th example.png]]
 
 ## 連續型：當t為continuous的時候
 $$

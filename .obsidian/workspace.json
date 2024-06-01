@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "知識/統計/存活分析/基礎知識/常用符號/pth quantile.md",
+                "file": "未命名.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "知識/統計/存活分析/基礎知識/常用符號/pth quantile.md",
+                "file": "未命名.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "知識/統計/存活分析/基礎知識/常用符號/pth quantile.md",
+                "file": "未命名.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "知識/統計/存活分析/基礎知識/常用符號/pth quantile.md"
+                "file": "未命名.md"
               }
             }
           },
@@ -168,7 +168,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "知識/統計/存活分析/基礎知識/常用符號/pth quantile.md",
+                "file": "未命名.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -261,10 +261,11 @@
       }
     ]
   },
-  "active": "b35b3274ef44c969",
+  "active": "418f87f864239790",
   "lastOpenFiles": [
-    "example S(t)-t圖 in pth quantile.png",
     "知識/統計/存活分析/基礎知識/常用符號/pth quantile.md",
+    "0.2th 0.5th example.png",
+    "example S(t)-t圖 in pth quantile.png",
     "example F(t)-t圖 in pth quantile.png",
     "median in Survival function.png",
     "知識/統計/存活分析/常用符號目錄.md",
@@ -306,7 +307,6 @@
     "知識/用語/網路用語",
     "文本/附件/圖/酒吞童子.png",
     "知識/用語",
-    "文本/附件/圖/散佈圖 相關性說明.png",
     "文本/附件/文本",
     "文本/附件/報告/112-2 存活分析｜惡性黑色素瘤",
     "文本/問題/未命名.canvas"
