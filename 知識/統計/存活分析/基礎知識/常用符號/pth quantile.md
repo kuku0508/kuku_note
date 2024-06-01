@@ -7,6 +7,7 @@ $t_{0.5}=median$
 # 公式：
 ## 連續型：當t為continuous的時候
 $$
+
 F(t_p)=p(T\leq)=P
 $$
-![[Pasted image 20240602074507.png]]
+![[example F(t)-t圖 in pth quantile.png]]
