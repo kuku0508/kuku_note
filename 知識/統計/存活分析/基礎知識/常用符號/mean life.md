@@ -5,7 +5,8 @@ $$
 \begin{align}
 \mu&=E(T)\\
 &=\int^\infty_0tf(t)dt\\
-=\int^\infty_0S(t)dt\\
-=mrl(0)
+&=\int^\infty_0S(t)dt\\
+&=mrl(0)
 \end{align}
 $$
+- - -
