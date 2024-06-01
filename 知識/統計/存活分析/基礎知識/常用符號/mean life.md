@@ -10,5 +10,6 @@ $$
 \end{align}
 $$
 - - -
+- - -
 parent::[[Survival Time]],[[Survival Function]],[[常用符號目錄]],[[Time to event data]]
 sibling::[[mean residual life]]
