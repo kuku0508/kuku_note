@@ -1,0 +1,1 @@
+pth quantile，就是指[[存活函數

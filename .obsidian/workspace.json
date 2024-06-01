@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "知識/統計/存活分析/基礎知識/Time to event data.md",
+                "file": "知識/統計/存活分析/基礎知識/常用符號/pth quantile.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "知識/統計/存活分析/基礎知識/Time to event data.md",
+                "file": "知識/統計/存活分析/基礎知識/常用符號/pth quantile.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "知識/統計/存活分析/基礎知識/Time to event data.md",
+                "file": "知識/統計/存活分析/基礎知識/常用符號/pth quantile.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "知識/統計/存活分析/基礎知識/Time to event data.md"
+                "file": "知識/統計/存活分析/基礎知識/常用符號/pth quantile.md"
               }
             }
           },
@@ -168,7 +168,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "知識/統計/存活分析/基礎知識/Time to event data.md",
+                "file": "知識/統計/存活分析/基礎知識/常用符號/pth quantile.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -263,6 +263,8 @@
   },
   "active": "b35b3274ef44c969",
   "lastOpenFiles": [
+    "知識/統計/存活分析/常用符號目錄.md",
+    "知識/統計/存活分析/基礎知識/Time to event data.md",
     "知識/統計/存活分析/基礎知識/常用符號/mean life.md",
     "知識/統計/存活分析/基礎知識/常用符號/mean residual life.md",
     "知識/統計/存活分析/基礎知識/常用符號/Survival Time.md",
@@ -271,9 +273,7 @@
     "知識/統計/存活分析/基礎知識/常用符號/Hazard function.md",
     "文本/附件/圖/mean life 圖例.png",
     "文本/附件/圖/mean residual life 圖例.png",
-    "知識/統計/存活分析/pth quantile.md",
-    "知識/統計/存活分析/常用符號目錄.md",
-    "知識/統計/存活分析/基礎知識/Time to event data.md",
+    "知識/統計/存活分析/基礎知識/常用符號/pth quantile.md",
     "文本/附件/文本/講義/存活分析/Survival Analysis topic 1.md",
     "文本/附件/文本/講義/存活分析/Survival Analysis topic 5-6.md",
     "文本/附件/文本/講義/存活分析/Survival Analysis topic 3.md",
