@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "知識/統計/存活分析/基礎知識/常用符號/mean residual life.md",
+                "file": "知識/統計/存活分析/基礎知識/常用符號/mean life.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "知識/統計/存活分析/基礎知識/常用符號/mean residual life.md",
+                "file": "知識/統計/存活分析/基礎知識/常用符號/mean life.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "知識/統計/存活分析/基礎知識/常用符號/mean residual life.md",
+                "file": "知識/統計/存活分析/基礎知識/常用符號/mean life.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "知識/統計/存活分析/基礎知識/常用符號/mean residual life.md"
+                "file": "知識/統計/存活分析/基礎知識/常用符號/mean life.md"
               }
             }
           },
@@ -168,7 +168,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "知識/統計/存活分析/基礎知識/常用符號/mean residual life.md",
+                "file": "知識/統計/存活分析/基礎知識/常用符號/mean life.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -263,11 +263,12 @@
   },
   "active": "b35b3274ef44c969",
   "lastOpenFiles": [
-    "知識/統計/存活分析/基礎知識/常用符號/Survival Function.md",
     "知識/統計/存活分析/基礎知識/常用符號/mean residual life.md",
+    "知識/統計/存活分析/基礎知識/常用符號/mean life.md",
+    "知識/統計/存活分析/常用符號目錄.md",
+    "知識/統計/存活分析/基礎知識/常用符號/Survival Function.md",
     "知識/統計/存活分析/基礎知識/常用符號/Survival Time.md",
     "文本/附件/文本/講義/存活分析/Survival Analysis topic 1.md",
-    "知識/統計/存活分析/常用符號目錄.md",
     "知識/統計/存活分析/基礎知識/Time to event data.md",
     "文本/附件/文本/講義/存活分析/Survival Analysis topic 5-6.md",
     "文本/附件/文本/講義/存活分析/Survival Analysis topic 3.md",
@@ -290,7 +291,6 @@
     "知識/統計/存活分析/存活分析目錄.md",
     "未命名.md",
     "知識/統計/存活分析/基礎知識/常用符號/Hazard function.md",
-    "知識/程式語言/Latex/基礎知識/語法表/大括號與行標.md",
     "文本/附件/文本/惡性黑色素瘤 資料集說明.png",
     "文本/附件/圖/survival function example.png",
     "知識/統計/存活分析/基礎知識/常用符號",
