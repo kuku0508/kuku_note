@@ -9,7 +9,7 @@ Survival Time(存活時間)，一般以T表示。是指從開始觀察到感興�
 # 備註：
 通常我們會將Random Sample 表示為$T_1,T_2,\ldots T_n$，將實際觀測值表示為$t_1,t_2,\ldots t_n$。
 且這些Survival Time應為i.i.d。
-在time to event data 裡面用f(x)呈現他的pdf。
+在time to event data 裡面用f(t)呈現他的pdf。
 - - -
 ![[time to event data.png]]
 - - -
