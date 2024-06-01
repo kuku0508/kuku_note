@@ -5,6 +5,9 @@ $t_{0.5}=median$
 ![[median in Survival function.png]]
 - - -
 # 公式：
+$$
+t_p=int\
+$$
 ## 連續型：當t為continuous的時候
 $$
 \begin{align}
@@ -18,3 +21,4 @@ $$
 \Rightarrow S(t_p)=P(T>t_p)=1-p
 \end{align}
 $$![[Pasted image 20240602074948.png]]
+- - -
