@@ -8,3 +8,5 @@ m(t)
 =&\frac{\int^\infty_tS(u)du}{S(t)}
 \end{align}
 $$
+- - -
+- 
