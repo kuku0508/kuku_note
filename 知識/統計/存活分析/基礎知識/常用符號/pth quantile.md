@@ -9,3 +9,4 @@ $t_{0.5}=median$
 $$
 F(t_p)=p(T\leq)=P
 $$
+![[Pasted image 20240602074507.png]]
