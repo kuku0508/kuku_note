@@ -12,6 +12,8 @@ t_p=inf\lbrace t:S(t)\leq 1-p \rbrace\\
 inf:最大下界
 \end{align}
 $$
+BTW
+
 ## 連續型：當t為continuous的時候
 $$
 \begin{align}
