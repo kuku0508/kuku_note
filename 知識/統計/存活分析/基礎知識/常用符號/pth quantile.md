@@ -8,13 +8,13 @@ $t_{0.5}=median$
 ## 連續型：當t為continuous的時候
 $$
 \begin{align}
-&F(t_p)=p(T\leq t)=P\\
+&F(t_p)=P(T\leq t)=p\\
 &= 1-S(t_p)
 \end{align}
 $$
 ![[example F(t)-t圖 in pth quantile.png]]
 $$
 \begin{align}
-\Rightarrow S(t_p)=P(
+\Rightarrow S(t_p)=P(T>t_p)=1-p
 \end{align}
 $$
