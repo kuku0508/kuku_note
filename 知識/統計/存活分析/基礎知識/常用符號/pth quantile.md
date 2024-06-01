@@ -14,6 +14,7 @@ inf:最大下界
 $$
 BTW：{t：條件}，{}表集合，括號裡面是他的元素。
 
+
 ## 連續型：當t為continuous的時候
 $$
 \begin{align}
