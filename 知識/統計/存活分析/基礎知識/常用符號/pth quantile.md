@@ -1,1 +1,1 @@
-pth quantile，就是指[[存活函數
+pth quantile，就是指[[Survival Function|存活函數]]或是[[Survival Time|存活時間]]的百分位數。
