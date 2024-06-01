@@ -5,15 +5,6 @@ $$
 \begin{align}
 m(t)
 =&E\left[T-t\mid T>t \right]\\
-=&\int^\infty_t(u-t)f(u\mid T>t)du\\
-=&\int^\infty_t(u-t)\frac{f(u)}{P(T>t)}du\\
-=&\int^\infty_t(u-t)\frac{f(u)}{S(t)}du\\
-=&\frac{\int^\infty_t(u-t)f(u)du}{S(t)}\\
-=&\frac{\int^\infty_tuf(u)-tf(u) \,du}{S(t)}\\
-=&\frac{\int^\infty_ tuf(u)du-\int^\infty_t tf(u) \,du}{S(t)}\\
-=&\frac{\int^\infty_ tuf(u)\,du-t\int^\infty_ tf(u) \,du}{S(t)}\\
-=&\frac{\int^\infty_ tuf(u)\,du\,\,-tS(t)}{S(t)}\\
-=&\frac{\int^\infty_tS(u)du-tS(t)}{S(t)}\\
-=&\frac{\int^\infty_tS(u)du}{S(t)}-t
+=&\frac{\int^\infty_tS(u)du}{S(t)}
 \end{align}
 $$
