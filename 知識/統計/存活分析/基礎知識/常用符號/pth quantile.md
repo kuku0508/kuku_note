@@ -31,5 +31,6 @@ $$![[example S(t)-t圖 in pth quantile.png]]
 
 ## 離散型：當t是discrete時
 我們就需要去估計S(t)
-![[Pasted image 20240602080525.png]]
+![[discrete example in pth quantile.png]]
+
 - - -
