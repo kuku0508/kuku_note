@@ -33,5 +33,6 @@ $$![[example S(t)-t圖 in pth quantile.png]]
 我們就需要去估計S(t)
 ![[discrete example in pth quantile.png]]
 我們可以看到我們在估計Survival function的時候都是看他的斷面是多少的。
-詳細請閱K-
+詳細請閱Kaplan-Meier估計法。
 - - -
+parent::[[
