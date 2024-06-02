@@ -9,6 +9,7 @@ $$
 &=mrl(0)
 \end{align}
 $$
+## Sample mean life
 - - -
 ![[mean life 圖例.png]]
 - - -
