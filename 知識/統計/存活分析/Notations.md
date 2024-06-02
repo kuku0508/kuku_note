@@ -1,6 +1,7 @@
 Notations，這邊是一些存活分析常出現的符號：
 - $T_1,T_2,\ldots,T_n$：(i.i.d　r.v.s)
+$\Rightarrow$真正事件發生時間
 - $Y_1,Y_2,\ldots,Y_n$：(i.i.d　r.v.s)
 - $C_1,C_2,\ldots,C_n$：(i.i.d　r.v.s or fixed constant)
 - $\delta_1,\delta_2,\ldots,\delta_n$：(i.i.d　r.v.s)
-- $Y_1,Y_2,\ldots,Y_n$：(i.i.d　r.v.s)
+- $t_c$：(fixed constant)
