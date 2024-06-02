@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "知識/統計/存活分析/基礎知識/Time to event data.md",
+                "file": "知識/統計/存活分析/基礎知識/event.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "知識/統計/存活分析/基礎知識/Time to event data.md",
+                "file": "知識/統計/存活分析/基礎知識/event.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "知識/統計/存活分析/基礎知識/Time to event data.md",
+                "file": "知識/統計/存活分析/基礎知識/event.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "知識/統計/存活分析/基礎知識/Time to event data.md"
+                "file": "知識/統計/存活分析/基礎知識/event.md"
               }
             }
           },
@@ -168,7 +168,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "知識/統計/存活分析/基礎知識/Time to event data.md",
+                "file": "知識/統計/存活分析/基礎知識/event.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -263,9 +263,10 @@
   },
   "active": "b35b3274ef44c969",
   "lastOpenFiles": [
+    "知識/統計/存活分析/基礎知識/Time to event data.md",
+    "知識/統計/存活分析/基礎知識/event.md",
     "知識/統計/存活分析/存活分析目錄.md",
     "知識/統計/存活分析/基礎知識/存活分析.md",
-    "知識/統計/存活分析/基礎知識/Time to event data.md",
     "知識/統計/存活分析/基礎知識/截斷/截斷.md",
     "知識/統計/存活分析/基礎知識/設限/設限.md",
     "知識/統計/存活分析/基礎知識/常用符號/Survival Time.md",
@@ -296,7 +297,6 @@
     "文本/問題/CDA 第五次作業 4.2.md",
     "文本/問題/時間數列 第二次作業.md",
     "文本/附件/文本/名言/有遺憾挺好.md",
-    "文本/附件/文本/名言/柯柏-雜菜煲食後感.md",
     "文本/附件/文本/名言",
     "文本/附件/文本/惡性黑色素瘤 資料集說明.png",
     "文本/附件/圖/survival function example.png",
