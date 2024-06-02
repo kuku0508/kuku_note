@@ -17,7 +17,7 @@ $$
 > 不是機率
 - Average hazred rate：
 $$
-\bar{h}=\frac{\sum^k_{i=1}\lbrace failures\rbrace}
+\bar{h}=\frac{\sum^k_{i=1}{}
 $$
 - - - 
 # 性質：
