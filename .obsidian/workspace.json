@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "知識/統計/存活分析/基礎知識/設限/設限.md",
+                "file": "文本/附件/文本/講義/存活分析/Survival Analysis topic 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "知識/統計/存活分析/基礎知識/設限/設限.md",
+                "file": "文本/附件/文本/講義/存活分析/Survival Analysis topic 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "知識/統計/存活分析/基礎知識/設限/設限.md"
+                "file": "文本/附件/文本/講義/存活分析/Survival Analysis topic 1.md"
               }
             }
           },
@@ -168,7 +168,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "知識/統計/存活分析/基礎知識/設限/設限.md",
+                "file": "文本/附件/文本/講義/存活分析/Survival Analysis topic 1.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -261,12 +261,12 @@
       }
     ]
   },
-  "active": "b35b3274ef44c969",
+  "active": "31ab4222f21961f4",
   "lastOpenFiles": [
+    "知識/統計/存活分析/基礎知識/設限/設限.md",
     "知識/統計/存活分析/基礎知識/設限/隨機設限.md",
     "文本/附件/文本/講義/存活分析/Survival Analysis topic 1.md",
     "知識/統計/存活分析/基礎知識/常用符號/Notations.md",
-    "知識/統計/存活分析/基礎知識/設限/設限.md",
     "知識/統計/存活分析/常用符號目錄.md",
     "知識/統計/存活分析/存活分析目錄.md",
     "知識/統計/存活分析/基礎知識/event.md",
