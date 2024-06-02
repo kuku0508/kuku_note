@@ -12,5 +12,5 @@ $$
 - - -
 ![[mean life 圖例.png]]
 - - -
-parent::[[Survival Time]],[[Survival Function]],[[常用符號目錄]],[[Time to event data]]
+parent::[[Survival Time]],[[Survival Function]],[[常用符號目錄]]
 sibling::[[mean residual life]]
