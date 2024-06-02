@@ -9,7 +9,10 @@ $$
 &=mrl(0)
 \end{align}
 $$
-## Sample mean life
+## Sample mean lifetime：
+$$
+\bar{T}=\frac{\sum^k_{i=1}t(i)}{k}
+$$
 - - -
 ![[mean life 圖例.png]]
 - - -
