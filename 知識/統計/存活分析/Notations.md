@@ -6,4 +6,5 @@ $\Rightarrow$真正觀測到的時間
 - $C_1,C_2,\ldots,C_n$：(i.i.d　r.v.s or fixed constant)
 $\Rightarrow$設限時間
 - $\delta_1,\delta_2,\ldots,\delta_n$：(i.i.d　r.v.s)
+$\Rightarrow$設限指標(0,1  事件發生於否)
 - $t_c$：(fixed constant)
