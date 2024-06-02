@@ -11,8 +11,13 @@
             "id": "b35b3274ef44c969",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "知識/統計/存活分析/基礎知識/常用符號/pth quantile.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "知識/統計/存活分析/基礎知識/常用符號/pth quantile.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "知識/統計/存活分析/基礎知識/常用符號/pth quantile.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +125,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "知識/統計/存活分析/基礎知識/常用符號/pth quantile.md"
+              }
             }
           },
           {
@@ -159,6 +168,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "知識/統計/存活分析/基礎知識/常用符號/pth quantile.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
