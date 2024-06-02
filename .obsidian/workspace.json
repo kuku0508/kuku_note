@@ -11,8 +11,13 @@
             "id": "b35b3274ef44c969",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "知識/統計/存活分析/基礎知識/設限/隨機設限.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "知識/統計/存活分析/基礎知識/設限/隨機設限.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "知識/統計/存活分析/基礎知識/設限/隨機設限.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +125,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "知識/統計/存活分析/基礎知識/設限/隨機設限.md"
+              }
             }
           },
           {
@@ -159,6 +168,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "知識/統計/存活分析/基礎知識/設限/隨機設限.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -253,6 +263,7 @@
   },
   "active": "b35b3274ef44c969",
   "lastOpenFiles": [
+    "文本/附件/文本/講義/存活分析/Survival Analysis topic 1.md",
     "知識/統計/存活分析/基礎知識/常用符號/Notations.md",
     "知識/統計/存活分析/基礎知識/設限/設限.md",
     "知識/統計/存活分析/常用符號目錄.md",
@@ -268,7 +279,6 @@
     "知識/統計/存活分析/基礎知識/常用符號/mean life.md",
     "知識/統計/存活分析/基礎知識/常用符號/Hazard function.md",
     "知識/統計/存活分析/基礎知識/常用符號/cumulative hazard function.md",
-    "文本/附件/文本/講義/存活分析/Survival Analysis topic 1.md",
     "文本/附件/圖/0.2th 0.5th example.png",
     "文本/附件/圖/discrete example in pth quantile.png",
     "未命名.md",
