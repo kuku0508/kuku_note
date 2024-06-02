@@ -28,4 +28,7 @@ $$
 \Rightarrow S(t_p)=P(T>t_p)=1-p
 \end{align}
 $$![[example S(t)-t圖 in pth quantile.png]]
+
+## 離散型：當t是discrete時
+我們就需要去估計S(t)
 - - -
