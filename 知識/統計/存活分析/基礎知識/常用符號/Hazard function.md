@@ -5,16 +5,20 @@ Hazard function(危險函數)，通常以h(t)或$\lambda(t)$表示，是指觀�
 - t就像妳在河流上面運行的時間
 - h(t)表示妳在某一個特定位置(t)遇到危險的可能性。
 - - -
-公式：
+# 公式：
 $$
 h(t)=\lambda(t)=\lim_{\Delta t\rightarrow 0}\frac{P(t\leq T <t+\Delta t|T\geq t)}{\Delta t}
 $$
 - - -
 # 備註：
+
 > 不是機率
 > 不是機率
 > 不是機率
-- 
+- Average hazred rate：
+$$
+\bar{}
+$$
 - - - 
 # 性質：
 1. $h(t)$ is a conditional failure rate **not a probability**
