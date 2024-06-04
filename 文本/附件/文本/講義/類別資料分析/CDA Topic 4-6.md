@@ -7,87 +7,21 @@ tags: [excalidraw]
 ==⚠  Switch to EXCALIDRAW VIEW in the MORE OPTIONS menu of this document. ⚠==
 
 
-# Text Elements
+# Excalidraw Data
+## Text Elements
 %%
-# Drawing
-```json
-{
-	"type": "excalidraw",
-	"version": 2,
-	"source": "https://github.com/zsviczian/obsidian-excalidraw-plugin/releases/tag/2.1.8",
-	"elements": [
-		{
-			"type": "embeddable",
-			"version": 5520,
-			"versionNonce": 1236853878,
-			"index": "a0",
-			"isDeleted": false,
-			"id": "Fc1xNSJ7PDDVRqM5lOeem",
-			"fillStyle": "solid",
-			"strokeWidth": 2,
-			"strokeStyle": "solid",
-			"roughness": 1,
-			"opacity": 100,
-			"angle": 0,
-			"x": -184.70191899792417,
-			"y": 2203.904288257929,
-			"strokeColor": "#1e1e1e",
-			"backgroundColor": "transparent",
-			"width": 1001.0056904189059,
-			"height": 1234.0313670963856,
-			"seed": 332641782,
-			"groupIds": [],
-			"frameId": null,
-			"roundness": {
-				"type": 3
-			},
-			"boundElements": [],
-			"updated": 1715974981204,
-			"link": "https://drive.google.com/file/d/1Fa86FFdbl6x3Wr4SWzDruN9ovtO5tbhy/view?usp=drive_link",
-			"locked": false,
-			"scale": [
-				1,
-				1
-			]
-		}
-	],
-	"appState": {
-		"theme": "light",
-		"viewBackgroundColor": "#ffffff",
-		"currentItemStrokeColor": "#1e1e1e",
-		"currentItemBackgroundColor": "transparent",
-		"currentItemFillStyle": "solid",
-		"currentItemStrokeWidth": 2,
-		"currentItemStrokeStyle": "dashed",
-		"currentItemRoughness": 1,
-		"currentItemOpacity": 100,
-		"currentItemFontFamily": 1,
-		"currentItemFontSize": 20,
-		"currentItemTextAlign": "left",
-		"currentItemStartArrowhead": null,
-		"currentItemEndArrowhead": "arrow",
-		"scrollX": 233.9049561414123,
-		"scrollY": -2048.4935012178867,
-		"zoom": {
-			"value": 0.8500000000000001
-		},
-		"currentItemRoundness": "round",
-		"gridSize": null,
-		"gridColor": {
-			"Bold": "#C9C9C9FF",
-			"Regular": "#EDEDEDFF"
-		},
-		"currentStrokeOptions": null,
-		"previousGridSize": null,
-		"frameRendering": {
-			"enabled": true,
-			"clip": true,
-			"name": true,
-			"outline": true
-		},
-		"objectsSnapModeEnabled": false
-	},
-	"files": {}
-}
+## Drawing
+```compressed-json
+N4KAkARALgngDgUwgLgAQQQDwMYEMA2AlgCYBOuA7hADTgQBuCpAzoQPYB2KqATLZMzYBXUtiRoIACyhQ4zZAHoFAc0JRJQgEYA6bGwC2CgF7N6hbEcK4OCtptbErHALRY8RMpWdx8Q1TdIEfARcZgRmBShcZQUebTieGjoghH0EDihmbgBtcDBQMELoeHF0VM0EYmJcTWCkwshGFnYuNABWNp4ABn4iptZOADlOMW4ARh4AZgA2AA42ydmAdlne
+
+yEIOYixuCFwu+qLCZgARFKhK7gAzAjC1iBIdgDFsMcxBgGUAKSWABWPjgBqACUAI4AWTa+AA8ghUgdIJdCPh8O9YHUJIIPPCIMwoKQ2ABrBAAdRI6m4fDyAjxhIQqJg6PQmIed3xfkkHHCWTQYzubDguGwahg4y6PSpuw4ykZ4oaEEw3GcY1mABZtEsumMAJzKrVapZangqsZLO4itA8bqTbRaroqnizWY8NoGnhau64/FEgDCbHwbFIOwAxGMEK
+
+HQ9jNIKCco2Ztff7AxI8dZmALAhlsRQyZJRZrtGK2tNbcbZra2u6JZIEIRlNJxlM1V1JmMZhqtdNFkWPbDiNxJpMeNNjStKXLY8I4ABJYjc1DZAC6d0u5DSM+4HCEyNZwk2nOYc4KctgiH7VIAvndNLviABRYJpDJzxd3IRwarnPs8pZjCtLFVarMEx2ncRAcASOzSLI8hKGQhCMNoyhsGw0oILoBgKIiwQKMQChjI8uCzNMjyPMQtTTJgkzEqQK
+
+rvMSRjHKQQiDFqbD0FAUJtFAmiSDAChmAgFAAPxCGmAC8cGMAA+mBEGgWw2BEl+qDXPgtwSsw7ilLkDRgLyVJ6VSC55Oe4BLnQuBwHAqK4Oc3BHtA1ZpDsRB1lABwMIQgkAELRhOQjxn6AbBpcoVhR52AiBmUBTuc+iol6CAJsFEghmG6URVF6QxXFvmKf5gWJjsKYcGmuDRZlpDRbFqSPEiKJoqUOJ+iyeQQJFVXZTV8U0kSpLEOSFq9O1WUZN1
+
+CW0vSjIQNUzDVn2w0ddVcVAsIdb7nO+lFEtXVxVCApCrAeaLaNOW1ZwUAEfoSLmqgW2QDtY1xY8F3vIQRilN0J2dU9qQACpYFAACCrmtOgwSXO533LakNmkMDVVsBQ1a4Mpm7bm1j1nfot6bEDiPIyEym7ATHmafiyIABoUjM2hOiqXRLJMKyqj+Y4CNgFP4AAmoqPBjMO2iTC6Ko/rMXTTBM7MQEYyH6PZEr0AQQilGMJnQ7tqSrQFxAbTscYLW
+
+1sYkG9H0blu+DDcbxDJUmqBHpA3l+sTQbelqbtuyR2JAggyhbuVwa3scQdB176uY6dE1EvtUAtHO6OW21cCBGYwjMAA4qQJvvaUCfDSuuBpD7mxMBsygK3K6Q1MEyl4irdzYEQcDcHXCB3BwhelK3fJCFAYFd0xCDh0UdgAFYINgmTvB3cBgmwWy49XFxoKpYTgJedBYeE9mmeeQA===
 ```
 %%
