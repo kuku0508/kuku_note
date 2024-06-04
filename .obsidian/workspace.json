@@ -11,8 +11,13 @@
             "id": "b35b3274ef44c969",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "知識/統計/存活分析/基礎知識/設限/設限.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "知識/統計/存活分析/基礎知識/設限/設限.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "知識/統計/存活分析/基礎知識/設限/設限.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +125,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "知識/統計/存活分析/基礎知識/設限/設限.md"
+              }
             }
           },
           {
@@ -159,6 +168,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "知識/統計/存活分析/基礎知識/設限/設限.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -283,6 +293,8 @@
   "active": "b35b3274ef44c969",
   "lastOpenFiles": [
     "知識/統計/存活分析/存活分析目錄.md",
+    "知識/統計/存活分析/基礎知識/存活分析.md",
+    "知識/統計/存活分析/基礎知識/Time to event data.md",
     "知識/統計/存活分析/存活分析基礎知識目錄.md",
     "知識/統計/存活分析/基礎知識/截斷/截斷.md",
     "知識/統計/存活分析/基礎知識/截斷/雙邊截斷.md",
@@ -305,9 +317,7 @@
     "知識/統計/統計學/統計學目錄.md",
     "知識/統計/統計知識總目錄.md",
     "文本/附件/文本/講義/存活分析/Survival Analysis topic 2.md",
-    "知識/統計/存活分析/基礎知識/Time to event data.md",
     "知識/統計/存活分析/基礎知識/常用符號/mean life.md",
-    "知識/統計/存活分析/基礎知識/常用符號/Hazard function.md",
     "文本/附件/圖/0.2th 0.5th example.png",
     "文本/附件/圖/discrete example in pth quantile.png",
     "文本/附件/圖/example S(t)-t圖 in pth quantile.png",
