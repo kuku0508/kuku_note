@@ -2,7 +2,7 @@
 
 ```dataview
 list
-from "程式語言/HTML/語法表"
+from "知識/程式語言/HTML/語法表"
 ```
 - - -
 #latex 
