@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "知識/統計/統計知識總目錄.md",
-                "mode": "preview",
+                "file": "知識/統計/統計學/統計學目錄.md",
+                "mode": "source",
                 "backlinks": true,
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "知識/統計/統計知識總目錄.md",
+                "file": "知識/統計/統計學/統計學目錄.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "知識/統計/統計知識總目錄.md",
+                "file": "知識/統計/統計學/統計學目錄.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "知識/統計/統計知識總目錄.md"
+                "file": "知識/統計/統計學/統計學目錄.md"
               }
             }
           },
@@ -168,7 +168,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "知識/統計/統計知識總目錄.md",
+                "file": "知識/統計/統計學/統計學目錄.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -202,8 +202,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 343.5,
-    "collapsed": true
+    "width": 343.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -226,77 +225,13 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "floating": {
-    "id": "eb989c5f6428b169",
-    "type": "floating",
-    "children": [
-      {
-        "id": "35a3bb8cf8fd8a07",
-        "type": "window",
-        "children": [
-          {
-            "id": "186f0c911150e4eb",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "31ab4222f21961f4",
-                "type": "leaf",
-                "state": {
-                  "type": "excalidraw",
-                  "state": {
-                    "file": "文本/附件/文本/講義/存活分析/Survival Analysis topic 1.md"
-                  }
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": 0,
-        "y": 0,
-        "width": 1280,
-        "height": 1032,
-        "maximize": false,
-        "zoom": 0
-      },
-      {
-        "id": "8fe308066a395894",
-        "type": "window",
-        "children": [
-          {
-            "id": "847c4527c09c8fae",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "006d6e0d9d8ed5f7",
-                "type": "leaf",
-                "state": {
-                  "type": "excalidraw",
-                  "state": {
-                    "file": "文本/附件/文本/講義/存活分析/Survival Analysis topic 2.md"
-                  }
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": 560,
-        "y": 117,
-        "width": 1280,
-        "height": 1032,
-        "maximize": false,
-        "zoom": 0
-      }
-    ]
-  },
   "active": "b35b3274ef44c969",
   "lastOpenFiles": [
-    "知識/統計/時間數列.md",
-    "知識/統計/統計知識總目錄.md",
     "知識/統計/存活分析/存活分析目錄.md",
-    "知識/統計/存活分析/Untitled Kanban.md",
+    "知識/統計/統計知識總目錄.md",
     "知識/統計/統計學/統計學目錄.md",
+    "知識/統計/時間數列.md",
+    "知識/統計/存活分析/Untitled Kanban.md",
     "知識/統計/存活分析/基礎知識/常用符號/Notations.md",
     "知識/統計/存活分析/基礎知識/event.md",
     "知識/統計/存活分析/基礎知識/截斷/截斷.md",
