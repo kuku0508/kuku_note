@@ -197,6 +197,10 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "obsidian-kanban:Create new board": false,
+      "obsidian42-text-transporter:Text Transporter": false,
+      "templater-obsidian:Templater": false,
+      "excel:Create Excel File": false,
       "switcher:開啟快速切換": false,
       "graph:查看關聯圖": false,
       "canvas:建立新畫布": false,
@@ -209,11 +213,7 @@
       "workspaces:管理工作區配置": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "breadcrumbs:Breadcrumbs Visualisation": false,
-      "excel:Create Excel File": false,
-      "obsidian42-text-transporter:Text Transporter": false,
-      "templater-obsidian:Templater": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false,
-      "obsidian-kanban:Create new board": false
+      "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
   "floating": {
@@ -245,7 +245,7 @@
         "x": 0,
         "y": 0,
         "width": 1280,
-        "height": 1392,
+        "height": 1032,
         "maximize": false,
         "zoom": 0
       },
@@ -271,10 +271,10 @@
           }
         ],
         "direction": "vertical",
-        "x": 1280,
-        "y": 0,
+        "x": 560,
+        "y": 117,
         "width": 1280,
-        "height": 1392,
+        "height": 1032,
         "maximize": false,
         "zoom": 0
       }
