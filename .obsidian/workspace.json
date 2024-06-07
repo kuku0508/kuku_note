@@ -21,9 +21,12 @@
             "id": "8886030a4b5837e1",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "文本/附件/文本/講義/時間數列/R語言/Drawing 2024-06-07 12.16.09.excalidraw.md"
+                "file": "文本/附件/文本/講義/時間數列/R語言/Untitled.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
               }
             }
           }
@@ -94,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "文本/附件/文本/講義/時間數列/R語言/Drawing 2024-06-07 12.16.09.excalidraw.md",
+                "file": "文本/附件/文本/講義/時間數列/R語言/Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "文本/附件/文本/講義/時間數列/R語言/Drawing 2024-06-07 12.16.09.excalidraw.md",
+                "file": "文本/附件/文本/講義/時間數列/R語言/Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "文本/附件/文本/講義/時間數列/R語言/Drawing 2024-06-07 12.16.09.excalidraw.md"
+                "file": "文本/附件/文本/講義/時間數列/R語言/Untitled.md"
               }
             }
           },
@@ -176,7 +179,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "文本/附件/文本/講義/時間數列/R語言/Drawing 2024-06-07 12.16.09.excalidraw.md",
+                "file": "文本/附件/文本/講義/時間數列/R語言/Untitled.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -300,9 +303,9 @@
   },
   "active": "8886030a4b5837e1",
   "lastOpenFiles": [
-    "文本/附件/文本/講義/時間數列/老師筆記/Time Series-Session 5.md",
-    "文本/附件/文本/講義/時間數列/R語言/Drawing 2024-06-07 12.16.09.excalidraw.md",
+    "文本/附件/文本/講義/時間數列/R語言/Time Series Computer-Session 1.md",
     "文本/附件/文本/講義/時間數列/R語言/Untitled.md",
+    "文本/附件/文本/講義/時間數列/老師筆記/Time Series-Session 5.md",
     "文本/附件/文本/講義/時間數列/老師筆記/Time Series-Session 4.md",
     "文本/附件/文本/講義/時間數列/R語言",
     "文本/附件/文本/講義/時間數列/老師筆記/Time Series-Session 6.md",
