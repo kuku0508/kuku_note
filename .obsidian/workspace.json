@@ -21,12 +21,9 @@
             "id": "8886030a4b5837e1",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "excalidraw",
               "state": {
-                "file": "文本/附件/文本/講義/時間數列/R語言/Untitled.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
+                "file": "文本/附件/文本/講義/時間數列/R語言/Time Series Computer-Session 3.md"
               }
             }
           }
@@ -97,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "文本/附件/文本/講義/時間數列/R語言/Untitled.md",
+                "file": "文本/附件/文本/講義/時間數列/R語言/Time Series Computer-Session 3.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "文本/附件/文本/講義/時間數列/R語言/Untitled.md",
+                "file": "文本/附件/文本/講義/時間數列/R語言/Time Series Computer-Session 3.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "文本/附件/文本/講義/時間數列/R語言/Untitled.md"
+                "file": "文本/附件/文本/講義/時間數列/R語言/Time Series Computer-Session 3.md"
               }
             }
           },
@@ -179,7 +176,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "文本/附件/文本/講義/時間數列/R語言/Untitled.md",
+                "file": "文本/附件/文本/講義/時間數列/R語言/Time Series Computer-Session 3.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -303,8 +300,9 @@
   },
   "active": "8886030a4b5837e1",
   "lastOpenFiles": [
+    "文本/附件/文本/講義/時間數列/R語言/Time Series Computer-Session 2.md",
+    "文本/附件/文本/講義/時間數列/R語言/Time Series Computer-Session 3.md",
     "文本/附件/文本/講義/時間數列/R語言/Time Series Computer-Session 1.md",
-    "文本/附件/文本/講義/時間數列/R語言/Untitled.md",
     "文本/附件/文本/講義/時間數列/老師筆記/Time Series-Session 5.md",
     "文本/附件/文本/講義/時間數列/老師筆記/Time Series-Session 4.md",
     "文本/附件/文本/講義/時間數列/R語言",
@@ -329,7 +327,6 @@
     "知識/程式語言/Latex/Latex知識總目錄.md",
     "知識/程式語言/HTML/語法表/HTML語法表.md",
     "知識/程式語言/HTML/HTML知識總目錄.md",
-    "知識/統計/統計學/基礎知識/母體參數.md",
     "文本/附件/圖/0.2th 0.5th example.png",
     "文本/附件/圖/discrete example in pth quantile.png",
     "文本/附件/圖/example S(t)-t圖 in pth quantile.png",
