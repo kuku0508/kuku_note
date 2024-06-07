@@ -7,85 +7,21 @@ tags: [excalidraw]
 ==⚠  Switch to EXCALIDRAW VIEW in the MORE OPTIONS menu of this document. ⚠==
 
 
-# Text Elements
+# Excalidraw Data
+## Text Elements
 %%
-# Drawing
-```json
-{
-	"type": "excalidraw",
-	"version": 2,
-	"source": "https://github.com/zsviczian/obsidian-excalidraw-plugin/releases/tag/2.0.24",
-	"elements": [
-		{
-			"id": "pRmojjUQxPzxhgiiWejaF",
-			"type": "embeddable",
-			"x": -425.75,
-			"y": -602.4375,
-			"width": 868,
-			"height": 1264,
-			"angle": 0,
-			"strokeColor": "#1e1e1e",
-			"backgroundColor": "transparent",
-			"fillStyle": "solid",
-			"strokeWidth": 2,
-			"strokeStyle": "solid",
-			"roughness": 1,
-			"opacity": 100,
-			"groupIds": [],
-			"frameId": null,
-			"roundness": {
-				"type": 3
-			},
-			"seed": 689703395,
-			"version": 446,
-			"versionNonce": 566306339,
-			"isDeleted": false,
-			"boundElements": null,
-			"updated": 1710497659301,
-			"link": "https://drive.google.com/file/d/1rW-u13OtwRqyl45G2FuAyzlF5Vo4nbAL/view?usp=drive_link",
-			"locked": false,
-			"scale": [
-				1.0393964794635373,
-				1.0393964794635373
-			]
-		}
-	],
-	"appState": {
-		"theme": "light",
-		"viewBackgroundColor": "#ffffff",
-		"currentItemStrokeColor": "#1e1e1e",
-		"currentItemBackgroundColor": "transparent",
-		"currentItemFillStyle": "solid",
-		"currentItemStrokeWidth": 2,
-		"currentItemStrokeStyle": "solid",
-		"currentItemRoughness": 1,
-		"currentItemOpacity": 100,
-		"currentItemFontFamily": 1,
-		"currentItemFontSize": 20,
-		"currentItemTextAlign": "left",
-		"currentItemStartArrowhead": null,
-		"currentItemEndArrowhead": "arrow",
-		"scrollX": 466.25,
-		"scrollY": 456.5625,
-		"zoom": {
-			"value": 1
-		},
-		"currentItemRoundness": "round",
-		"gridSize": null,
-		"gridColor": {
-			"Bold": "#C9C9C9FF",
-			"Regular": "#EDEDEDFF"
-		},
-		"currentStrokeOptions": null,
-		"previousGridSize": null,
-		"frameRendering": {
-			"enabled": true,
-			"clip": true,
-			"name": true,
-			"outline": true
-		}
-	},
-	"files": {}
-}
+## Drawing
+```compressed-json
+N4KAkARALgngDgUwgLgAQQQDwMYEMA2AlgCYBOuA7hADTgQBuCpAzoQPYB2KqATLZMzYBXUtiRoIACyhQ4zZAHoFAc0JRJQgEYA6bGwC2CgF7N6hbEcK4OCtptbErHALRY8RMpWdx8Q1TdIEfARcZgRmBShcZQUebTieGjoghH0EDihmbgBtcDBQMELoeHF0VM0EYmJcTWCkwshGFnYuNAAWNoB2fiKm1k4AOU4xbgBmADZRgEYABgBWAA4ATnGe
+
+yEIOYixuCFwZ+qLCZgARFKhK7gAzAjC1iBIduAAlfTYAKzeAVQBFTAAFIyYSSqQgAdQQb1wADEDpBLoR8PgAMqwOoSQQeWEQZhQUhsADWCFBJHU3D4eQEuIJCBRMDR6AxDzueL8kg44SyaCmdzYcFw2DUMG4sxmd2synpoopEEw3GcbR4c20nTmdyFaGc4xmcTaoxVdxxeMJAGE2Pg2KQdgBiKYIW22rGafn45Qszam82WiS46zMPmBDJYigkyTc
+
+BbjBZ3SQIQjKaTCnjjNoGhAXNARpadGajUZLVXS13COAASWInNQ2QAundLuQ0qXuBwhIjmcJNuzmOWCg1iogxhSAL53TRt4gAUWCaQy5ardyEcGq52Iws6U06nRz4x4Sz1Up7RA4+J20lk8iUZEIjG0yjYbAlCF0BgU8OCCmICimpFBziEU1GAHkoAoJ4AEc6TaOYAHEeChIQAEEYCMfAoTmAA1Ng2g4TQ4IAGQUMwEAoAB+IQ/QAXgvRgAH0DyP
+
+O5zWwQllzQa58FuaVmHcUpcgaMApm0bMdxWLoljaSY5j1UY1j4gTc1zJNOlE8TJIpSs8gHcBqzoXA4DgFFcHObhu2gaM0h2Ig4ygA4GEIQiACFnULIR3TNC1rUuDzPOs7ARADKBi3OfQUSNBAPTciQbTtKLvN89J/MChzGKclzPR2H0OD9XA/Ji0g/IC1IoQRZFUVKbEzSZPIIB83K4vyoKqUJYliFJNBySKaq8sC4LqVpekysxHoqtijI6qeYQ4
+
+w7ctuUqjrasC/8+QFWBhRmPdIFmkbAqhTgoChXB9ARdVUGm9rhvigqdqRQgjFKHg1qGmrNtSAAVLAoDgizWnQYJLiswaNvO+qsve3K2AoaNcGY1AmxbGazrqsdNjg0HwZCKHdhR6zOLxREAA1uDaBY4gk0SNwjBVZjEwbsbNfAAE1uHGcZ+LmVmlh4WY5kTaZVkqoxb30IzpXoAghFKGZtDzVbpZlmWpnU/74cCsbnOISadjdZdBtdEgrpuxtm3w
+
+bXSBIMKvVQbtIDss10atY0lnt+2oRhO4ngQZRmyy60x2OH2fediAFbhx6oG6wkFqgFpyxho3KrgQIzGEZhIJN4g9dKGPBtrfaEDdzYmA2ZQhZ7dIamCKHcTFu5sCIOBuErhA7g4HP69IKvpWEKAD1KBug6KOw3gQbBMiRZu4AAWTYLZEbLtNUFYsJwCHOgX3CIyNIHIA
 ```
 %%
