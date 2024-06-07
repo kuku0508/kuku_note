@@ -11,8 +11,10 @@
             "id": "b35b3274ef44c969",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "excalidraw",
+              "state": {
+                "file": "文本/附件/文本/講義/時間數列/空白筆記/Time Series-Session 7.md"
+              }
             }
           }
         ]
@@ -81,6 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "文本/附件/文本/講義/時間數列/空白筆記/Time Series-Session 7.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +100,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "文本/附件/文本/講義/時間數列/空白筆記/Time Series-Session 7.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +122,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "文本/附件/文本/講義/時間數列/空白筆記/Time Series-Session 7.md"
+              }
             }
           },
           {
@@ -159,6 +165,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "文本/附件/文本/講義/時間數列/空白筆記/Time Series-Session 7.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -282,6 +289,7 @@
   },
   "active": "b35b3274ef44c969",
   "lastOpenFiles": [
+    "文本/附件/文本/講義/時間數列/老師筆記/Time Series-Session 7.md",
     "知識/統計/時間數列.md",
     "知識/統計/存活分析/Untitled Kanban.md",
     "知識/統計/存活分析/基礎知識/常用符號/Notations.md",
@@ -307,7 +315,6 @@
     "知識/統計/統計學/基礎知識/統計學.md",
     "知識/統計/統計學/基礎知識/描述統計.md",
     "知識/統計/統計學/基礎知識/推論統計.md",
-    "知識/統計/統計學/圖表/圖表目錄.md",
     "文本/附件/圖/0.2th 0.5th example.png",
     "文本/附件/圖/discrete example in pth quantile.png",
     "文本/附件/圖/example S(t)-t圖 in pth quantile.png",
