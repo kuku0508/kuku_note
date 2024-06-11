@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "文本/附件/文本/講義/時間數列/老師筆記/Time Series-Session 7.md",
+                "file": "文本/附件/文本/講義/存活分析/Survival Analysis topic 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "文本/附件/文本/講義/時間數列/老師筆記/Time Series-Session 7.md",
+                "file": "文本/附件/文本/講義/存活分析/Survival Analysis topic 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "文本/附件/文本/講義/時間數列/老師筆記/Time Series-Session 7.md"
+                "file": "文本/附件/文本/講義/存活分析/Survival Analysis topic 1.md"
               }
             }
           },
@@ -176,7 +176,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "文本/附件/文本/講義/時間數列/老師筆記/Time Series-Session 7.md",
+                "file": "文本/附件/文本/講義/存活分析/Survival Analysis topic 1.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -298,8 +298,9 @@
       }
     ]
   },
-  "active": "8886030a4b5837e1",
+  "active": "31ab4222f21961f4",
   "lastOpenFiles": [
+    "文本/附件/文本/講義/時間數列/老師筆記/Time Series-Session 7.md",
     "文本/附件/文本/講義/時間數列/老師筆記/Time Series-Session 4.md",
     "文本/附件/文本/講義/存活分析/Survival Analysis topic 1.md",
     "文本/附件/文本/講義/時間數列/老師筆記/Time Series-Session 3.md",
@@ -315,7 +316,6 @@
     "文本/附件/文本/講義/時間數列/老師筆記/Time Series-Session 6.md",
     "文本/附件/文本/講義/時間數列/空白筆記/Time Series-Session 6.md",
     "文本/附件/文本/講義/時間數列/空白筆記/Time Series-Session 7.md",
-    "文本/附件/文本/講義/時間數列/老師筆記/Time Series-Session 7.md",
     "知識/統計/時間數列.md",
     "知識/統計/存活分析/Untitled Kanban.md",
     "知識/統計/存活分析/基礎知識/常用符號/Notations.md",
