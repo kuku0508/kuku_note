@@ -29,9 +29,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "f70c20e4856b4c63",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.6.3"
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -301,7 +311,7 @@
       }
     ]
   },
-  "active": "8886030a4b5837e1",
+  "active": "418f87f864239790",
   "lastOpenFiles": [
     "文本/附件/文本/名言/柯柏-雜菜煲食後感.md",
     "文本/附件/報告/112-2｜survival analysis｜惡性黑色素瘤/惡性黑色素瘤/變數介紹.md",
