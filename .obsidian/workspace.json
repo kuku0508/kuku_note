@@ -34,12 +34,13 @@
             "id": "f70c20e4856b4c63",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "kanban",
               "state": {
-                "file": "文本/附件/報告/112-2｜survival analysis｜惡性黑色素瘤/惡性黑色素瘤目錄.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
+                "file": "知識/統計/存活分析/Untitled Kanban.md",
+                "kanbanViewState": {
+                  "kanban-plugin": "board",
+                  "list-collapse": []
+                }
               }
             }
           }
@@ -110,7 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "文本/附件/報告/112-2｜survival analysis｜惡性黑色素瘤/惡性黑色素瘤目錄.md",
+                "file": "知識/統計/存活分析/Untitled Kanban.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "文本/附件/報告/112-2｜survival analysis｜惡性黑色素瘤/惡性黑色素瘤目錄.md",
+                "file": "知識/統計/存活分析/Untitled Kanban.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +151,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "文本/附件/報告/112-2｜survival analysis｜惡性黑色素瘤/惡性黑色素瘤目錄.md"
+                "file": "知識/統計/存活分析/Untitled Kanban.md"
               }
             }
           },
@@ -192,7 +193,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "文本/附件/報告/112-2｜survival analysis｜惡性黑色素瘤/惡性黑色素瘤目錄.md",
+                "file": "知識/統計/存活分析/Untitled Kanban.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -316,6 +317,8 @@
   },
   "active": "f70c20e4856b4c63",
   "lastOpenFiles": [
+    "知識/統計/存活分析/基礎知識/event.md",
+    "文本/附件/報告/112-2｜survival analysis｜惡性黑色素瘤/惡性黑色素瘤目錄.md",
     "文本/附件/報告/112-2｜survival analysis｜惡性黑色素瘤/惡性黑色素瘤/研究背景.md",
     "文本/附件/文本/名言/柯柏-雜菜煲食後感.md",
     "文本/附件/報告/112-2｜survival analysis｜惡性黑色素瘤/惡性黑色素瘤/變數介紹.md",
@@ -340,10 +343,8 @@
     "知識/統計/時間數列.md",
     "知識/統計/存活分析/Untitled Kanban.md",
     "知識/統計/存活分析/基礎知識/常用符號/Notations.md",
-    "知識/統計/存活分析/基礎知識/event.md",
     "知識/統計/存活分析/存活分析目錄.md",
     "知識/統計/存活分析/基礎知識/截斷/截斷.md",
-    "知識/統計/存活分析/基礎知識/設限/設限.md",
     "文本/附件/圖/0.2th 0.5th example.png",
     "文本/附件/圖/discrete example in pth quantile.png",
     "文本/附件/圖/example S(t)-t圖 in pth quantile.png",
