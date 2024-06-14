@@ -34,13 +34,12 @@
             "id": "f70c20e4856b4c63",
             "type": "leaf",
             "state": {
-              "type": "kanban",
+              "type": "markdown",
               "state": {
-                "file": "知識/統計/存活分析/Untitled Kanban.md",
-                "kanbanViewState": {
-                  "kanban-plugin": "board",
-                  "list-collapse": []
-                }
+                "file": "知識/統計/存活分析/基礎知識/event.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
               }
             }
           }
@@ -111,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "知識/統計/存活分析/Untitled Kanban.md",
+                "file": "知識/統計/存活分析/基礎知識/event.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -128,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "知識/統計/存活分析/Untitled Kanban.md",
+                "file": "知識/統計/存活分析/基礎知識/event.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -151,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "知識/統計/存活分析/Untitled Kanban.md"
+                "file": "知識/統計/存活分析/基礎知識/event.md"
               }
             }
           },
@@ -193,7 +192,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "知識/統計/存活分析/Untitled Kanban.md",
+                "file": "知識/統計/存活分析/基礎知識/event.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -317,6 +316,7 @@
   },
   "active": "f70c20e4856b4c63",
   "lastOpenFiles": [
+    "知識/統計/存活分析/Untitled Kanban.md",
     "知識/統計/存活分析/基礎知識/event.md",
     "文本/附件/報告/112-2｜survival analysis｜惡性黑色素瘤/惡性黑色素瘤目錄.md",
     "文本/附件/報告/112-2｜survival analysis｜惡性黑色素瘤/惡性黑色素瘤/研究背景.md",
@@ -341,7 +341,6 @@
     "文本/附件/文本/講義/時間數列/空白筆記/Time Series-Session 6.md",
     "文本/附件/文本/講義/時間數列/空白筆記/Time Series-Session 7.md",
     "知識/統計/時間數列.md",
-    "知識/統計/存活分析/Untitled Kanban.md",
     "知識/統計/存活分析/基礎知識/常用符號/Notations.md",
     "知識/統計/存活分析/存活分析目錄.md",
     "知識/統計/存活分析/基礎知識/截斷/截斷.md",
