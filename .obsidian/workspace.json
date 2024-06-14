@@ -21,9 +21,9 @@
             "id": "8886030a4b5837e1",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "image",
               "state": {
-                "file": "文本/附件/文本/講義/時間數列/老師筆記/Time Series-Session 7.md"
+                "file": "文本/附件/文本/講義/存活分析/惡性黑色素瘤 資料集說明.png"
               }
             }
           }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "文本/附件/文本/講義/存活分析/Survival Analysis topic 1.md",
+                "file": "文本/附件/文本/講義/存活分析/惡性黑色素瘤 資料集說明.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "文本/附件/文本/講義/存活分析/Survival Analysis topic 1.md",
+                "file": "文本/附件/文本/講義/存活分析/惡性黑色素瘤 資料集說明.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "文本/附件/文本/講義/存活分析/Survival Analysis topic 1.md"
+                "file": "文本/附件/文本/講義/存活分析/惡性黑色素瘤 資料集說明.png"
               }
             }
           },
@@ -176,7 +176,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "文本/附件/文本/講義/存活分析/Survival Analysis topic 1.md",
+                "file": "文本/附件/文本/講義/存活分析/惡性黑色素瘤 資料集說明.png",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -298,8 +298,9 @@
       }
     ]
   },
-  "active": "31ab4222f21961f4",
+  "active": "418f87f864239790",
   "lastOpenFiles": [
+    "文本/附件/文本/講義/存活分析/Survival Analysis topic 5-6.md",
     "文本/附件/文本/講義/時間數列/老師筆記/Time Series-Session 7.md",
     "文本/附件/文本/講義/存活分析/Survival Analysis topic 1.md",
     "文本/附件/文本/講義/時間數列/老師筆記/Time Series-Session 4.md",
@@ -326,7 +327,6 @@
     "知識/統計/存活分析/基礎知識/存活分析.md",
     "知識/統計/存活分析/基礎知識/Time to event data.md",
     "知識/統計/存活分析/存活分析基礎知識目錄.md",
-    "知識/統計/存活分析/基礎知識/截斷/雙邊截斷.md",
     "文本/附件/圖/0.2th 0.5th example.png",
     "文本/附件/圖/discrete example in pth quantile.png",
     "文本/附件/圖/example S(t)-t圖 in pth quantile.png",
@@ -336,7 +336,7 @@
     "文本/附件/圖/mean residual life 圖例.png",
     "文本/附件/圖/CDA HW6 4.12 R code.png",
     "文本/附件/文本/名言",
-    "文本/附件/文本/惡性黑色素瘤 資料集說明.png",
+    "文本/附件/文本/講義/存活分析/惡性黑色素瘤 資料集說明.png",
     "文本/附件/圖/survival function example.png",
     "知識/統計/存活分析/基礎知識/常用符號",
     "FA992700",
