@@ -39,22 +39,9 @@
                 "file": "文本/附件/文本/講義/類別資料分析/CDA Topic 2.md"
               }
             }
-          },
-          {
-            "id": "84d541895aeadc4f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "未命名.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -120,7 +107,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "未命名.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,7 +123,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "未命名.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -202,7 +187,6 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "未命名.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -262,6 +246,7 @@
   },
   "active": "418f87f864239790",
   "lastOpenFiles": [
+    "文本/附件/文本/講義/時間數列/老師筆記/Time Series-Session 5.md",
     "文本/附件/文本/講義/類別資料分析/CDA Topic 2.md",
     "未命名.md",
     "文本/附件/報告/112-2｜survival analysis｜惡性黑色素瘤/惡性黑色素瘤/survMelanoma.xls.md",
@@ -285,7 +270,6 @@
     "文本/附件/文本/講義/時間數列/R語言/Time Series Computer-Session 2.md",
     "文本/附件/文本/講義/時間數列/R語言/Time Series Computer-Session 3.md",
     "文本/附件/文本/講義/時間數列/R語言/Time Series Computer-Session 1.md",
-    "文本/附件/文本/講義/時間數列/老師筆記/Time Series-Session 5.md",
     "文本/附件/文本/講義/時間數列/R語言",
     "文本/附件/文本/講義/時間數列/老師筆記/Time Series-Session 6.md",
     "文本/附件/文本/講義/時間數列/空白筆記/Time Series-Session 6.md",
