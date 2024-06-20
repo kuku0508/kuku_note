@@ -94,7 +94,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 301.5
+    "width": 395.5
   },
   "right": {
     "id": "1e2f35858b280e10",
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "知識/統計/存活分析/生命表/當代／截斷面生命表.md",
+                "file": "文本/附件/文本/講義/存活分析/Survival Analysis topic 2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "知識/統計/存活分析/生命表/當代／截斷面生命表.md",
+                "file": "文本/附件/文本/講義/存活分析/Survival Analysis topic 2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "知識/統計/存活分析/生命表/當代／截斷面生命表.md"
+                "file": "文本/附件/文本/講義/存活分析/Survival Analysis topic 2.md"
               }
             }
           },
@@ -192,7 +192,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "知識/統計/存活分析/生命表/當代／截斷面生命表.md",
+                "file": "文本/附件/文本/講義/存活分析/Survival Analysis topic 2.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -278,19 +278,19 @@
         "direction": "vertical",
         "x": 0,
         "y": 0,
-        "width": 1280,
+        "width": 1209,
         "height": 1392,
         "maximize": false,
         "zoom": 0
       }
     ]
   },
-  "active": "f70c20e4856b4c63",
+  "active": "aee137e9fd7fcedc",
   "lastOpenFiles": [
-    "Pasted image 20240621043203.png",
+    "知識/統計/存活分析/生命表/當代／截斷面生命表.md",
+    "當代生命表 美國人口的存活曲線(1989~1981年).png",
     "知識/統計/存活分析/存活分析目錄.md",
     "文本/附件/文本/講義/存活分析/Survival Analysis topic 2.md",
-    "知識/統計/存活分析/生命表/當代／截斷面生命表.md",
     "知識/統計/存活分析/生命表",
     "當代生命表 美國30歲以下的生命表.png",
     "知識/程式語言/Latex/基礎知識/語法表/希臘字母.md",
@@ -324,7 +324,6 @@
     "文本/附件/圖/median in Survival function.png",
     "文本/附件/圖/mean life 圖例.png",
     "文本/附件/圖/mean residual life 圖例.png",
-    "文本/附件/圖/CDA HW6 4.12 R code.png",
     "文本/附件/文本/名言",
     "知識/統計/存活分析/基礎知識/常用符號",
     "FA992700",
