@@ -36,7 +36,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "知識/統計/存活分析/當代／截斷面生命表.md",
+                "file": "知識/程式語言/Latex/基礎知識/語法表/特殊符號.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -94,8 +94,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 301.5,
-    "collapsed": true
+    "width": 301.5
   },
   "right": {
     "id": "1e2f35858b280e10",
@@ -111,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "知識/統計/存活分析/當代／截斷面生命表.md",
+                "file": "知識/程式語言/Latex/基礎知識/語法表/特殊符號.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -128,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "知識/統計/存活分析/當代／截斷面生命表.md",
+                "file": "知識/程式語言/Latex/基礎知識/語法表/特殊符號.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -151,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "知識/統計/存活分析/當代／截斷面生命表.md"
+                "file": "知識/程式語言/Latex/基礎知識/語法表/特殊符號.md"
               }
             }
           },
@@ -193,7 +192,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "知識/統計/存活分析/當代／截斷面生命表.md",
+                "file": "知識/程式語言/Latex/基礎知識/語法表/特殊符號.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -288,8 +287,10 @@
   },
   "active": "f70c20e4856b4c63",
   "lastOpenFiles": [
-    "文本/附件/文本/講義/存活分析/Survival Analysis topic 2.md",
+    "知識/程式語言/Latex/基礎知識/語法表/其他符號.md",
+    "知識/程式語言/Latex/基礎知識/語法表/希臘字母.md",
     "知識/統計/存活分析/當代／截斷面生命表.md",
+    "文本/附件/文本/講義/存活分析/Survival Analysis topic 2.md",
     "知識/統計/存活分析/存活分析目錄.md",
     "知識/統計/存活分析/常用符號目錄.md",
     "知識/統計/存活分析/存活分析基礎知識目錄.md",
@@ -313,8 +314,6 @@
     "文本/附件/文本/講義/時間數列/老師筆記/Time Series-Session 4.md",
     "文本/附件/文本/講義/時間數列/老師筆記/Time Series-Session 3.md",
     "文本/附件/文本/講義/時間數列/老師筆記/Time Series-Session 1.md",
-    "文本/附件/文本/講義/時間數列/老師筆記/Time Series-Session 2.md",
-    "文本/附件/文本/講義/類別資料分析/CDA Topic 1.md",
     "文本/附件/文本/講義/時間數列/R語言",
     "文本/附件/圖/0.2th 0.5th example.png",
     "文本/附件/圖/discrete example in pth quantile.png",
