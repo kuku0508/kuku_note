@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "文本/附件/文本/講義/存活分析/Survival Analysis topic 2.md",
+                "file": "知識/統計/存活分析/當代／截斷面生命表.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "文本/附件/文本/講義/存活分析/Survival Analysis topic 2.md",
+                "file": "知識/統計/存活分析/當代／截斷面生命表.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "文本/附件/文本/講義/存活分析/Survival Analysis topic 2.md"
+                "file": "知識/統計/存活分析/當代／截斷面生命表.md"
               }
             }
           },
@@ -192,7 +192,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "文本/附件/文本/講義/存活分析/Survival Analysis topic 2.md",
+                "file": "知識/統計/存活分析/當代／截斷面生命表.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -285,14 +285,14 @@
       }
     ]
   },
-  "active": "aee137e9fd7fcedc",
+  "active": "f70c20e4856b4c63",
   "lastOpenFiles": [
+    "文本/附件/文本/講義/存活分析/Survival Analysis topic 2.md",
     "知識/統計/存活分析/當代／截斷面生命表.md",
     "當代生命表 美國30歲以下的生命表.png",
     "知識/程式語言/Latex/基礎知識/語法表/希臘字母.md",
     "知識/程式語言/Latex/基礎知識/語法表/其他符號.md",
     "知識/程式語言/Latex/基礎知識/語法表/特殊符號.md",
-    "文本/附件/文本/講義/存活分析/Survival Analysis topic 2.md",
     "知識/統計/存活分析/存活分析目錄.md",
     "知識/統計/存活分析/常用符號目錄.md",
     "知識/統計/存活分析/存活分析基礎知識目錄.md",
