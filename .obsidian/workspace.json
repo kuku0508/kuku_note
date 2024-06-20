@@ -34,9 +34,12 @@
             "id": "f70c20e4856b4c63",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "文本/附件/文本/講義/類別資料分析/CDA Topic 2.md"
+                "file": "知識/用語/網路用語目錄.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
               }
             }
           }
@@ -107,6 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "知識/用語/網路用語目錄.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,6 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "知識/用語/網路用語目錄.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "未命名.md"
+                "file": "知識/用語/網路用語目錄.md"
               }
             }
           },
@@ -187,6 +192,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "知識/用語/網路用語目錄.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -244,11 +250,12 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "418f87f864239790",
+  "active": "f70c20e4856b4c63",
   "lastOpenFiles": [
+    "知識/用語/網路用語/電子陽痿.md",
     "文本/附件/文本/講義/時間數列/老師筆記/Time Series-Session 5.md",
-    "文本/附件/文本/講義/類別資料分析/CDA Topic 2.md",
     "未命名.md",
+    "文本/附件/文本/講義/類別資料分析/CDA Topic 2.md",
     "文本/附件/報告/112-2｜survival analysis｜惡性黑色素瘤/惡性黑色素瘤/survMelanoma.xls.md",
     "文本/附件/文本/名言/羅南森學長-寫給辯論門外的少年.md",
     "知識/統計/存活分析/基礎知識/event.md",
@@ -273,7 +280,6 @@
     "文本/附件/文本/講義/時間數列/R語言",
     "文本/附件/文本/講義/時間數列/老師筆記/Time Series-Session 6.md",
     "文本/附件/文本/講義/時間數列/空白筆記/Time Series-Session 6.md",
-    "文本/附件/文本/講義/時間數列/空白筆記/Time Series-Session 7.md",
     "文本/附件/圖/0.2th 0.5th example.png",
     "文本/附件/圖/discrete example in pth quantile.png",
     "文本/附件/圖/example S(t)-t圖 in pth quantile.png",
