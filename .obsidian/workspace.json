@@ -36,7 +36,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "知識/統計/存活分析/存活分析目錄.md",
+                "file": "知識/統計/存活分析/Kaplan-Meier方法.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "知識/統計/存活分析/存活分析目錄.md",
+                "file": "知識/統計/存活分析/Kaplan-Meier方法.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "知識/統計/存活分析/存活分析目錄.md",
+                "file": "知識/統計/存活分析/Kaplan-Meier方法.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "知識/統計/存活分析/存活分析目錄.md"
+                "file": "知識/統計/存活分析/Kaplan-Meier方法.md"
               }
             }
           },
@@ -192,7 +192,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "知識/統計/存活分析/存活分析目錄.md",
+                "file": "知識/統計/存活分析/Kaplan-Meier方法.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -287,8 +287,9 @@
   },
   "active": "f70c20e4856b4c63",
   "lastOpenFiles": [
-    "文本/附件/文本/講義/存活分析/Survival Analysis topic 2.md",
     "知識/統計/存活分析/存活分析目錄.md",
+    "知識/統計/存活分析/Kaplan-Meier方法.md",
+    "文本/附件/文本/講義/存活分析/Survival Analysis topic 2.md",
     "知識/統計/存活分析/生命表/縱向／世代生命表.md",
     "知識/統計/存活分析/基礎知識/常用符號/pth quantile.md",
     "知識/統計/存活分析/基礎知識/常用符號/Survival Time.md",
@@ -319,7 +320,6 @@
     "知識/統計/存活分析/基礎知識/event.md",
     "知識/統計/存活分析/Untitled Kanban.md",
     "文本/附件/報告/112-2｜survival analysis｜惡性黑色素瘤/惡性黑色素瘤目錄.md",
-    "文本/附件/報告/112-2｜survival analysis｜惡性黑色素瘤/惡性黑色素瘤/研究背景.md",
     "文本/附件/文本/講義/存活分析/惡性黑色素瘤 資料集說明.png",
     "文本/附件/文本/講義/時間數列/R語言",
     "文本/附件/圖/discrete example in pth quantile.png",
