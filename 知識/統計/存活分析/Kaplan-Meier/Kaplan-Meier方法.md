@@ -9,3 +9,5 @@ S(t_j)&=S(t_{j-1})P(T>t_j\mid T>t_{j-1})\\
 $$
 上面那一行是KM公式，下面那一行是Product Limit公式
 - - -
+# 應用：
+Table
