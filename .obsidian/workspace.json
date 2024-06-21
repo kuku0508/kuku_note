@@ -36,7 +36,7 @@
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "文本/書/Analyzing Baseball Data with R, Second Edition_11zon.pdf.md"
+                "file": "文本/書/Analyzing Baseball Data with R, Second Edition.md"
               }
             }
           }
@@ -107,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "文本/書/Analyzing Baseball Data with R, Second Edition_11zon.pdf.md",
+                "file": "文本/書/Analyzing Baseball Data with R, Second Edition.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "文本/書/Analyzing Baseball Data with R, Second Edition_11zon.pdf.md",
+                "file": "文本/書/Analyzing Baseball Data with R, Second Edition.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "文本/書/Analyzing Baseball Data with R, Second Edition_11zon.pdf.md"
+                "file": "文本/書/Analyzing Baseball Data with R, Second Edition.md"
               }
             }
           },
@@ -189,7 +189,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "文本/書/Analyzing Baseball Data with R, Second Edition_11zon.pdf.md",
+                "file": "文本/書/Analyzing Baseball Data with R, Second Edition.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -285,7 +285,7 @@
   "active": "418f87f864239790",
   "lastOpenFiles": [
     "文本/書/辯論的實戰技巧.md",
-    "文本/書/Analyzing Baseball Data with R, Second Edition_11zon.pdf.md",
+    "文本/書/Analyzing Baseball Data with R, Second Edition.md",
     "文本/書/Time Series Analysis and Its Applications：With R Examples.md",
     "文本/書/大數據分析與應用實戰 統計機器學習之資料導向程式設計.md",
     "知識/統計/存活分析/Kaplan-Meier/Kaplan-Meier方法.md",
