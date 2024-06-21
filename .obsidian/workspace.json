@@ -34,8 +34,10 @@
             "id": "f70c20e4856b4c63",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "image",
+              "state": {
+                "file": "文本/附件/圖/0.2th 0.5th example.png"
+              }
             }
           }
         ],
@@ -105,6 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "文本/附件/圖/0.2th 0.5th example.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,6 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "文本/附件/圖/0.2th 0.5th example.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -142,7 +146,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "文本/附件/圖/0.2th 0.5th example.png"
+              }
             }
           },
           {
@@ -183,6 +189,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "文本/附件/圖/0.2th 0.5th example.png",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
