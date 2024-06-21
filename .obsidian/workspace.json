@@ -36,7 +36,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "知識/統計/存活分析/Kaplan-Meier/Kaplan-Meier方法.md",
+                "file": "知識/程式語言/Latex/基礎知識/語法表/集合符號.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "知識/統計/存活分析/Kaplan-Meier/Kaplan-Meier方法.md",
+                "file": "知識/程式語言/Latex/基礎知識/語法表/集合符號.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "知識/統計/存活分析/Kaplan-Meier/Kaplan-Meier方法.md",
+                "file": "知識/程式語言/Latex/基礎知識/語法表/集合符號.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "知識/統計/存活分析/Kaplan-Meier/Kaplan-Meier方法.md"
+                "file": "知識/程式語言/Latex/基礎知識/語法表/集合符號.md"
               }
             }
           },
@@ -192,7 +192,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "知識/統計/存活分析/Kaplan-Meier/Kaplan-Meier方法.md",
+                "file": "知識/程式語言/Latex/基礎知識/語法表/集合符號.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -286,8 +286,8 @@
   },
   "active": "f70c20e4856b4c63",
   "lastOpenFiles": [
-    "文本/附件/文本/講義/存活分析/Survival Analysis topic 2.md",
     "知識/統計/存活分析/Kaplan-Meier/Kaplan-Meier方法.md",
+    "文本/附件/文本/講義/存活分析/Survival Analysis topic 2.md",
     "文本/書/Analyzing Baseball Data with R, Second Edition.md",
     "文本/書/辯論的實戰技巧.md",
     "文本/書/Time Series Analysis and Its Applications：With R Examples.md",
