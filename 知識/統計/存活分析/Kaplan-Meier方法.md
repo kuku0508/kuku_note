@@ -1,1 +1,1 @@
-Kaplan-Meier
+Kaplan-Meier方法，也被稱為Product Limit方法

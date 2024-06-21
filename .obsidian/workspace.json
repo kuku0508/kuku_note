@@ -36,7 +36,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "知識/統計/存活分析/Kaplan-Meier方法.md",
+                "file": "知識/統計/存活分析/生命表/縱向／世代生命表.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "知識/統計/存活分析/Kaplan-Meier方法.md",
+                "file": "知識/統計/存活分析/生命表/縱向／世代生命表.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "知識/統計/存活分析/Kaplan-Meier方法.md",
+                "file": "知識/統計/存活分析/生命表/縱向／世代生命表.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "知識/統計/存活分析/Kaplan-Meier方法.md"
+                "file": "知識/統計/存活分析/生命表/縱向／世代生命表.md"
               }
             }
           },
@@ -192,7 +192,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "知識/統計/存活分析/Kaplan-Meier方法.md",
+                "file": "知識/統計/存活分析/生命表/縱向／世代生命表.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -226,8 +226,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 343.5,
-    "collapsed": true
+    "width": 343.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -287,8 +286,8 @@
   },
   "active": "f70c20e4856b4c63",
   "lastOpenFiles": [
-    "文本/附件/文本/講義/存活分析/Survival Analysis topic 2.md",
     "知識/統計/存活分析/Kaplan-Meier方法.md",
+    "文本/附件/文本/講義/存活分析/Survival Analysis topic 2.md",
     "知識/統計/存活分析/存活分析目錄.md",
     "知識/統計/存活分析/生命表/縱向／世代生命表.md",
     "知識/統計/存活分析/基礎知識/常用符號/pth quantile.md",
