@@ -43,4 +43,5 @@ $$
 |  32   |   1   | 1     | 0     | $\hat{S}(3)=0.6667\times\frac{7}{8}=0.5833\approx0$                           | $=\frac{1-1}{12}$   |
 ![[Kaplan-Meier 40歲HIV 存活曲線.png]]
 - - -
-parent::[[存活分析目錄]],[[ㄐㄧ
+parent::[[存活分析目錄]],[[Survival Function]]
+sibling::[[縱向／世代生命表]]
