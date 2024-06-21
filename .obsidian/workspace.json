@@ -34,12 +34,9 @@
             "id": "f70c20e4856b4c63",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "excalidraw",
               "state": {
-                "file": "知識/統計/存活分析/Kaplan-Meier/Kaplan-Meier方法.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
+                "file": "文本/書/大數據分析與應用實戰 統計機器學習之資料導向程式設計.md"
               }
             }
           }
@@ -110,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "知識/統計/存活分析/Kaplan-Meier/Kaplan-Meier方法.md",
+                "file": "文本/書/大數據分析與應用實戰 統計機器學習之資料導向程式設計.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "知識/統計/存活分析/Kaplan-Meier/Kaplan-Meier方法.md",
+                "file": "文本/書/大數據分析與應用實戰 統計機器學習之資料導向程式設計.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "知識/統計/存活分析/Kaplan-Meier/Kaplan-Meier方法.md"
+                "file": "文本/書/大數據分析與應用實戰 統計機器學習之資料導向程式設計.md"
               }
             }
           },
@@ -192,7 +189,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "知識/統計/存活分析/Kaplan-Meier/Kaplan-Meier方法.md",
+                "file": "文本/書/大數據分析與應用實戰 統計機器學習之資料導向程式設計.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -287,8 +284,8 @@
   },
   "active": "f70c20e4856b4c63",
   "lastOpenFiles": [
-    "文本/附件/文本/講義/存活分析/Survival Analysis topic 2.md",
     "知識/統計/存活分析/Kaplan-Meier/Kaplan-Meier方法.md",
+    "文本/附件/文本/講義/存活分析/Survival Analysis topic 2.md",
     "知識/程式語言/Latex/基礎知識/語法表/連乘.md",
     "知識/統計/存活分析/Kaplan-Meier",
     "知識/統計/存活分析/存活分析目錄.md",
