@@ -1,1 +1,1 @@
-Kaplan-Meier方法，也被稱為Product Limit方法
+Kaplan-Meier方法，也被稱為Product Limit方法，是一種無母數估計方法。
