@@ -1,1 +1,8 @@
 Kaplan-Meier方法，也被稱為Product Limit方法，是一種無母數估計方法。Kaplan-Meier方法不是將時間分群成區間，而是用到每個個體確實存活時間的無母數技巧。而Kaplan-Meier方法能夠用於具有設限情況的存活資料。
+- - -
+# 公式：
+$$
+\begin{align}
+S(t_j)=S()
+\end{align}
+$$
