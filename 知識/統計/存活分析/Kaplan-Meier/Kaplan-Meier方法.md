@@ -7,3 +7,5 @@ S(t_j)&=S(t_{j-1})P(T>t_j\mid T>t_{j-1})\\
 &=\prod_{i=1}^jP(T>t_i\mid T>t_{i-1})=\prod^j_{i=1}(1-\frac{d_i}{n_i})=\prod^j_{i=1}(\frac{n_i-d_i}{n_i})
 \end{align}
 $$
+
+- - -
