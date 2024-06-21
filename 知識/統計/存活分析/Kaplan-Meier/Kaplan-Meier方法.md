@@ -4,6 +4,6 @@ Kaplan-Meier方法，也被稱為Product Limit方法，是一種無母數估計�
 $$
 \begin{align}
 S(t_j)&=S(t_{j-1})P(T>t_j\mid T>t_{j-1})\\
-&=\prod
+&=\prod_{i=1}^jP(T>t_j)
 \end{align}
 $$
