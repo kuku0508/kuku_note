@@ -21,4 +21,4 @@ $$
 $$
 - - -
 parent::[[Survival Function]],[[Kaplan-Meier方法]]
-child::[[Survival Fuc
+child::[[Interval of Survival Function]]
