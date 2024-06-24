@@ -34,8 +34,13 @@
             "id": "f70c20e4856b4c63",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "知識/統計/存活分析/Kaplan-Meier估計/Interval of Survival Function.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
             }
           }
         ],
@@ -105,6 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "知識/統計/存活分析/Kaplan-Meier估計/Interval of Survival Function.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,6 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "知識/統計/存活分析/Kaplan-Meier估計/Interval of Survival Function.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -142,7 +149,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "知識/統計/存活分析/Kaplan-Meier估計/Interval of Survival Function.md"
+              }
             }
           },
           {
@@ -183,6 +192,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "知識/統計/存活分析/Kaplan-Meier估計/Interval of Survival Function.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -279,9 +289,9 @@
   "lastOpenFiles": [
     "知識/統計/存活分析/Kaplan-Meier估計/Greenwood's formula.md",
     "知識/統計/存活分析/Kaplan-Meier估計/Interval of Survival Function.md",
+    "知識/統計/存活分析/存活分析目錄.md",
     "文本/附件/文本/講義/存活分析/Survival Analysis topic 2.md",
     "知識/統計/存活分析/基礎知識/常用符號/mean life.md",
-    "知識/統計/存活分析/存活分析目錄.md",
     "知識/統計/存活分析/Kaplan-Meier估計/Kaplan-Meier方法.md",
     "知識/統計/存活分析/基礎知識/常用符號/Survival Function.md",
     "文本/附件/圖/離群值處理方式 分佈圖.png",
