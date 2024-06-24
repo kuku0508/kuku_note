@@ -21,7 +21,7 @@ $$
 $$
 - - -
 # 備註：
-- 當我們得到了[[Survival Function|存活函數]]的變異數後，我們就可以去[[Interval of Survival Function|估算存活函數的信賴區間]]。
+- 當我們得到了[[Survival Function|存活函數]]的變異數後，我們就可以去[[confidance Interval of Survival Function|估算存活函數的信賴區間]]。
 - - -
 parent::[[Survival Function]],[[Kaplan-Meier方法]]
-child::[[Interval of Survival Function]]
+child::[[confidance Interval of Survival Function]]
