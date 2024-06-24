@@ -14,4 +14,5 @@ $$
 $$
 Var(\hat{S}(t))=\hat{S}(t)^2\sum_{t_i\leq t}\frac{d_i}{n_i(n_i-d_i)}
 $$
-- # 步驟三：
+- # 步驟三：得到Greenwood's formula：
+	最後得到Greenwood's formula
