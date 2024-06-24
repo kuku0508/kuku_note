@@ -21,6 +21,6 @@ $$
 $$
 - - -
 # 備註：
-- 當我們得到了
+- 當我們得到了[[Survival Function|存活函數]]的變異數後，
 parent::[[Survival Function]],[[Kaplan-Meier方法]]
 child::[[Interval of Survival Function]]
