@@ -1,1 +1,1 @@
-當我們今天得到了[[Greenwood's formula|存活函數的變異數]]後，
+當我們今天得到了[[Greenwood's formula|存活函數的變異數]]後，我們就可以透過
