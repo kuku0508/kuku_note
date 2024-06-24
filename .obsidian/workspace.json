@@ -36,7 +36,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "知識/統計/存活分析/Kaplan-Meier估計/Greenwood's formula.md",
+                "file": "知識/統計/存活分析/Kaplan-Meier估計/Kaplan-Meier方法.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "知識/統計/存活分析/Kaplan-Meier估計/Greenwood's formula.md",
+                "file": "知識/統計/存活分析/Kaplan-Meier估計/Kaplan-Meier方法.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "知識/統計/存活分析/Kaplan-Meier估計/Greenwood's formula.md",
+                "file": "知識/統計/存活分析/Kaplan-Meier估計/Kaplan-Meier方法.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "知識/統計/存活分析/Kaplan-Meier估計/Greenwood's formula.md"
+                "file": "知識/統計/存活分析/Kaplan-Meier估計/Kaplan-Meier方法.md"
               }
             }
           },
@@ -192,7 +192,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "知識/統計/存活分析/Kaplan-Meier估計/Greenwood's formula.md",
+                "file": "知識/統計/存活分析/Kaplan-Meier估計/Kaplan-Meier方法.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -287,8 +287,8 @@
   },
   "active": "f70c20e4856b4c63",
   "lastOpenFiles": [
-    "文本/附件/文本/講義/存活分析/Survival Analysis topic 2.md",
     "知識/統計/存活分析/Kaplan-Meier估計/Greenwood's formula.md",
+    "文本/附件/文本/講義/存活分析/Survival Analysis topic 2.md",
     "知識/統計/存活分析/存活分析目錄.md",
     "知識/統計/存活分析/Kaplan-Meier估計/Kaplan-Meier方法.md",
     "文本/附件/圖/離群值處理方式 分佈圖.png",
