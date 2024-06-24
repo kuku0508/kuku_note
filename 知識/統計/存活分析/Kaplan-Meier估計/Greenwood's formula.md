@@ -1,4 +1,4 @@
-在估計[[Survival Function]]存活函數的變異數，我們會使用Greenwood's formula。
+在估計[[Survival Function|存活函數]]的變異數，我們會使用Greenwood's formula。
 - - -
 # 公式推導：
 - 在推導Greenwood's formula之前，需要先認知以下假設
