@@ -12,5 +12,6 @@ $$
 - # 步驟二、累積變異數：
 	存活函數嗜多個時間點上的存活機率的乘積，因此整體變異數需要考慮每個時間點的累積影響。
 $$
-Var(\hat{S}(t))=\hat{S}(t)^2\sum_{t_i}\frac{d_i}{n_i(n_i-d_i)}
+Var(\hat{S}(t))=\hat{S}(t)^2\sum_{t_i\leq t}\frac{d_i}{n_i(n_i-d_i)}
 $$
+- # 步驟三：
