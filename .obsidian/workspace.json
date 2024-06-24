@@ -285,10 +285,10 @@
       }
     ]
   },
-  "active": "f70c20e4856b4c63",
+  "active": "418f87f864239790",
   "lastOpenFiles": [
-    "知識/統計/存活分析/KM存活函數變異數估計.md",
-    "知識/統計/存活分析/Kaplan-Meier/Kaplan-Meier方法.md",
+    "知識/統計/存活分析/Kaplan-Meier估計/Greenwood's formula.md",
+    "知識/統計/存活分析/Kaplan-Meier估計/Kaplan-Meier方法.md",
     "文本/附件/文本/講義/存活分析/Survival Analysis topic 2.md",
     "知識/統計/存活分析/存活分析目錄.md",
     "文本/附件/圖/離群值處理方式 分佈圖.png",
@@ -301,7 +301,7 @@
     "文本/書/Time Series Analysis and Its Applications：With R Examples.md",
     "文本/書/大數據分析與應用實戰 統計機器學習之資料導向程式設計.md",
     "知識/程式語言/Latex/基礎知識/語法表/連乘.md",
-    "知識/統計/存活分析/Kaplan-Meier",
+    "知識/統計/存活分析/Kaplan-Meier估計",
     "知識/統計/存活分析/生命表/縱向／世代生命表.md",
     "知識/統計/存活分析/生命表/當代／截斷面生命表.md",
     "知識/統計/存活分析/基礎知識/常用符號/pth quantile.md",
