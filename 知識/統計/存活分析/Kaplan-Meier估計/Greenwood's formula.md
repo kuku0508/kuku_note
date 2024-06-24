@@ -20,5 +20,7 @@ $$
 \hat{\sigma}^2(t)=\hat{S}(t)^2\sum_{i:\,t_i \leq t}\frac{d_i}{n_i(n_i-d_i)}
 $$
 - - -
+# 備註：
+- 當我們得到了
 parent::[[Survival Function]],[[Kaplan-Meier方法]]
 child::[[Interval of Survival Function]]
