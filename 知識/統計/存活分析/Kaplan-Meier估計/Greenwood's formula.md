@@ -9,4 +9,4 @@
 $$
 Var(\frac{d_i}{n_i})=\frac{p_i(1-p_i)}{n_i}=\frac{(\frac{d_i}{n_i}-(1-\frac{d_i}{n_i}))}{n_i}
 $$
-- 
+- # 步驟二、
