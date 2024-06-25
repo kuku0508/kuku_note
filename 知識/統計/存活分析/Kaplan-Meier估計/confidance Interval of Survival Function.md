@@ -1,1 +1,1 @@
-當我們今天得到了[[Greenwood's formula|存活函數的變異數]]後，我們就可以透過變異數來去估算[[s
+當我們今天得到了[[Greenwood's formula|存活函數的變異數]]後，我們就可以透過變異數來去估算[[Survival Function|存活函數]]的信賴區間。
