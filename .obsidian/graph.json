@@ -5,7 +5,7 @@
   "showAttachments": false,
   "hideUnresolved": true,
   "showOrphans": true,
-  "collapse-color-groups": false,
+  "collapse-color-groups": true,
   "colorGroups": [
     {
       "query": "path:程式語言/MarkDown  ",
@@ -43,9 +43,9 @@
       }
     }
   ],
-  "collapse-display": true,
+  "collapse-display": false,
   "showArrow": false,
-  "textFadeMultiplier": -1,
+  "textFadeMultiplier": 0,
   "nodeSizeMultiplier": 0.67421875,
   "lineSizeMultiplier": 0.776302083333333,
   "collapse-forces": false,
@@ -53,6 +53,6 @@
   "repelStrength": 11.1458333333333,
   "linkStrength": 1,
   "linkDistance": 118,
-  "scale": 0.11660891579462689,
-  "close": true
+  "scale": 0.321336386050507,
+  "close": false
 }
