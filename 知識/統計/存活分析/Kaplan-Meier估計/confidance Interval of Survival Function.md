@@ -1,7 +1,8 @@
 當我們今天得到了[[Greenwood's formula|存活函數的變異數]]後，我們就可以透過變異數來去估算[[Survival Function|存活函數]]的信賴區間。而估算方法如下：
 - - -
 # 前提：
-在計算
+在計算存活函數的信賴區間的時候，我們必須要認知到存活函數會存在一個前提。
+-
 - - -
 # 公式：
 - # 方法一：普通信賴區間方法(Standard Confidence Interval Method)
