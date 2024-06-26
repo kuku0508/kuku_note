@@ -4,7 +4,7 @@
 - # 方法一：普通信賴區間方法(Standard Confidence Interval Method)
 這個方法就直接使用標準的方法來估算信賴區間，用的就是以下公式
 $$
-\hat{S}(t)\pm z_{\frac{}{}}
+\hat{S}(t)\pm z_{\frac{a}{2}}\times\hat{\sigma}(t)
 $$
 - # 方法二：對數變換方法(Log-Transformation Method)
 1. 計算對數存活函數的標準誤：
