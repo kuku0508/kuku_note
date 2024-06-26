@@ -4,5 +4,5 @@ $$
 $$
 - # 估計一個時間區間的風險函數：
 $$
-t_j\leq t \leq t_{t+1}
+t_j\leq t \leq t_{t+1}\text{：}\hat{h}(t_j)=\frac{d_j}{n_j(t_{j+1}-t))}
 $$
