@@ -20,5 +20,4 @@ $$
 \left( exp(log(\hat{S}(t))-z_{\frac{a}{2}}\times \hat{\sigma}_{log}(t))\right ) ,\left( exp(log(\hat{S}(t))+z_{\frac{a}{2}}\times \hat{\sigma}_{log}(t))\right ) 
 $$
 - - -
-# 備註：
-你可能會想說，你今天用了信賴區間，
+parent::[[Greenwood's formula]],[[sur
