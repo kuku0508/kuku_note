@@ -20,4 +20,4 @@ $$
 \left( exp(log(\hat{S}(t))-z_{\frac{a}{2}}\times \hat{\sigma}_{log}(t))\right ) ,\left( exp(log(\hat{S}(t))+z_{\frac{a}{2}}\times \hat{\sigma}_{log}(t))\right ) 
 $$
 - - -
-parent::[[Greenwood's formula]],[[sur
+parent::[[Greenwood's formula]],[[Survival Function]],[[存活分析目錄]],[[信賴區間]]
