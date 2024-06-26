@@ -36,7 +36,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "知識/統計/存活分析/基礎知識/常用符號/Notations.md",
+                "file": "知識/統計/存活分析/基礎知識/常用符號/pth quantile.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "知識/統計/存活分析/基礎知識/常用符號/Notations.md",
+                "file": "知識/統計/存活分析/基礎知識/常用符號/pth quantile.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "知識/統計/存活分析/基礎知識/常用符號/Notations.md",
+                "file": "知識/統計/存活分析/基礎知識/常用符號/pth quantile.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "知識/統計/存活分析/基礎知識/常用符號/Notations.md"
+                "file": "知識/統計/存活分析/基礎知識/常用符號/pth quantile.md"
               }
             }
           },
@@ -192,7 +192,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "知識/統計/存活分析/基礎知識/常用符號/Notations.md",
+                "file": "知識/統計/存活分析/基礎知識/常用符號/pth quantile.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -215,7 +215,7 @@
                   "repelStrength": 10,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 0.7132754626224436,
+                  "scale": 0.7132754626224438,
                   "close": false
                 }
               }
@@ -286,10 +286,14 @@
   },
   "active": "f70c20e4856b4c63",
   "lastOpenFiles": [
+    "知識/統計/存活分析/基礎知識/常用符號/常用符號目錄.md",
+    "知識/統計/存活分析/基礎知識/存活分析基礎知識目錄.md",
+    "知識/統計/存活分析/存活分析目錄.md",
+    "知識/統計/存活分析/基礎知識/設限/設限.md",
+    "知識/統計/存活分析/基礎知識/常用符號/Notations.md",
     "知識/統計/存活分析/基礎知識/常用符號/pth quantile.md",
     "知識/統計/統計學/基礎知識/母體參數／樣本統計量/百分位數.md",
     "知識/統計/存活分析/Kaplan-Meier估計/confidance Interval of Survival Function.md",
-    "知識/統計/存活分析/存活分析目錄.md",
     "知識/程式語言/Latex/基礎知識/語法表/大括號與行標.md",
     "文本/附件/文本/名言/有遺憾挺好.md",
     "知識/程式語言/Latex/基礎知識/語法表/關係符號.md",
@@ -316,13 +320,9 @@
     "文本/附件/表/統計/世代生命表 HIV診斷AIDS到死亡之生命表.png",
     "文本/附件/表/統計/世代生命表　HIV診斷AIDS到死亡之時間.png",
     "知識/統計/存活分析/基礎知識/存活分析.md",
-    "知識/統計/存活分析/基礎知識/常用符號/Notations.md",
     "文本/附件/表/統計/當代生命表 美國30歲以下的生命表.png",
     "文本/附件/圖/當代生命表 美國人口的存活曲線(1989~1981年).png",
     "知識/統計/存活分析/生命表",
-    "知識/程式語言/Latex/基礎知識/語法表/希臘字母.md",
-    "知識/程式語言/Latex/基礎知識/語法表/其他符號.md",
-    "知識/程式語言/Latex/基礎知識/語法表/特殊符號.md",
     "文本/附件/文本/講義/存活分析/惡性黑色素瘤 資料集說明.png",
     "文本/附件/文本/講義/時間數列/R語言",
     "文本/附件/文本/名言",

@@ -10,3 +10,4 @@ $\Rightarrow$[[設限]]指標(0,1  事件發生於否)
 - **$t_c$**：(fixed constant)
 - - -
 parent::[[常用符號目錄]],[[Time to event data]],[[Survival Time]]
+sibling::[[設限]]
