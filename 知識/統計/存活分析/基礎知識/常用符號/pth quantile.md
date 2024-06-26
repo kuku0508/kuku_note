@@ -1,4 +1,4 @@
-pth quantile，就是指[[Survival Time|存活時間]]的百分位數，以$t_{p}$表示。
+pth quantile，就是指[[Survival Time|存活時間]]的[[百分位數]]，以$t_{p}$表示。
 - - -
 # 備註：
 $t_{0.5}=median$
