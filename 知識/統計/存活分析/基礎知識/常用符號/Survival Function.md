@@ -22,3 +22,4 @@ $$
 - - -
 parent::[[常用符號目錄]],[[Survival Time]]
 sibling::[[Hazard function]]
+child::[[pth quantile]]

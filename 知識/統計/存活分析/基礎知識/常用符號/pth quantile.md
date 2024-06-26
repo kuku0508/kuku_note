@@ -32,7 +32,8 @@ $$![[example S(t)-t圖 in pth quantile.png]]
 ## 離散型：當t是discrete時
 我們就需要去估計S(t)
 ![[discrete example in pth quantile.png]]
-我們可以看到我們在估計Survival function的時候都是看他的斷面是多少的。
+我們可以看到我們在估計[[Survival function]]的時候都是看他的斷面是多少的。
 詳細請閱Kaplan-Meier估計法。
 - - -
 parent::[[Survival Time]],[[常用符號目錄]],[[百分位數]],[[Survival Function]]
+
