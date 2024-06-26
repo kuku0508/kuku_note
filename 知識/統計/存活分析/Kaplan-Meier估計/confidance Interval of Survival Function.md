@@ -4,6 +4,6 @@
 - # 公式一：對數變換方法(Log-Transformation Method)
 1. 計算對數存活函數的標準誤：
 $$
-\hat{\sigma}^2(t)=\hat{S}(t)
+\hat{\sigma}^2(t)=\hat{S}(t)^2\sum_{i\,:\,t_i\leq t}\frac{d_i}{n_i(n_i-d_i)}
 $$
 
