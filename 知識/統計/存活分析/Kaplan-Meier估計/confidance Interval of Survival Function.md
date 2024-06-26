@@ -14,4 +14,5 @@ $$
 $$
 \left( exp(log(\hat{S}(t))-z_{\frac{a}{2}}\times \hat{\sigma}_{log}(t))\right ) ,\left( exp(log(\hat{S}(t))+z_{\frac{a}{2}}\times \hat{\sigma}_{log}(t))\right ) 
 $$
-- # 方法二：普通信賴區間方法(Standard Confidence Interval )
+- # 方法二：普通信賴區間方法(Standard Confidence Interval Method)
+這個方法
