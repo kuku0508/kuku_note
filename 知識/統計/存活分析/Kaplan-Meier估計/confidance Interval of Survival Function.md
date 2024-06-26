@@ -6,4 +6,7 @@
 $$
 \hat{\sigma}_{log}(t)=\frac{\hat{\sigma}(t)}{\hat{S}(t)}
 $$
-
+2. 計算對數存活函數的信賴區間：
+$$
+log(\hat{S}(t))\
+$$
