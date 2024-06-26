@@ -2,5 +2,8 @@
 - - -
 # 公式：
 - # 公式一：對數變換方法(Log-Transformation Method)
-1. 計算對數繩活函數的
+1. 計算對數存活函數的標準誤：
+$$
+\hat{\sigma}^2(t)=\hat{S}(t)
+$$
 
