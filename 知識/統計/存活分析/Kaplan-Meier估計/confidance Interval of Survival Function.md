@@ -11,3 +11,6 @@ $$
 log(\hat{S}(t))\pm z_{\frac{a}{2}}\times \hat{\sigma}_{log}(t)
 $$
 3. 反對數變換，得到存活函數的信賴區間：
+$$
+
+$$
