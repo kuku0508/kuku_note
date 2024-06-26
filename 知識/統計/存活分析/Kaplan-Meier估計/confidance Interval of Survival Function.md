@@ -8,5 +8,5 @@ $$
 $$
 2. 計算對數存活函數的信賴區間：
 $$
-log(\hat{S}(t))\
+log(\hat{S}(t))\pm z_{\frac{a}{2}}\times \hat{\sigma_{}}
 $$
