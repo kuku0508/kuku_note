@@ -2,5 +2,5 @@
 - - -
 # 公式：
 - # 公式一：對數變換方法(Log-Transformation Method)
-1. 季
+1. 計算
 
