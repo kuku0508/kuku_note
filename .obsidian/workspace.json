@@ -34,13 +34,8 @@
             "id": "f70c20e4856b4c63",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "知識/統計/存活分析/Kaplan-Meier估計/風險函數估計.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ],
@@ -110,7 +105,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "知識/統計/存活分析/Kaplan-Meier估計/風險函數估計.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +121,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "知識/統計/存活分析/Kaplan-Meier估計/風險函數估計.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,9 +142,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "知識/統計/存活分析/Kaplan-Meier估計/風險函數估計.md"
-              }
+              "state": {}
             }
           },
           {
@@ -192,7 +183,6 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "知識/統計/存活分析/Kaplan-Meier估計/風險函數估計.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -287,16 +277,17 @@
   },
   "active": "f70c20e4856b4c63",
   "lastOpenFiles": [
-    "知識/統計/存活分析/基礎知識/常用符號/Hazard function.md",
+    "知識/統計/存活分析/存活分析目錄.md",
     "知識/統計/存活分析/Kaplan-Meier估計/風險函數估計.md",
     "知識/統計/存活分析/Kaplan-Meier估計/KM累積風險函數的估計.md",
+    "知識/統計/存活分析/Kaplan-Meier估計/Greenwood's formula.md",
+    "知識/統計/存活分析/Kaplan-Meier估計/confidance Interval of Survival Function.md",
+    "知識/統計/存活分析/基礎知識/常用符號/Hazard function.md",
     "文本/附件/文本/講義/存活分析/Survival Analysis topic 2.md",
-    "知識/統計/存活分析/存活分析目錄.md",
     "知識/統計/存活分析/基礎知識/常用符號/Untitled Kanban.md",
     "知識/程式語言/Latex/基礎知識/語法表/begin...end.md",
     "知識/程式語言/Latex/基礎知識/語法表/hat(頭上長東西的).md",
     "知識/統計/存活分析/Kaplan-Meier估計/Kaplan-Meier方法.md",
-    "知識/統計/存活分析/Kaplan-Meier估計/confidance Interval of Survival Function.md",
     "文本/附件/圖/40歲HIV 存活曲線95%信賴區間.png",
     "知識/統計/存活分析/基礎知識/常用符號/pth quantile.md",
     "知識/統計/存活分析/基礎知識/常用符號/Survival Function.md",
@@ -308,7 +299,6 @@
     "知識/程式語言/Latex/基礎知識/語法表/大括號與行標.md",
     "文本/附件/文本/名言/有遺憾挺好.md",
     "知識/程式語言/Latex/基礎知識/語法表/關係符號.md",
-    "知識/統計/存活分析/Kaplan-Meier估計/Greenwood's formula.md",
     "知識/統計/存活分析/基礎知識/常用符號/mean life.md",
     "文本/附件/圖/離群值處理方式 分佈圖.png",
     "文本/附件/圖/CDA HW6 4.12 R code.png",
