@@ -36,7 +36,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "知識/統計/存活分析/Kaplan-Meier估計/累積風險函數的估計.md",
+                "file": "知識/統計/存活分析/存活分析目錄.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "知識/統計/存活分析/Kaplan-Meier估計/累積風險函數的估計.md",
+                "file": "知識/統計/存活分析/存活分析目錄.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "知識/統計/存活分析/Kaplan-Meier估計/累積風險函數的估計.md",
+                "file": "知識/統計/存活分析/存活分析目錄.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "知識/統計/存活分析/Kaplan-Meier估計/累積風險函數的估計.md"
+                "file": "知識/統計/存活分析/存活分析目錄.md"
               }
             }
           },
@@ -192,7 +192,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "知識/統計/存活分析/Kaplan-Meier估計/累積風險函數的估計.md",
+                "file": "知識/統計/存活分析/存活分析目錄.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -287,10 +287,10 @@
   },
   "active": "f70c20e4856b4c63",
   "lastOpenFiles": [
+    "知識/統計/存活分析/Kaplan-Meier估計/累積風險函數的估計.md",
     "知識/統計/存活分析/基礎知識/存活分析基礎知識目錄.md",
     "知識/統計/存活分析/存活分析目錄.md",
     "知識/統計/存活分析/Kaplan-Meier估計/風險函數估計.md",
-    "知識/統計/存活分析/Kaplan-Meier估計/累積風險函數的估計.md",
     "知識/統計/存活分析/Kaplan-Meier估計/Greenwood's formula.md",
     "知識/統計/存活分析/Kaplan-Meier估計/confidance Interval of Survival Function.md",
     "知識/統計/存活分析/基礎知識/常用符號/Hazard function.md",
