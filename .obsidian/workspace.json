@@ -70,13 +70,8 @@
             "id": "8678854dde1c2f8c",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "知識/統計/存活分析/Kaplan-Meier估計/累積風險函數的估計.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ],
@@ -146,7 +141,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "知識/統計/存活分析/Kaplan-Meier估計/累積風險函數的估計.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -163,7 +157,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "知識/統計/存活分析/Kaplan-Meier估計/累積風險函數的估計.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -185,9 +178,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "知識/統計/存活分析/Kaplan-Meier估計/累積風險函數的估計.md"
-              }
+              "state": {}
             }
           },
           {
@@ -228,7 +219,6 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "知識/統計/存活分析/Kaplan-Meier估計/累積風險函數的估計.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -252,7 +242,7 @@
                   "linkStrength": 1,
                   "linkDistance": 250,
                   "scale": 0.7132754626224438,
-                  "close": false
+                  "close": true
                 }
               }
             }
@@ -323,11 +313,11 @@
   },
   "active": "8678854dde1c2f8c",
   "lastOpenFiles": [
+    "知識/統計/存活分析/Kaplan-Meier估計/風險函數估計.md",
+    "知識/統計/存活分析/Kaplan-Meier估計/累積風險函數的估計.md",
     "知識/統計/存活分析/Kaplan-Meier估計/Greenwood's formula.md",
     "知識/統計/存活分析/Kaplan-Meier估計/confidance Interval of Survival Function.md",
     "知識/統計/存活分析/基礎知識/常用符號/cumulative hazard function.md",
-    "知識/統計/存活分析/Kaplan-Meier估計/累積風險函數的估計.md",
-    "知識/統計/存活分析/Kaplan-Meier估計/風險函數估計.md",
     "文本/統計/存活分析/講義/Survival Analysis topic 2.md",
     "文本/名言/粉紅色的雪.md",
     "知識/統計/存活分析/Kaplan-Meier估計/Kaplan-Meier方法.md",
