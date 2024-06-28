@@ -46,7 +46,7 @@
             "state": {
               "type": "image",
               "state": {
-                "file": "文本/類別資料分析/圖/CDA HW6 4.12 R code.png"
+                "file": "文本/統計學/圖/相對次數直方圖 範例.png"
               }
             }
           }
@@ -117,7 +117,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "文本/類別資料分析/圖/CDA HW6 4.12 R code.png",
+                "file": "文本/統計學/圖/相對次數直方圖 範例.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -134,7 +134,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "文本/類別資料分析/圖/CDA HW6 4.12 R code.png",
+                "file": "文本/統計學/圖/相對次數直方圖 範例.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -157,7 +157,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "文本/類別資料分析/圖/CDA HW6 4.12 R code.png"
+                "file": "文本/統計學/圖/相對次數直方圖 範例.png"
               }
             }
           },
@@ -199,7 +199,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "文本/類別資料分析/圖/CDA HW6 4.12 R code.png",
+                "file": "文本/統計學/圖/相對次數直方圖 範例.png",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -294,17 +294,18 @@
   },
   "active": "418f87f864239790",
   "lastOpenFiles": [
+    "文本/時間數列/未命名",
+    "文本/附件/圖/時間序列圖範例 每年飛機乘客數.png",
+    "文本/統計學/圖/圓餅圖範例 台灣政黨席次.png",
+    "文本/存活分析/圖/當代生命表 美國人口的存活曲線(1989~1981年).png",
+    "文本/統計學/圖/點圖範例 員工工作完成率.png",
+    "文本/統計學/圖/離群值判斷方式　箱型圖說明.png",
+    "文本/統計學/圖/離群值處理方式 分佈圖.png",
+    "文本/類別資料分析/圖/CDA HW6 4.12 R code.png",
     "文本/類別資料分析/圖",
     "文本/存活分析/圖/discrete example in pth quantile.png",
-    "文本/類別資料分析/圖/CDA HW6 4.12 R code.png",
     "文本/存活分析/圖/example F(t)-t圖 in pth quantile.png",
     "文本/存活分析/圖/example S(t)-t圖 in pth quantile.png",
-    "文本/存活分析/圖/Kaplan-Meier 40歲HIV 存活曲線.png",
-    "文本/存活分析/圖/mean life 圖例.png",
-    "文本/存活分析/圖/mean residual life 圖例.png",
-    "文本/存活分析/圖/median in Survival function.png",
-    "文本/附件/圖/Normal Distribution 68 95 99.7.png",
-    "文本/存活分析/圖/0.2th 0.5th example.png",
     "文本/存活分析/圖",
     "文本/統計學/圖",
     "文本/存活分析/表",
@@ -318,7 +319,6 @@
     "文本/時間數列/講義",
     "文本/時間數列",
     "文本/統計學/講義/ch14.3.md",
-    "文本/抽樣調查/講義",
     "文本/辯論/一辯稿/菁英盃.md",
     "文本/辯論/一辯稿/網路讓人類思考多元or單一.md",
     "文本/辯論/一辯稿/廉政盃.md",
