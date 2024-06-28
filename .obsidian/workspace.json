@@ -36,7 +36,7 @@
             "state": {
               "type": "image",
               "state": {
-                "file": "文本/存活分析/表/當代生命表 美國30歲以下的生命表.png"
+                "file": "文本/附件/表/統計/normal distribution example.png"
               }
             }
           }
@@ -107,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "文本/存活分析/表/當代生命表 美國30歲以下的生命表.png",
+                "file": "文本/附件/表/統計/normal distribution example.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "文本/存活分析/表/當代生命表 美國30歲以下的生命表.png",
+                "file": "文本/附件/表/統計/normal distribution example.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "文本/存活分析/表/當代生命表 美國30歲以下的生命表.png"
+                "file": "文本/附件/表/統計/normal distribution example.png"
               }
             }
           },
@@ -189,7 +189,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "文本/存活分析/表/當代生命表 美國30歲以下的生命表.png",
+                "file": "文本/附件/表/統計/normal distribution example.png",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -282,12 +282,12 @@
       }
     ]
   },
-  "active": "418f87f864239790",
+  "active": "f70c20e4856b4c63",
   "lastOpenFiles": [
+    "文本/存活分析/表/當代生命表 美國30歲以下的生命表.png",
     "文本/附件/表/統計/normal distribution example.png",
     "文本/存活分析/表/世代生命表 HIV診斷AIDS到死亡之生命表.png",
     "文本/存活分析/表/世代生命表　HIV診斷AIDS到死亡之時間.png",
-    "文本/存活分析/表/當代生命表 美國30歲以下的生命表.png",
     "文本/程式語言/表/Latex 顏色對照表1.png",
     "文本/存活分析/表",
     "文本/類別資料分析/問題/CDA 第六次作業.md",
