@@ -265,7 +265,7 @@
                 "state": {
                   "type": "excalidraw",
                   "state": {
-                    "file": "文本/附件/文本/講義/存活分析/Survival Analysis topic 2.md"
+                    "file": "文本/存活分析/存活分析/Survival Analysis topic 2.md"
                   }
                 }
               }
@@ -284,6 +284,7 @@
   },
   "active": "418f87f864239790",
   "lastOpenFiles": [
+    "文本/存活分析",
     "文本/統計學/講義",
     "文本/辯論/一辯稿/菁英盃.md",
     "文本/統計學",
@@ -293,7 +294,7 @@
     "文本/辯論",
     "文本/辯論/健言公告.md",
     "知識/統計/存活分析/存活分析目錄.md",
-    "文本/附件/文本/講義/存活分析/Survival Analysis topic 2.md",
+    "文本/存活分析/存活分析/Survival Analysis topic 2.md",
     "知識/統計/存活分析/Kaplan-Meier估計/累積風險函數的估計.md",
     "知識/統計/存活分析/基礎知識/存活分析基礎知識目錄.md",
     "知識/統計/存活分析/Kaplan-Meier估計/風險函數估計.md",
@@ -329,7 +330,6 @@
     "文本/附件/文本/名言",
     "知識/統計/存活分析/基礎知識/常用符號",
     "FA992700",
-    "文本/附件/報告/112-2｜survival analysis｜惡性黑色素瘤/惡性黑色素瘤",
     "未命名.canvas",
     "文本/問題/未命名.canvas"
   ]
