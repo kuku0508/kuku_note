@@ -70,8 +70,13 @@
             "id": "8678854dde1c2f8c",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "知識/統計/存活分析/Kaplan-Meier估計/累積風險函數的估計.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
             }
           }
         ],
@@ -141,6 +146,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "知識/統計/存活分析/Kaplan-Meier估計/累積風險函數的估計.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -157,6 +163,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "知識/統計/存活分析/Kaplan-Meier估計/累積風險函數的估計.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -178,7 +185,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "知識/統計/存活分析/Kaplan-Meier估計/累積風險函數的估計.md"
+              }
             }
           },
           {
@@ -219,6 +228,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "知識/統計/存活分析/Kaplan-Meier估計/累積風險函數的估計.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -313,8 +323,10 @@
   },
   "active": "8678854dde1c2f8c",
   "lastOpenFiles": [
-    "知識/用語/一般用語/達摩克利斯之劍.md",
     "文本/統計/存活分析/講義/Survival Analysis topic 2.md",
+    "知識/統計/存活分析/Kaplan-Meier估計/累積風險函數的估計.md",
+    "知識/統計/存活分析/Kaplan-Meier估計/Kaplan-Meier方法.md",
+    "知識/用語/一般用語/達摩克利斯之劍.md",
     "知識/用語/一般用語目錄.md",
     "知識/用語/網路用語目錄.md",
     "知識/用語/用語總目錄.md",
@@ -353,12 +365,10 @@
     "文本/辯論/一辯稿/網路讓人類思考多元or單一.md",
     "文本/辯論/一辯稿/廉政盃.md",
     "文本/辯論/健言公告.md",
-    "知識/統計/存活分析/Kaplan-Meier估計/累積風險函數的估計.md",
     "知識/統計/存活分析/Kaplan-Meier估計/風險函數估計.md",
     "知識/統計/存活分析/Kaplan-Meier估計/Greenwood's formula.md",
     "知識/統計/存活分析/Kaplan-Meier估計/confidance Interval of Survival Function.md",
     "知識/統計/存活分析/基礎知識/常用符號/Hazard function.md",
-    "知識/統計/存活分析/基礎知識/常用符號/Untitled Kanban.md",
     "未命名.canvas",
     "文本/問題/未命名.canvas"
   ]
