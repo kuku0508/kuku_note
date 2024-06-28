@@ -34,12 +34,9 @@
             "id": "f70c20e4856b4c63",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "excalidraw",
               "state": {
-                "file": "文本/附件/文本/辯論/一辯稿/菁英盃.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
+                "file": "文本/附件/文本/講義/統計/ch14.3.md"
               }
             }
           }
@@ -110,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "文本/附件/文本/辯論/一辯稿/菁英盃.md",
+                "file": "文本/附件/文本/講義/統計/ch14.3.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "文本/附件/文本/辯論/一辯稿/菁英盃.md",
+                "file": "文本/附件/文本/講義/統計/ch14.3.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "文本/附件/文本/辯論/一辯稿/菁英盃.md"
+                "file": "文本/附件/文本/講義/統計/ch14.3.md"
               }
             }
           },
@@ -192,7 +189,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "文本/附件/文本/辯論/一辯稿/菁英盃.md",
+                "file": "文本/附件/文本/講義/統計/ch14.3.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -287,12 +284,13 @@
   },
   "active": "f70c20e4856b4c63",
   "lastOpenFiles": [
-    "文本/附件/文本/辯論/一辯稿/網路讓人類思考多元or單一.md",
-    "文本/附件/文本/辯論/一辯稿",
-    "文本/附件/文本/辯論/一辯稿/廉政盃.md",
-    "文本/附件/文本/辯論",
-    "文本/附件/文本/辯論/一辯稿/菁英盃.md",
-    "文本/附件/文本/辯論/健言公告.md",
+    "文本/辯論/一辯稿/菁英盃.md",
+    "文本/附件/統計學",
+    "文本/辯論/一辯稿/網路讓人類思考多元or單一.md",
+    "文本/辯論/一辯稿",
+    "文本/辯論/一辯稿/廉政盃.md",
+    "文本/辯論",
+    "文本/辯論/健言公告.md",
     "知識/統計/存活分析/存活分析目錄.md",
     "文本/附件/文本/講義/存活分析/Survival Analysis topic 2.md",
     "知識/統計/存活分析/Kaplan-Meier估計/累積風險函數的估計.md",
@@ -315,7 +313,6 @@
     "知識/程式語言/Latex/基礎知識/語法表/大括號與行標.md",
     "文本/附件/文本/名言/有遺憾挺好.md",
     "知識/程式語言/Latex/基礎知識/語法表/關係符號.md",
-    "知識/統計/存活分析/基礎知識/常用符號/mean life.md",
     "文本/附件/圖/離群值處理方式 分佈圖.png",
     "文本/附件/圖/CDA HW6 4.12 R code.png",
     "文本/附件/圖/Kaplan-Meier 40歲HIV 存活曲線.png",
@@ -332,7 +329,6 @@
     "知識/統計/存活分析/基礎知識/常用符號",
     "FA992700",
     "文本/附件/報告/112-2｜survival analysis｜惡性黑色素瘤/惡性黑色素瘤",
-    "survMelanoma 1.xls",
     "未命名.canvas",
     "文本/問題/未命名.canvas"
   ]
