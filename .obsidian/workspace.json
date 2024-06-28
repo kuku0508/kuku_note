@@ -13,7 +13,7 @@
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "文本/時間數列/講義/老師筆記/Time Series-Session 5.md"
+                "file": "文本/統計/時間數列/講義/老師筆記/Time Series-Session 5.md"
               }
             }
           },
@@ -36,7 +36,7 @@
             "state": {
               "type": "image",
               "state": {
-                "file": "文本/存活分析/圖/Type II censoring example.png"
+                "file": "文本/統計/存活分析/圖/Type II censoring example.png"
               }
             }
           },
@@ -46,7 +46,7 @@
             "state": {
               "type": "image",
               "state": {
-                "file": "文本/附件/圖/Normal Distribution 68 95 99.7.png"
+                "file": "文本/統計/統計學/圖/Normal Distribution 68 95 99.7.png"
               }
             }
           }
@@ -117,7 +117,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "文本/附件/圖/Normal Distribution 68 95 99.7.png",
+                "file": "文本/統計/統計學/圖/Normal Distribution 68 95 99.7.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -134,7 +134,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "文本/附件/圖/Normal Distribution 68 95 99.7.png",
+                "file": "文本/統計/統計學/圖/Normal Distribution 68 95 99.7.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -157,7 +157,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "文本/附件/圖/Normal Distribution 68 95 99.7.png"
+                "file": "文本/統計/統計學/圖/Normal Distribution 68 95 99.7.png"
               }
             }
           },
@@ -199,7 +199,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "文本/附件/圖/Normal Distribution 68 95 99.7.png",
+                "file": "文本/統計/統計學/圖/Normal Distribution 68 95 99.7.png",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -275,7 +275,7 @@
                 "state": {
                   "type": "excalidraw",
                   "state": {
-                    "file": "文本/存活分析/講義/Survival Analysis topic 2.md"
+                    "file": "文本/統計/存活分析/講義/Survival Analysis topic 2.md"
                   }
                 }
               }
@@ -294,37 +294,37 @@
   },
   "active": "418f87f864239790",
   "lastOpenFiles": [
-    "文本/統計學/圖/相對次數直方圖 範例.png",
-    "文本/時間數列/表",
-    "文本/時間數列/圖",
-    "文本/時間數列/講義",
-    "文本/時間數列/圖/時間序列圖範例 每年飛機乘客數.png",
-    "文本/統計學/圖/圓餅圖範例 台灣政黨席次.png",
-    "文本/存活分析/圖/當代生命表 美國人口的存活曲線(1989~1981年).png",
-    "文本/統計學/圖/點圖範例 員工工作完成率.png",
-    "文本/統計學/圖/離群值判斷方式　箱型圖說明.png",
-    "文本/統計學/圖/離群值處理方式 分佈圖.png",
-    "文本/類別資料分析/圖/CDA HW6 4.12 R code.png",
-    "文本/類別資料分析/圖",
-    "文本/存活分析/圖/discrete example in pth quantile.png",
-    "文本/存活分析/圖/example F(t)-t圖 in pth quantile.png",
-    "文本/存活分析/圖/example S(t)-t圖 in pth quantile.png",
-    "文本/存活分析/圖",
-    "文本/統計學/圖",
-    "文本/存活分析/表",
-    "文本/類別資料分析/問題/CDA 第六次作業.md",
+    "文本/統計",
+    "文本/畫畫",
+    "文本/統計/統計學/圖/相對次數直方圖 範例.png",
+    "文本/統計/時間數列/表",
+    "文本/統計/時間數列/圖",
+    "文本/統計/時間數列/講義",
+    "文本/統計/時間數列/圖/時間序列圖範例 每年飛機乘客數.png",
+    "文本/統計/統計學/圖/圓餅圖範例 台灣政黨席次.png",
+    "文本/統計/存活分析/圖/當代生命表 美國人口的存活曲線(1989~1981年).png",
+    "文本/統計/統計學/圖/點圖範例 員工工作完成率.png",
+    "文本/統計/統計學/圖/離群值判斷方式　箱型圖說明.png",
+    "文本/統計/統計學/圖/離群值處理方式 分佈圖.png",
+    "文本/統計/類別資料分析/圖/CDA HW6 4.12 R code.png",
+    "文本/統計/類別資料分析/圖",
+    "文本/統計/存活分析/圖/discrete example in pth quantile.png",
+    "文本/統計/存活分析/圖/example F(t)-t圖 in pth quantile.png",
+    "文本/統計/存活分析/圖",
+    "文本/統計/統計學/圖",
+    "文本/統計/存活分析/表",
+    "文本/統計/類別資料分析/問題/CDA 第六次作業.md",
     "文本/程式語言/表",
-    "文本/類別資料分析/講義/CDA Topic 4-6.md",
-    "文本/類別資料分析/問題",
-    "文本/時間數列/問題",
-    "文本/抽樣調查/講義/Ch-08.md",
-    "文本/統計學/講義/ch14.3.md",
+    "文本/統計/類別資料分析/講義/CDA Topic 4-6.md",
+    "文本/統計/類別資料分析/問題",
+    "文本/統計/抽樣調查/講義/Ch-08.md",
+    "文本/統計/統計學/講義/ch14.3.md",
     "文本/辯論/一辯稿/菁英盃.md",
     "文本/辯論/一辯稿/網路讓人類思考多元or單一.md",
     "文本/辯論/一辯稿/廉政盃.md",
     "文本/辯論/健言公告.md",
     "知識/統計/存活分析/存活分析目錄.md",
-    "文本/存活分析/講義/Survival Analysis topic 2.md",
+    "文本/統計/存活分析/講義/Survival Analysis topic 2.md",
     "知識/統計/存活分析/Kaplan-Meier估計/累積風險函數的估計.md",
     "知識/統計/存活分析/基礎知識/存活分析基礎知識目錄.md",
     "知識/統計/存活分析/Kaplan-Meier估計/風險函數估計.md",
