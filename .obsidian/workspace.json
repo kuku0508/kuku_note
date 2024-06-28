@@ -46,7 +46,7 @@
             "state": {
               "type": "image",
               "state": {
-                "file": "文本/存活分析/圖/0.2th 0.5th example.png"
+                "file": "文本/類別資料分析/圖/CDA HW6 4.12 R code.png"
               }
             }
           }
@@ -117,7 +117,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "文本/存活分析/圖/0.2th 0.5th example.png",
+                "file": "文本/類別資料分析/圖/CDA HW6 4.12 R code.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -134,7 +134,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "文本/存活分析/圖/0.2th 0.5th example.png",
+                "file": "文本/類別資料分析/圖/CDA HW6 4.12 R code.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -157,7 +157,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "文本/存活分析/圖/0.2th 0.5th example.png"
+                "file": "文本/類別資料分析/圖/CDA HW6 4.12 R code.png"
               }
             }
           },
@@ -199,7 +199,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "文本/存活分析/圖/0.2th 0.5th example.png",
+                "file": "文本/類別資料分析/圖/CDA HW6 4.12 R code.png",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -292,20 +292,20 @@
       }
     ]
   },
-  "active": "b99e3d1b0e9390a8",
+  "active": "418f87f864239790",
   "lastOpenFiles": [
-    "文本/存活分析/圖/Type II censoring example.png",
-    "文本/存活分析/圖/0.2th 0.5th example.png",
-    "文本/存活分析/圖/survival function example.png",
+    "文本/類別資料分析/圖",
+    "文本/存活分析/圖/discrete example in pth quantile.png",
+    "文本/類別資料分析/圖/CDA HW6 4.12 R code.png",
+    "文本/存活分析/圖/example F(t)-t圖 in pth quantile.png",
+    "文本/存活分析/圖/example S(t)-t圖 in pth quantile.png",
+    "文本/存活分析/圖/Kaplan-Meier 40歲HIV 存活曲線.png",
+    "文本/存活分析/圖/mean life 圖例.png",
+    "文本/存活分析/圖/mean residual life 圖例.png",
+    "文本/存活分析/圖/median in Survival function.png",
     "文本/附件/圖/Normal Distribution 68 95 99.7.png",
-    "文本/存活分析/圖/time to event data.png",
-    "文本/存活分析/圖/右、區間、隨機、左設限.png",
-    "文本/附件/圖/直方圖範例 分數.png",
-    "文本/附件/圖/次數多邊形圖範例.png",
-    "文本/存活分析/圖/世代生命表 40歲HIV 存活曲線.png",
-    "文本/存活分析/圖/40歲HIV 存活曲線95%信賴區間.png",
+    "文本/存活分析/圖/0.2th 0.5th example.png",
     "文本/存活分析/圖",
-    "文本/統計學/圖/normal distribution example.png",
     "文本/統計學/圖",
     "文本/存活分析/表",
     "文本/類別資料分析/問題/CDA 第六次作業.md",
