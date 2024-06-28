@@ -59,7 +59,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "文本/名言/粉紅色的雪.md",
+                "file": "文本/歷史/達摩克利斯之劍.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -133,7 +133,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "文本/名言/粉紅色的雪.md",
+                "file": "文本/歷史/達摩克利斯之劍.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -150,7 +150,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "文本/名言/粉紅色的雪.md",
+                "file": "文本/歷史/達摩克利斯之劍.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -173,7 +173,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "文本/名言/粉紅色的雪.md"
+                "file": "文本/歷史/達摩克利斯之劍.md"
               }
             }
           },
@@ -215,7 +215,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "文本/名言/粉紅色的雪.md",
+                "file": "文本/歷史/達摩克利斯之劍.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -308,11 +308,12 @@
       }
     ]
   },
-  "active": "418f87f864239790",
+  "active": "8bf66969b4dfb194",
   "lastOpenFiles": [
+    "文本/名言/粉紅色的雪.md",
+    "文本/歷史/達摩克利斯之劍.md",
     "文本/歷史",
     "文本/名言/有遺憾挺好.md",
-    "文本/名言/粉紅色的雪.md",
     "文本/統計/統計學/圖/Normal Distribution 68 95 99.7.png",
     "文本/辯論/名言",
     "文本/統計",
@@ -332,7 +333,6 @@
     "文本/統計/存活分析/圖/discrete example in pth quantile.png",
     "文本/統計/存活分析/圖",
     "文本/統計/統計學/圖",
-    "文本/統計/存活分析/表",
     "文本/統計/類別資料分析/問題/CDA 第六次作業.md",
     "文本/統計/類別資料分析/講義/CDA Topic 4-6.md",
     "文本/統計/抽樣調查/講義/Ch-08.md",
