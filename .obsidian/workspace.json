@@ -36,12 +36,22 @@
             "state": {
               "type": "image",
               "state": {
-                "file": "文本/附件/圖/0.2th 0.5th example.png"
+                "file": "文本/存活分析/圖/Type II censoring example.png"
+              }
+            }
+          },
+          {
+            "id": "b99e3d1b0e9390a8",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "文本/存活分析/圖/0.2th 0.5th example.png"
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -107,7 +117,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "文本/附件/圖/0.2th 0.5th example.png",
+                "file": "文本/存活分析/圖/0.2th 0.5th example.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +134,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "文本/附件/圖/0.2th 0.5th example.png",
+                "file": "文本/存活分析/圖/0.2th 0.5th example.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,7 +157,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "文本/附件/圖/0.2th 0.5th example.png"
+                "file": "文本/存活分析/圖/0.2th 0.5th example.png"
               }
             }
           },
@@ -189,7 +199,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "文本/附件/圖/0.2th 0.5th example.png",
+                "file": "文本/存活分析/圖/0.2th 0.5th example.png",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -282,14 +292,21 @@
       }
     ]
   },
-  "active": "f70c20e4856b4c63",
+  "active": "b99e3d1b0e9390a8",
   "lastOpenFiles": [
+    "文本/存活分析/圖/Type II censoring example.png",
+    "文本/存活分析/圖/0.2th 0.5th example.png",
+    "文本/存活分析/圖/survival function example.png",
+    "文本/附件/圖/Normal Distribution 68 95 99.7.png",
+    "文本/存活分析/圖/time to event data.png",
+    "文本/存活分析/圖/右、區間、隨機、左設限.png",
+    "文本/附件/圖/直方圖範例 分數.png",
+    "文本/附件/圖/次數多邊形圖範例.png",
+    "文本/存活分析/圖/世代生命表 40歲HIV 存活曲線.png",
+    "文本/存活分析/圖/40歲HIV 存活曲線95%信賴區間.png",
+    "文本/存活分析/圖",
     "文本/統計學/圖/normal distribution example.png",
     "文本/統計學/圖",
-    "文本/存活分析/表/當代生命表 美國30歲以下的生命表.png",
-    "文本/存活分析/表/世代生命表 HIV診斷AIDS到死亡之生命表.png",
-    "文本/存活分析/表/世代生命表　HIV診斷AIDS到死亡之時間.png",
-    "文本/程式語言/表/Latex 顏色對照表1.png",
     "文本/存活分析/表",
     "文本/類別資料分析/問題/CDA 第六次作業.md",
     "文本/程式語言/表",
@@ -302,7 +319,6 @@
     "文本/時間數列",
     "文本/統計學/講義/ch14.3.md",
     "文本/抽樣調查/講義",
-    "文本/抽樣調查",
     "文本/辯論/一辯稿/菁英盃.md",
     "文本/辯論/一辯稿/網路讓人類思考多元or單一.md",
     "文本/辯論/一辯稿/廉政盃.md",
@@ -319,16 +335,11 @@
     "知識/程式語言/Latex/基礎知識/語法表/begin...end.md",
     "知識/程式語言/Latex/基礎知識/語法表/hat(頭上長東西的).md",
     "知識/統計/存活分析/Kaplan-Meier估計/Kaplan-Meier方法.md",
-    "文本/附件/圖/40歲HIV 存活曲線95%信賴區間.png",
     "知識/統計/存活分析/基礎知識/常用符號/pth quantile.md",
     "知識/統計/存活分析/基礎知識/常用符號/Survival Function.md",
     "知識/統計/統計學/基礎知識/母體參數／樣本統計量/百分位數.md",
     "知識/統計/存活分析/基礎知識/常用符號/常用符號目錄.md",
     "知識/統計/存活分析/基礎知識/設限/設限.md",
-    "文本/附件/圖/離群值處理方式 分佈圖.png",
-    "文本/附件/圖/CDA HW6 4.12 R code.png",
-    "文本/附件/圖/Kaplan-Meier 40歲HIV 存活曲線.png",
-    "文本/附件/圖/0.2th 0.5th example.png",
     "未命名.canvas",
     "文本/問題/未命名.canvas"
   ]
