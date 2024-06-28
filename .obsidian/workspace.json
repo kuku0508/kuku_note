@@ -36,7 +36,7 @@
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "文本/抽樣調查/講義/Ch-08.md"
+                "file": "文本/類別資料分析/講義/CDA Topic 4-6.md"
               }
             }
           }
@@ -107,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "文本/抽樣調查/講義/Ch-08.md",
+                "file": "文本/類別資料分析/講義/CDA Topic 4-6.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "文本/抽樣調查/講義/Ch-08.md",
+                "file": "文本/類別資料分析/講義/CDA Topic 4-6.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "文本/抽樣調查/講義/Ch-08.md"
+                "file": "文本/類別資料分析/講義/CDA Topic 4-6.md"
               }
             }
           },
@@ -189,7 +189,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "文本/抽樣調查/講義/Ch-08.md",
+                "file": "文本/類別資料分析/講義/CDA Topic 4-6.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -284,7 +284,10 @@
   },
   "active": "418f87f864239790",
   "lastOpenFiles": [
-    "文本/未命名",
+    "文本/類別資料分析/問題",
+    "文本/時間數列/問題",
+    "文本/抽樣調查/講義/Ch-08.md",
+    "文本/類別資料分析",
     "文本/時間數列/講義",
     "文本/時間數列",
     "文本/統計學/講義/ch14.3.md",
@@ -297,7 +300,6 @@
     "文本/辯論/一辯稿/網路讓人類思考多元or單一.md",
     "文本/辯論/一辯稿",
     "文本/辯論/一辯稿/廉政盃.md",
-    "文本/辯論",
     "文本/辯論/健言公告.md",
     "知識/統計/存活分析/存活分析目錄.md",
     "文本/存活分析/講義/Survival Analysis topic 2.md",
@@ -319,11 +321,9 @@
     "知識/統計/存活分析/基礎知識/設限/設限.md",
     "知識/統計/存活分析/基礎知識/常用符號/Notations.md",
     "知識/程式語言/Latex/基礎知識/語法表/大括號與行標.md",
-    "文本/附件/文本/名言/有遺憾挺好.md",
     "文本/附件/圖/離群值處理方式 分佈圖.png",
     "文本/附件/圖/CDA HW6 4.12 R code.png",
     "文本/附件/圖/Kaplan-Meier 40歲HIV 存活曲線.png",
-    "知識/統計/存活分析/Kaplan-Meier估計",
     "文本/附件/圖/0.2th 0.5th example.png",
     "文本/附件/圖/世代生命表 40歲HIV 存活曲線.png",
     "文本/附件/表/統計/世代生命表 HIV診斷AIDS到死亡之生命表.png",
