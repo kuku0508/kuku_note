@@ -59,7 +59,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "文本/歷史/達摩克利斯之劍.md",
+                "file": "文本/歷史/希臘/達摩克利斯之劍.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -70,8 +70,13 @@
             "id": "8678854dde1c2f8c",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "文本/歷史/希臘/達摩克利斯之劍.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
             }
           }
         ],
@@ -141,6 +146,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "文本/歷史/希臘/達摩克利斯之劍.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -157,6 +163,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "文本/歷史/希臘/達摩克利斯之劍.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -178,7 +185,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "文本/歷史/希臘/達摩克利斯之劍.md"
+              }
             }
           },
           {
@@ -219,6 +228,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "文本/歷史/希臘/達摩克利斯之劍.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -313,7 +323,8 @@
   },
   "active": "8678854dde1c2f8c",
   "lastOpenFiles": [
-    "文本/歷史/達摩克利斯之劍.md",
+    "文本/歷史/希臘",
+    "文本/歷史/希臘/達摩克利斯之劍.md",
     "文本/名言/粉紅色的雪.md",
     "文本/歷史",
     "文本/名言/有遺憾挺好.md",
@@ -358,7 +369,6 @@
     "知識/統計/存活分析/Kaplan-Meier估計/Kaplan-Meier方法.md",
     "知識/統計/存活分析/基礎知識/常用符號/pth quantile.md",
     "知識/統計/存活分析/基礎知識/常用符號/Survival Function.md",
-    "知識/統計/統計學/基礎知識/母體參數／樣本統計量/百分位數.md",
     "未命名.canvas",
     "文本/問題/未命名.canvas"
   ]
