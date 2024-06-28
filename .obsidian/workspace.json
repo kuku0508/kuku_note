@@ -72,7 +72,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "知識/用語/一般用語目錄.md",
+                "file": "知識/用語/一般用語/達摩克利斯之劍.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -146,7 +146,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "知識/用語/一般用語目錄.md",
+                "file": "知識/用語/一般用語/達摩克利斯之劍.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -163,7 +163,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "知識/用語/一般用語目錄.md",
+                "file": "知識/用語/一般用語/達摩克利斯之劍.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -186,7 +186,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "知識/用語/一般用語目錄.md"
+                "file": "知識/用語/一般用語/達摩克利斯之劍.md"
               }
             }
           },
@@ -228,7 +228,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "知識/用語/一般用語目錄.md",
+                "file": "知識/用語/一般用語/達摩克利斯之劍.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -323,9 +323,9 @@
   },
   "active": "8678854dde1c2f8c",
   "lastOpenFiles": [
-    "知識/用語/網路用語目錄.md",
     "知識/用語/一般用語目錄.md",
     "知識/用語/用語總目錄.md",
+    "知識/用語/網路用語目錄.md",
     "知識/用語/一般用語",
     "知識/統計/存活分析/基礎知識/存活分析基礎知識目錄.md",
     "知識/統計/存活分析/存活分析目錄.md",
