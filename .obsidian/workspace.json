@@ -65,9 +65,17 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "8678854dde1c2f8c",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -133,7 +141,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "文本/歷史/達摩克利斯之劍.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -150,7 +157,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "文本/歷史/達摩克利斯之劍.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -172,9 +178,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "文本/歷史/達摩克利斯之劍.md"
-              }
+              "state": {}
             }
           },
           {
@@ -215,7 +219,6 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "文本/歷史/達摩克利斯之劍.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -308,10 +311,10 @@
       }
     ]
   },
-  "active": "8bf66969b4dfb194",
+  "active": "8678854dde1c2f8c",
   "lastOpenFiles": [
-    "文本/名言/粉紅色的雪.md",
     "文本/歷史/達摩克利斯之劍.md",
+    "文本/名言/粉紅色的雪.md",
     "文本/歷史",
     "文本/名言/有遺憾挺好.md",
     "文本/統計/統計學/圖/Normal Distribution 68 95 99.7.png",
