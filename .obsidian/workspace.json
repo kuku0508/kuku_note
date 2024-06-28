@@ -59,7 +59,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "知識/用語/達摩克利斯之劍.md",
+                "file": "知識/用語/一般用語/達摩克利斯之劍.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -72,7 +72,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "知識/用語/用語總目錄.md",
+                "file": "知識/用語/一般用語目錄.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -146,7 +146,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "知識/用語/用語總目錄.md",
+                "file": "知識/用語/一般用語目錄.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -163,7 +163,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "知識/用語/用語總目錄.md",
+                "file": "知識/用語/一般用語目錄.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -186,7 +186,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "知識/用語/用語總目錄.md"
+                "file": "知識/用語/一般用語目錄.md"
               }
             }
           },
@@ -228,7 +228,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "知識/用語/用語總目錄.md",
+                "file": "知識/用語/一般用語目錄.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -321,16 +321,18 @@
       }
     ]
   },
-  "active": "418f87f864239790",
+  "active": "8678854dde1c2f8c",
   "lastOpenFiles": [
+    "知識/用語/網路用語目錄.md",
+    "知識/用語/一般用語目錄.md",
+    "知識/用語/用語總目錄.md",
     "知識/用語/一般用語",
     "知識/統計/存活分析/基礎知識/存活分析基礎知識目錄.md",
     "知識/統計/存活分析/存活分析目錄.md",
     "知識/統計/存活分析/基礎知識/常用符號/常用符號目錄.md",
     "知識/程式語言/MarkDown/Markdown知識總目錄.md",
-    "知識/用語/用語總目錄.md",
     "知識/用語/網路用語/電子陽痿.md",
-    "知識/用語/達摩克利斯之劍.md",
+    "知識/用語/一般用語/達摩克利斯之劍.md",
     "文本/歷史/希臘",
     "文本/名言/粉紅色的雪.md",
     "文本/歷史",
@@ -352,7 +354,6 @@
     "文本/統計/類別資料分析/圖/CDA HW6 4.12 R code.png",
     "文本/統計/類別資料分析/圖",
     "文本/統計/存活分析/圖/discrete example in pth quantile.png",
-    "文本/統計/存活分析/圖",
     "文本/統計/類別資料分析/問題/CDA 第六次作業.md",
     "文本/統計/類別資料分析/講義/CDA Topic 4-6.md",
     "文本/統計/抽樣調查/講義/Ch-08.md",
@@ -368,7 +369,6 @@
     "知識/統計/存活分析/Kaplan-Meier估計/confidance Interval of Survival Function.md",
     "知識/統計/存活分析/基礎知識/常用符號/Hazard function.md",
     "知識/統計/存活分析/基礎知識/常用符號/Untitled Kanban.md",
-    "知識/程式語言/Latex/基礎知識/語法表/begin...end.md",
     "未命名.canvas",
     "文本/問題/未命名.canvas"
   ]
