@@ -36,7 +36,7 @@
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "文本/附件/文本/講義/統計/ch14.3.md"
+                "file": "文本/統計學/講義/ch14.3.md"
               }
             }
           }
@@ -107,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "文本/附件/文本/講義/統計/ch14.3.md",
+                "file": "文本/統計學/講義/ch14.3.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "文本/附件/文本/講義/統計/ch14.3.md",
+                "file": "文本/統計學/講義/ch14.3.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "文本/附件/文本/講義/統計/ch14.3.md"
+                "file": "文本/統計學/講義/ch14.3.md"
               }
             }
           },
@@ -189,7 +189,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "文本/附件/文本/講義/統計/ch14.3.md",
+                "file": "文本/統計學/講義/ch14.3.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -282,10 +282,11 @@
       }
     ]
   },
-  "active": "f70c20e4856b4c63",
+  "active": "418f87f864239790",
   "lastOpenFiles": [
+    "文本/統計學/講義",
     "文本/辯論/一辯稿/菁英盃.md",
-    "文本/附件/統計學",
+    "文本/統計學",
     "文本/辯論/一辯稿/網路讓人類思考多元or單一.md",
     "文本/辯論/一辯稿",
     "文本/辯論/一辯稿/廉政盃.md",
