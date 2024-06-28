@@ -44,14 +44,30 @@
             "id": "b99e3d1b0e9390a8",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "文本/統計/統計學/圖/Normal Distribution 68 95 99.7.png"
+                "file": "文本/名言/粉紅色的雪.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "8bf66969b4dfb194",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "文本/名言/粉紅色的雪.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
               }
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -117,7 +133,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "文本/統計/統計學/圖/Normal Distribution 68 95 99.7.png",
+                "file": "文本/名言/粉紅色的雪.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -134,7 +150,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "文本/統計/統計學/圖/Normal Distribution 68 95 99.7.png",
+                "file": "文本/名言/粉紅色的雪.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -157,7 +173,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "文本/統計/統計學/圖/Normal Distribution 68 95 99.7.png"
+                "file": "文本/名言/粉紅色的雪.md"
               }
             }
           },
@@ -199,7 +215,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "文本/統計/統計學/圖/Normal Distribution 68 95 99.7.png",
+                "file": "文本/名言/粉紅色的雪.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -292,8 +308,12 @@
       }
     ]
   },
-  "active": "418f87f864239790",
+  "active": "8bf66969b4dfb194",
   "lastOpenFiles": [
+    "文本/名言/有遺憾挺好.md",
+    "文本/名言/粉紅色的雪.md",
+    "文本/統計/統計學/圖/Normal Distribution 68 95 99.7.png",
+    "文本/辯論/名言",
     "文本/統計",
     "文本/畫畫",
     "文本/統計/統計學/圖/相對次數直方圖 範例.png",
@@ -309,14 +329,11 @@
     "文本/統計/類別資料分析/圖/CDA HW6 4.12 R code.png",
     "文本/統計/類別資料分析/圖",
     "文本/統計/存活分析/圖/discrete example in pth quantile.png",
-    "文本/統計/存活分析/圖/example F(t)-t圖 in pth quantile.png",
     "文本/統計/存活分析/圖",
     "文本/統計/統計學/圖",
     "文本/統計/存活分析/表",
     "文本/統計/類別資料分析/問題/CDA 第六次作業.md",
-    "文本/程式語言/表",
     "文本/統計/類別資料分析/講義/CDA Topic 4-6.md",
-    "文本/統計/類別資料分析/問題",
     "文本/統計/抽樣調查/講義/Ch-08.md",
     "文本/統計/統計學/講義/ch14.3.md",
     "文本/辯論/一辯稿/菁英盃.md",
@@ -339,7 +356,6 @@
     "知識/統計/存活分析/基礎知識/常用符號/Survival Function.md",
     "知識/統計/統計學/基礎知識/母體參數／樣本統計量/百分位數.md",
     "知識/統計/存活分析/基礎知識/常用符號/常用符號目錄.md",
-    "知識/統計/存活分析/基礎知識/設限/設限.md",
     "未命名.canvas",
     "文本/問題/未命名.canvas"
   ]
