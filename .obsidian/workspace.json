@@ -72,7 +72,7 @@
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "文本/書/叔本華的辯論藝術.md"
+                "file": "文本/書/大數據分析與應用實戰 統計機器學習之資料導向程式設計.md"
               }
             }
           }
@@ -143,7 +143,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "文本/書/叔本華的辯論藝術.md",
+                "file": "文本/書/大數據分析與應用實戰 統計機器學習之資料導向程式設計.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -160,7 +160,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "文本/書/叔本華的辯論藝術.md",
+                "file": "文本/書/大數據分析與應用實戰 統計機器學習之資料導向程式設計.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -183,7 +183,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "文本/書/叔本華的辯論藝術.md"
+                "file": "文本/書/大數據分析與應用實戰 統計機器學習之資料導向程式設計.md"
               }
             }
           },
@@ -225,7 +225,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "文本/書/叔本華的辯論藝術.md",
+                "file": "文本/書/大數據分析與應用實戰 統計機器學習之資料導向程式設計.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -320,8 +320,15 @@
   },
   "active": "8678854dde1c2f8c",
   "lastOpenFiles": [
-    "文本/書/叔本華的思想隨筆.md",
+    "文本/書/卡內基說話之道 如何贏取友誼與影響他人.md",
+    "文本/書/在柏拉圖的洞穴裡.md",
+    "文本/書/自卑與超越.md",
+    "文本/書/你怎能不愛上辯論 亦恩的辯論天堂.md",
+    "文本/書/形上學.md",
     "文本/書/形上學 理論與批判.md",
+    "文本/書/叔本華的思想隨筆.md",
+    "文本/書/叔本華 人生哲學的智慧.md",
+    "文本/書/叔本華的辯論藝術.md",
     "文本/書/孤獨通行證.md",
     "文本/書/東大生的究極專注力.md",
     "文本/書/原子習慣.md",
@@ -331,7 +338,6 @@
     "文本/書/榮格心理學指南.md",
     "文本/書/辯論的實戰技巧.md",
     "文本/書/犯罪心理學.md",
-    "文本/書/在柏拉圖的洞穴裡.md",
     "文本/書/心流 FLOW.md",
     "文本/統計/存活分析/講義/Survival Analysis topic 2.md",
     "知識/統計/存活分析/基礎知識/常用符號/mean residual life.md",
@@ -340,12 +346,6 @@
     "知識/統計/存活分析/Kaplan-Meier估計/累積風險函數的估計.md",
     "知識/統計/存活分析/Kaplan-Meier估計/風險函數估計.md",
     "知識/統計/存活分析/Kaplan-Meier估計/Greenwood's formula.md",
-    "知識/統計/存活分析/Kaplan-Meier估計/confidance Interval of Survival Function.md",
-    "知識/統計/存活分析/基礎知識/常用符號/cumulative hazard function.md",
-    "文本/名言/粉紅色的雪.md",
-    "知識/統計/存活分析/Kaplan-Meier估計/Kaplan-Meier方法.md",
-    "知識/用語/一般用語/達摩克利斯之劍.md",
-    "知識/用語/一般用語目錄.md",
     "知識/用語/一般用語",
     "文本/歷史/希臘",
     "文本/歷史",
