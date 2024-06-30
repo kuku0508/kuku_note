@@ -70,9 +70,12 @@
             "id": "8678854dde1c2f8c",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "文本/書/大數據分析與應用實戰 統計機器學習之資料導向程式設計.md"
+                "file": "知識/用語/一般用語/達摩克利斯之劍.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
               }
             }
           }
@@ -143,7 +146,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "文本/統計/存活分析/講義/Survival Analysis topic 2.md",
+                "file": "知識/用語/一般用語/達摩克利斯之劍.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -160,7 +163,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "文本/統計/存活分析/講義/Survival Analysis topic 2.md",
+                "file": "知識/用語/一般用語/達摩克利斯之劍.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -183,7 +186,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "文本/統計/存活分析/講義/Survival Analysis topic 2.md"
+                "file": "知識/用語/一般用語/達摩克利斯之劍.md"
               }
             }
           },
@@ -225,7 +228,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "文本/統計/存活分析/講義/Survival Analysis topic 2.md",
+                "file": "知識/用語/一般用語/達摩克利斯之劍.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -309,8 +312,8 @@
           }
         ],
         "direction": "vertical",
-        "x": 0,
-        "y": 0,
+        "x": 2,
+        "y": 4,
         "width": 1280,
         "height": 1392,
         "maximize": false,
@@ -318,9 +321,10 @@
       }
     ]
   },
-  "active": "aee137e9fd7fcedc",
+  "active": "8678854dde1c2f8c",
   "lastOpenFiles": [
     "文本/書/大數據分析與應用實戰 統計機器學習之資料導向程式設計.md",
+    "文本/統計/存活分析/講義/Survival Analysis topic 2.md",
     "文本/書/卡內基說話之道 如何贏取友誼與影響他人.md",
     "文本/書/在柏拉圖的洞穴裡.md",
     "文本/書/自卑與超越.md",
@@ -340,7 +344,6 @@
     "文本/書/辯論的實戰技巧.md",
     "文本/書/犯罪心理學.md",
     "文本/書/心流 FLOW.md",
-    "文本/統計/存活分析/講義/Survival Analysis topic 2.md",
     "知識/統計/存活分析/基礎知識/常用符號/mean residual life.md",
     "知識/統計/存活分析/基礎知識/常用符號/mean life.md",
     "知識/統計/存活分析/存活分析目錄.md",
