@@ -143,7 +143,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "文本/書/大數據分析與應用實戰 統計機器學習之資料導向程式設計.md",
+                "file": "文本/統計/存活分析/講義/Survival Analysis topic 2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -160,7 +160,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "文本/書/大數據分析與應用實戰 統計機器學習之資料導向程式設計.md",
+                "file": "文本/統計/存活分析/講義/Survival Analysis topic 2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -183,7 +183,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "文本/書/大數據分析與應用實戰 統計機器學習之資料導向程式設計.md"
+                "file": "文本/統計/存活分析/講義/Survival Analysis topic 2.md"
               }
             }
           },
@@ -225,7 +225,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "文本/書/大數據分析與應用實戰 統計機器學習之資料導向程式設計.md",
+                "file": "文本/統計/存活分析/講義/Survival Analysis topic 2.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -318,8 +318,9 @@
       }
     ]
   },
-  "active": "8678854dde1c2f8c",
+  "active": "aee137e9fd7fcedc",
   "lastOpenFiles": [
+    "文本/書/大數據分析與應用實戰 統計機器學習之資料導向程式設計.md",
     "文本/書/卡內基說話之道 如何贏取友誼與影響他人.md",
     "文本/書/在柏拉圖的洞穴裡.md",
     "文本/書/自卑與超越.md",
@@ -345,7 +346,6 @@
     "知識/統計/存活分析/存活分析目錄.md",
     "知識/統計/存活分析/Kaplan-Meier估計/累積風險函數的估計.md",
     "知識/統計/存活分析/Kaplan-Meier估計/風險函數估計.md",
-    "知識/統計/存活分析/Kaplan-Meier估計/Greenwood's formula.md",
     "知識/用語/一般用語",
     "文本/歷史/希臘",
     "文本/歷史",
