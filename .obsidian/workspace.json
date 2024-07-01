@@ -99,8 +99,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 337.5,
-    "collapsed": true
+    "width": 337.5
   },
   "right": {
     "id": "1e2f35858b280e10",
@@ -116,7 +115,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "知識/統計/存活分析/其他估計量/百分位數估計.md",
+                "file": "文本/統計/存活分析/講義/Survival Analysis topic 2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,7 +132,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "知識/統計/存活分析/其他估計量/百分位數估計.md",
+                "file": "文本/統計/存活分析/講義/Survival Analysis topic 2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -156,7 +155,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "知識/統計/存活分析/其他估計量/百分位數估計.md"
+                "file": "文本/統計/存活分析/講義/Survival Analysis topic 2.md"
               }
             }
           },
@@ -198,7 +197,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "知識/統計/存活分析/其他估計量/百分位數估計.md",
+                "file": "文本/統計/存活分析/講義/Survival Analysis topic 2.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -256,10 +255,10 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "28750edaf90b63be",
+  "active": "4fc9f0305532ee6d",
   "lastOpenFiles": [
-    "文本/統計/存活分析/講義/Survival Analysis topic 2.md",
     "知識/統計/存活分析/其他估計量/百分位數估計.md",
+    "文本/統計/存活分析/講義/Survival Analysis topic 2.md",
     "文本/名言/粉紅色的雪.md",
     "知識/統計/存活分析/其他估計量/風險函數估計.md",
     "知識/統計/存活分析/其他估計量/confidance Interval of Survival Function.md",
