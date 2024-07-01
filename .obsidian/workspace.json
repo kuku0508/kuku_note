@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "知識/統計/存活分析/基礎知識/常用符號/Notations.md",
+                "file": "知識/統計/存活分析/基礎知識/設限/隨機設限.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "文本/統計/存活分析/講義/Survival Analysis topic 2.md",
+                "file": "知識/統計/存活分析/基礎知識/設限/隨機設限.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "文本/統計/存活分析/講義/Survival Analysis topic 2.md",
+                "file": "知識/統計/存活分析/基礎知識/設限/隨機設限.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "文本/統計/存活分析/講義/Survival Analysis topic 2.md"
+                "file": "知識/統計/存活分析/基礎知識/設限/隨機設限.md"
               }
             }
           },
@@ -168,7 +168,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "文本/統計/存活分析/講義/Survival Analysis topic 2.md",
+                "file": "知識/統計/存活分析/基礎知識/設限/隨機設限.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -271,26 +271,27 @@
       }
     ]
   },
-  "active": "0b40d4a384fc3653",
+  "active": "96987ceb010374fe",
   "lastOpenFiles": [
-    "文本/統計/存活分析/講義/Survival Analysis topic 1.md",
+    "知識/統計/存活分析/基礎知識/設限/右設限.md",
+    "知識/統計/存活分析/基礎知識/設限/設限.md",
+    "知識/統計/存活分析/基礎知識/截斷/雙邊截斷.md",
+    "知識/統計/存活分析/基礎知識/截斷/截斷.md",
+    "知識/統計/存活分析/基礎知識/截斷/右截斷.md",
+    "知識/統計/存活分析/基礎知識/存活分析.md",
+    "知識/統計/存活分析/基礎知識/Time to event data.md",
+    "知識/統計/存活分析/Kaplan-Meier估計/Kaplan-Meier方法.md",
     "知識/統計/存活分析/基礎知識/常用符號/Notations.md",
+    "文本/統計/存活分析/講義/Survival Analysis topic 2.md",
+    "文本/統計/存活分析/講義/Survival Analysis topic 1.md",
     "知識/統計/存活分析/基礎知識/常用符號/Survival Time.md",
     "知識/統計/存活分析/生命表/縱向／世代生命表.md",
     "知識/統計/存活分析/生命表/當代／截斷面生命表.md",
-    "知識/統計/存活分析/基礎知識/存活分析.md",
     "知識/統計/存活分析/基礎知識/存活分析基礎知識目錄.md",
     "知識/統計/存活分析/基礎知識/event.md",
-    "知識/統計/存活分析/基礎知識/Time to event data.md",
-    "知識/統計/存活分析/Kaplan-Meier估計/Kaplan-Meier方法.md",
     "知識/統計/存活分析/基礎知識/常用符號/mean life.md",
-    "知識/統計/存活分析/基礎知識/截斷/截斷.md",
-    "文本/統計/存活分析/講義/Survival Analysis topic 2.md",
-    "知識/統計/存活分析/基礎知識/截斷/右截斷.md",
     "知識/統計/存活分析/基礎知識/截斷/左截斷.md",
-    "知識/統計/存活分析/基礎知識/設限/設限.md",
     "知識/統計/存活分析/基礎知識/設限/左設限.md",
-    "知識/統計/存活分析/基礎知識/截斷/雙邊截斷.md",
     "知識/統計/存活分析/其他估計量/截斷平均時間.md",
     "知識/統計/存活分析/存活分析目錄.md",
     "知識/統計/存活分析/其他估計量/百分位數估計.md",
@@ -298,7 +299,6 @@
     "知識/統計/存活分析/基礎知識/設限/型I設限.md",
     "知識/統計/存活分析/基礎知識/常用符號/pth quantile.md",
     "知識/程式語言/Latex/基礎知識/語法表/希臘字母.md",
-    "知識/程式語言/Latex/基礎知識/語法表/hat(頭上長東西的).md",
     "知識/統計/存活分析/其他估計量",
     "知識/用語/一般用語",
     "文本/歷史/希臘",
