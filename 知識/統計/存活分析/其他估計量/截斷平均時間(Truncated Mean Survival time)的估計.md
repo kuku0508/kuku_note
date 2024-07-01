@@ -3,7 +3,7 @@
 # 公式：
 - **Continuous time：**
 $$
-\
+\hat{E}(T)=\int^{y_n}_0\hat{S}(t)dt
 $$
 - **Discrete time：**
 $$
