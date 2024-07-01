@@ -42,7 +42,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "知識/統計/存活分析/其他估計量/百分位數估計.md",
+                "file": "知識/程式語言/Latex/基礎知識/語法表/箭頭.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -115,7 +115,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "知識/統計/存活分析/其他估計量/百分位數估計.md",
+                "file": "知識/程式語言/Latex/基礎知識/語法表/箭頭.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -132,7 +132,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "知識/統計/存活分析/其他估計量/百分位數估計.md",
+                "file": "知識/程式語言/Latex/基礎知識/語法表/箭頭.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -155,7 +155,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "知識/統計/存活分析/其他估計量/百分位數估計.md"
+                "file": "知識/程式語言/Latex/基礎知識/語法表/箭頭.md"
               }
             }
           },
@@ -197,7 +197,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "知識/統計/存活分析/其他估計量/百分位數估計.md",
+                "file": "知識/程式語言/Latex/基礎知識/語法表/箭頭.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -257,8 +257,9 @@
   },
   "active": "28750edaf90b63be",
   "lastOpenFiles": [
-    "文本/統計/存活分析/講義/Survival Analysis topic 2.md",
+    "知識/程式語言/Latex/基礎知識/語法表/對數.md",
     "知識/統計/存活分析/其他估計量/百分位數估計.md",
+    "文本/統計/存活分析/講義/Survival Analysis topic 2.md",
     "文本/名言/粉紅色的雪.md",
     "知識/統計/存活分析/其他估計量/風險函數估計.md",
     "知識/統計/存活分析/其他估計量/confidance Interval of Survival Function.md",
@@ -283,7 +284,6 @@
     "文本/書/東大生的究極專注力.md",
     "文本/書/原子習慣.md",
     "文本/書/秩序之上 在不斷變動的世界找出隱藏邏輯{生存的另外十二條法則}.md",
-    "文本/書/被討厭的勇氣.md",
     "知識/用語/一般用語",
     "文本/歷史/希臘",
     "文本/歷史",
