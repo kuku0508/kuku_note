@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "知識/統計/存活分析/基礎知識/常用符號/mean residual life.md",
+                "file": "知識/統計/存活分析/存活分析目錄.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "知識/統計/存活分析/基礎知識/常用符號/mean residual life.md",
+                "file": "知識/統計/存活分析/存活分析目錄.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "知識/統計/存活分析/基礎知識/常用符號/mean residual life.md",
+                "file": "知識/統計/存活分析/存活分析目錄.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "知識/統計/存活分析/基礎知識/常用符號/mean residual life.md"
+                "file": "知識/統計/存活分析/存活分析目錄.md"
               }
             }
           },
@@ -168,7 +168,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "知識/統計/存活分析/基礎知識/常用符號/mean residual life.md",
+                "file": "知識/統計/存活分析/存活分析目錄.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -191,8 +191,8 @@
                   "repelStrength": 10,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 0.7132754626224438,
-                  "close": false
+                  "scale": 0.7132754626224439,
+                  "close": true
                 }
               }
             }
@@ -202,7 +202,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 337.5
+    "width": 337.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -272,11 +273,12 @@
   },
   "active": "96987ceb010374fe",
   "lastOpenFiles": [
+    "知識/統計/存活分析/其他估計量/Greenwood's formula.md",
     "知識/統計/存活分析/其他估計量/mrl(t)的估計.md",
+    "知識/統計/存活分析/基礎知識/常用符號/mean residual life.md",
     "知識/統計/存活分析/Kaplan-Meier估計/Kaplan-Meier方法.md",
     "知識/統計/存活分析/其他估計量/E(T)的變異數估計.md",
     "知識/統計/存活分析/存活分析目錄.md",
-    "知識/統計/存活分析/基礎知識/常用符號/mean residual life.md",
     "知識/統計/存活分析/其他估計量/截斷平均時間(Truncated Mean Survival time)的估計.md",
     "知識/統計/存活分析/基礎知識/Time to event data.md",
     "知識/統計/存活分析/基礎知識/設限/隨機設限.md",
@@ -297,7 +299,6 @@
     "知識/統計/存活分析/基礎知識/常用符號/mean life.md",
     "知識/統計/存活分析/基礎知識/截斷/左截斷.md",
     "知識/統計/存活分析/基礎知識/設限/左設限.md",
-    "知識/統計/存活分析/其他估計量/百分位數估計.md",
     "知識/統計/存活分析/其他估計量",
     "知識/用語/一般用語",
     "文本/歷史/希臘",
