@@ -92,14 +92,80 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "知識/統計/存活分析/存活分析目錄.md",
+                "file": "知識/統計/存活分析/其他估計量/風險函數估計.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "7e7abe70d35a1e94",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "知識/統計/存活分析/其他估計量/KM百分位數估計.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c70caf932db25bc7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "知識/統計/存活分析/其他估計量/Greenwood's formula.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "23924a103f3bccb4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "知識/統計/存活分析/其他估計量/風險函數估計.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "40dadfc9c24b2fba",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "知識/統計/存活分析/其他估計量/累積風險函數的估計.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "4aba918a0d87e07f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "知識/統計/存活分析/其他估計量/KM百分位數估計.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -165,7 +231,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "知識/統計/存活分析/存活分析目錄.md",
+                "file": "知識/統計/存活分析/其他估計量/KM百分位數估計.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -182,7 +248,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "知識/統計/存活分析/存活分析目錄.md",
+                "file": "知識/統計/存活分析/其他估計量/KM百分位數估計.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -205,7 +271,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "知識/統計/存活分析/存活分析目錄.md"
+                "file": "知識/統計/存活分析/其他估計量/KM百分位數估計.md"
               }
             }
           },
@@ -247,7 +313,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "知識/統計/存活分析/存活分析目錄.md",
+                "file": "知識/統計/存活分析/其他估計量/KM百分位數估計.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -340,19 +406,20 @@
       }
     ]
   },
-  "active": "5b892db9e50ae63d",
+  "active": "418f87f864239790",
   "lastOpenFiles": [
-    "知識/統計/存活分析/Kaplan-Meier估計/KM百分位數估計.md",
-    "知識/統計/存活分析/其他估計量",
+    "知識/統計/存活分析/其他估計量/風險函數估計.md",
+    "知識/統計/存活分析/其他估計量/confidance Interval of Survival Function.md",
+    "知識/統計/存活分析/其他估計量/累積風險函數的估計.md",
+    "知識/統計/存活分析/其他估計量/Greenwood's formula.md",
     "知識/統計/存活分析/Kaplan-Meier估計/Kaplan-Meier方法.md",
-    "知識/統計/存活分析/生命表/當代／截斷面生命表.md",
+    "知識/統計/存活分析/其他估計量/KM百分位數估計.md",
     "知識/統計/存活分析/存活分析目錄.md",
-    "知識/統計/存活分析/Kaplan-Meier估計/累積風險函數的估計.md",
-    "知識/統計/存活分析/Kaplan-Meier估計/confidance Interval of Survival Function.md",
-    "知識/統計/存活分析/Kaplan-Meier估計/風險函數估計.md",
+    "文本/統計/存活分析/講義/Survival Analysis topic 2.md",
+    "知識/統計/存活分析/其他估計量",
+    "知識/統計/存活分析/生命表/當代／截斷面生命表.md",
     "知識/用語/一般用語/達摩克利斯之劍.md",
     "文本/書/大數據分析與應用實戰 統計機器學習之資料導向程式設計.md",
-    "文本/統計/存活分析/講義/Survival Analysis topic 2.md",
     "文本/書/卡內基說話之道 如何贏取友誼與影響他人.md",
     "文本/書/在柏拉圖的洞穴裡.md",
     "文本/書/自卑與超越.md",
