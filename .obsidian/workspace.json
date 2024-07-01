@@ -90,8 +90,13 @@
             "id": "5b892db9e50ae63d",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "知識/統計/存活分析/存活分析目錄.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
             }
           }
         ]
@@ -160,6 +165,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "知識/統計/存活分析/存活分析目錄.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -176,6 +182,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "知識/統計/存活分析/存活分析目錄.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -197,7 +204,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "知識/統計/存活分析/存活分析目錄.md"
+              }
             }
           },
           {
@@ -238,6 +247,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "知識/統計/存活分析/存活分析目錄.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -332,9 +342,10 @@
   },
   "active": "5b892db9e50ae63d",
   "lastOpenFiles": [
+    "知識/統計/存活分析/Kaplan-Meier估計/KM百分位數估計.md",
+    "知識/統計/存活分析/其他估計量",
     "知識/統計/存活分析/Kaplan-Meier估計/Kaplan-Meier方法.md",
     "知識/統計/存活分析/生命表/當代／截斷面生命表.md",
-    "知識/統計/存活分析/KM百分位數估計.md",
     "知識/統計/存活分析/存活分析目錄.md",
     "知識/統計/存活分析/Kaplan-Meier估計/累積風險函數的估計.md",
     "知識/統計/存活分析/Kaplan-Meier估計/confidance Interval of Survival Function.md",
@@ -357,7 +368,6 @@
     "文本/書/秩序之上 在不斷變動的世界找出隱藏邏輯{生存的另外十二條法則}.md",
     "文本/書/被討厭的勇氣.md",
     "文本/書/超譯尼采II.md",
-    "文本/書/榮格心理學指南.md",
     "知識/用語/一般用語",
     "文本/歷史/希臘",
     "文本/歷史",
@@ -376,7 +386,6 @@
     "文本/統計/統計學/圖/離群值判斷方式　箱型圖說明.png",
     "文本/統計/統計學/圖/離群值處理方式 分佈圖.png",
     "文本/統計/類別資料分析/圖/CDA HW6 4.12 R code.png",
-    "文本/統計/類別資料分析/圖",
     "文本/統計/存活分析/圖/discrete example in pth quantile.png",
     "未命名.canvas",
     "文本/問題/未命名.canvas"
