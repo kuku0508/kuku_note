@@ -2,7 +2,10 @@
 - - -
 # 公式：
 - **Continuous time：**
-- Discrete time
+$$
+\
+$$
+- **Discrete time：**
 $$
 
 $$
