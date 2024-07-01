@@ -72,7 +72,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "知識/統計/存活分析/Kaplan-Meier估計/Kaplan-Meier方法.md",
+                "file": "知識/統計/存活分析/生命表/當代／截斷面生命表.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -146,7 +146,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "知識/統計/存活分析/Kaplan-Meier估計/Kaplan-Meier方法.md",
+                "file": "知識/統計/存活分析/生命表/當代／截斷面生命表.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -163,7 +163,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "知識/統計/存活分析/Kaplan-Meier估計/Kaplan-Meier方法.md",
+                "file": "知識/統計/存活分析/生命表/當代／截斷面生命表.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -186,7 +186,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "知識/統計/存活分析/Kaplan-Meier估計/Kaplan-Meier方法.md"
+                "file": "知識/統計/存活分析/生命表/當代／截斷面生命表.md"
               }
             }
           },
@@ -228,7 +228,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "知識/統計/存活分析/Kaplan-Meier估計/Kaplan-Meier方法.md",
+                "file": "知識/統計/存活分析/生命表/當代／截斷面生命表.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -323,6 +323,7 @@
   },
   "active": "8678854dde1c2f8c",
   "lastOpenFiles": [
+    "知識/統計/存活分析/Kaplan-Meier估計/Kaplan-Meier方法.md",
     "知識/統計/存活分析/Kaplan-Meier估計/累積風險函數的估計.md",
     "知識/統計/存活分析/Kaplan-Meier估計/風險函數估計.md",
     "知識/統計/存活分析/存活分析目錄.md",
@@ -348,7 +349,6 @@
     "文本/書/辯論的實戰技巧.md",
     "文本/書/犯罪心理學.md",
     "文本/書/心流 FLOW.md",
-    "知識/統計/存活分析/基礎知識/常用符號/mean residual life.md",
     "知識/用語/一般用語",
     "文本/歷史/希臘",
     "文本/歷史",
