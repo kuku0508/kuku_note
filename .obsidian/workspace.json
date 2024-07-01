@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "知識/程式語言/Latex/基礎知識/語法表/hat(頭上長東西的).md",
+                "file": "知識/程式語言/Latex/基礎知識/語法表/箭頭.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "知識/程式語言/Latex/基礎知識/語法表/hat(頭上長東西的).md",
+                "file": "知識/程式語言/Latex/基礎知識/語法表/箭頭.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "知識/程式語言/Latex/基礎知識/語法表/hat(頭上長東西的).md",
+                "file": "知識/程式語言/Latex/基礎知識/語法表/箭頭.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "知識/程式語言/Latex/基礎知識/語法表/hat(頭上長東西的).md"
+                "file": "知識/程式語言/Latex/基礎知識/語法表/箭頭.md"
               }
             }
           },
@@ -168,7 +168,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "知識/程式語言/Latex/基礎知識/語法表/hat(頭上長東西的).md",
+                "file": "知識/程式語言/Latex/基礎知識/語法表/箭頭.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -228,6 +228,7 @@
   },
   "active": "28750edaf90b63be",
   "lastOpenFiles": [
+    "知識/程式語言/Latex/基礎知識/語法表/hat(頭上長東西的).md",
     "知識/統計/存活分析/其他估計量/百分位數估計.md",
     "文本/統計/存活分析/講義/Survival Analysis topic 2.md",
     "知識/統計/統計學/基礎知識/母體參數／樣本統計量/百分位數.md",
@@ -236,7 +237,6 @@
     "知識/程式語言/Latex/基礎知識/語法表/級數.md",
     "知識/程式語言/Latex/基礎知識/語法表/條件表達式.md",
     "知識/程式語言/Latex/基礎知識/語法表/連分數.md",
-    "知識/程式語言/Latex/基礎知識/語法表/hat(頭上長東西的).md",
     "知識/程式語言/Latex/基礎知識/語法表/sideset.md",
     "知識/程式語言/Latex/基礎知識/語法表/Latex語法表.md",
     "知識/程式語言/Latex/基礎知識/語法表/註釋文字.md",

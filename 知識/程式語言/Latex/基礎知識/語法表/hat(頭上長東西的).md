@@ -16,6 +16,10 @@ $$
 \\
 \overset{x}{y}
 \\
-\underset{}{}{
+\underset{x}{y}
+\\
+\overleftarrow{x}
+\\
+\overrightarrow{x}
 \end{align}
 $$
