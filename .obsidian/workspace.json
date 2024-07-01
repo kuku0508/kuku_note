@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "知識/統計/存活分析/基礎知識/常用符號/mean residual life.md",
+                "file": "知識/統計/存活分析/存活分析目錄.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "知識/統計/存活分析/基礎知識/常用符號/mean residual life.md",
+                "file": "知識/統計/存活分析/存活分析目錄.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "知識/統計/存活分析/基礎知識/常用符號/mean residual life.md",
+                "file": "知識/統計/存活分析/存活分析目錄.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "知識/統計/存活分析/基礎知識/常用符號/mean residual life.md"
+                "file": "知識/統計/存活分析/存活分析目錄.md"
               }
             }
           },
@@ -168,7 +168,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "知識/統計/存活分析/基礎知識/常用符號/mean residual life.md",
+                "file": "知識/統計/存活分析/存活分析目錄.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -273,6 +273,7 @@
   },
   "active": "96987ceb010374fe",
   "lastOpenFiles": [
+    "知識/統計/存活分析/基礎知識/常用符號/mean residual life.md",
     "知識/統計/存活分析/其他估計量/截斷平均時間(Truncated Mean Survival time)的估計.md",
     "知識/統計/存活分析/存活分析目錄.md",
     "知識/統計/存活分析/基礎知識/Time to event data.md",
@@ -298,7 +299,6 @@
     "知識/統計/存活分析/其他估計量/百分位數估計.md",
     "知識/統計/存活分析/其他估計量/累積風險函數的估計.md",
     "知識/統計/存活分析/基礎知識/設限/型I設限.md",
-    "知識/統計/存活分析/基礎知識/常用符號/pth quantile.md",
     "知識/統計/存活分析/其他估計量",
     "知識/用語/一般用語",
     "文本/歷史/希臘",
