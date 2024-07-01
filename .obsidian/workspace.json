@@ -52,35 +52,9 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "8bf66969b4dfb194",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "知識/用語/一般用語/達摩克利斯之劍.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "8678854dde1c2f8c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "知識/統計/存活分析/生命表/當代／截斷面生命表.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 3
       },
       {
         "id": "d98e64acda6784f8",
@@ -231,7 +205,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "文本/統計/存活分析/講義/Survival Analysis topic 2.md",
+                "file": "知識/統計/存活分析/其他估計量/百分位數估計.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -248,7 +222,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "文本/統計/存活分析/講義/Survival Analysis topic 2.md",
+                "file": "知識/統計/存活分析/其他估計量/百分位數估計.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -271,7 +245,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "文本/統計/存活分析/講義/Survival Analysis topic 2.md"
+                "file": "知識/統計/存活分析/其他估計量/百分位數估計.md"
               }
             }
           },
@@ -313,7 +287,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "文本/統計/存活分析/講義/Survival Analysis topic 2.md",
+                "file": "知識/統計/存活分析/其他估計量/百分位數估計.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -406,8 +380,9 @@
       }
     ]
   },
-  "active": "aee137e9fd7fcedc",
+  "active": "4aba918a0d87e07f",
   "lastOpenFiles": [
+    "文本/統計/存活分析/講義/Survival Analysis topic 2.md",
     "知識/統計/存活分析/其他估計量/百分位數估計.md",
     "知識/統計/存活分析/其他估計量/風險函數估計.md",
     "知識/統計/存活分析/其他估計量/confidance Interval of Survival Function.md",
@@ -415,7 +390,6 @@
     "知識/統計/存活分析/其他估計量/Greenwood's formula.md",
     "知識/統計/存活分析/Kaplan-Meier估計/Kaplan-Meier方法.md",
     "知識/統計/存活分析/存活分析目錄.md",
-    "文本/統計/存活分析/講義/Survival Analysis topic 2.md",
     "知識/統計/存活分析/其他估計量",
     "知識/統計/存活分析/生命表/當代／截斷面生命表.md",
     "知識/用語/一般用語/達摩克利斯之劍.md",
