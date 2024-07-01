@@ -105,7 +105,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "知識/統計/存活分析/其他估計量/KM百分位數估計.md",
+                "file": "知識/統計/存活分析/其他估計量/百分位數估計.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -157,7 +157,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "知識/統計/存活分析/其他估計量/KM百分位數估計.md",
+                "file": "知識/統計/存活分析/其他估計量/百分位數估計.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -231,7 +231,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "知識/統計/存活分析/其他估計量/KM百分位數估計.md",
+                "file": "文本/統計/存活分析/講義/Survival Analysis topic 2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -248,7 +248,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "知識/統計/存活分析/其他估計量/KM百分位數估計.md",
+                "file": "文本/統計/存活分析/講義/Survival Analysis topic 2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -271,7 +271,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "知識/統計/存活分析/其他估計量/KM百分位數估計.md"
+                "file": "文本/統計/存活分析/講義/Survival Analysis topic 2.md"
               }
             }
           },
@@ -313,7 +313,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "知識/統計/存活分析/其他估計量/KM百分位數估計.md",
+                "file": "文本/統計/存活分析/講義/Survival Analysis topic 2.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -406,14 +406,14 @@
       }
     ]
   },
-  "active": "418f87f864239790",
+  "active": "aee137e9fd7fcedc",
   "lastOpenFiles": [
+    "知識/統計/存活分析/其他估計量/百分位數估計.md",
     "知識/統計/存活分析/其他估計量/風險函數估計.md",
     "知識/統計/存活分析/其他估計量/confidance Interval of Survival Function.md",
     "知識/統計/存活分析/其他估計量/累積風險函數的估計.md",
     "知識/統計/存活分析/其他估計量/Greenwood's formula.md",
     "知識/統計/存活分析/Kaplan-Meier估計/Kaplan-Meier方法.md",
-    "知識/統計/存活分析/其他估計量/KM百分位數估計.md",
     "知識/統計/存活分析/存活分析目錄.md",
     "文本/統計/存活分析/講義/Survival Analysis topic 2.md",
     "知識/統計/存活分析/其他估計量",
