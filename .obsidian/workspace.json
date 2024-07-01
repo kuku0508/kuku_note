@@ -90,13 +90,8 @@
             "id": "5b892db9e50ae63d",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "知識/統計/存活分析/Kaplan-Meier估計/Kaplan-Meier方法.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ]
@@ -165,7 +160,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "知識/統計/存活分析/Kaplan-Meier估計/Kaplan-Meier方法.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -182,7 +176,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "知識/統計/存活分析/Kaplan-Meier估計/Kaplan-Meier方法.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -204,9 +197,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "知識/統計/存活分析/Kaplan-Meier估計/Kaplan-Meier方法.md"
-              }
+              "state": {}
             }
           },
           {
@@ -247,7 +238,6 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "知識/統計/存活分析/Kaplan-Meier估計/Kaplan-Meier方法.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -342,12 +332,12 @@
   },
   "active": "5b892db9e50ae63d",
   "lastOpenFiles": [
+    "知識/統計/存活分析/Kaplan-Meier估計/Kaplan-Meier方法.md",
     "知識/統計/存活分析/生命表/當代／截斷面生命表.md",
     "知識/統計/存活分析/KM百分位數估計.md",
     "知識/統計/存活分析/存活分析目錄.md",
     "知識/統計/存活分析/Kaplan-Meier估計/累積風險函數的估計.md",
     "知識/統計/存活分析/Kaplan-Meier估計/confidance Interval of Survival Function.md",
-    "知識/統計/存活分析/Kaplan-Meier估計/Kaplan-Meier方法.md",
     "知識/統計/存活分析/Kaplan-Meier估計/風險函數估計.md",
     "知識/用語/一般用語/達摩克利斯之劍.md",
     "文本/書/大數據分析與應用實戰 統計機器學習之資料導向程式設計.md",

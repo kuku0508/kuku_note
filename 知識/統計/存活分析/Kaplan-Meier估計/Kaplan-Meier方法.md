@@ -44,4 +44,4 @@ $$
 ![[Kaplan-Meier 40歲HIV 存活曲線.png]]
 - - -
 parent::[[存活分析目錄]],[[Survival Function]]
-sibling::[[縱向／世代生命表]]
+sibling::[[縱向／世代生命表]],[[當代／截斷面生命表]]
