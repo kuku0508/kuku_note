@@ -6,3 +6,5 @@
 | \grave{x}  | $\grave{x}$  | \acute{y}       | $\acute{y}$        |
 - - -
 parent::[[Latex語法表]]
+
+
