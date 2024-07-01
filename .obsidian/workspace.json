@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "知識/統計/存活分析/其他估計量/mrl(t)的估計.md",
+                "file": "知識/統計/存活分析/基礎知識/常用符號/mean residual life.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "知識/統計/存活分析/其他估計量/mrl(t)的估計.md",
+                "file": "知識/統計/存活分析/基礎知識/常用符號/mean residual life.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "知識/統計/存活分析/其他估計量/mrl(t)的估計.md",
+                "file": "知識/統計/存活分析/基礎知識/常用符號/mean residual life.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "知識/統計/存活分析/其他估計量/mrl(t)的估計.md"
+                "file": "知識/統計/存活分析/基礎知識/常用符號/mean residual life.md"
               }
             }
           },
@@ -168,7 +168,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "知識/統計/存活分析/其他估計量/mrl(t)的估計.md",
+                "file": "知識/統計/存活分析/基礎知識/常用符號/mean residual life.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -192,7 +192,7 @@
                   "linkStrength": 1,
                   "linkDistance": 250,
                   "scale": 0.7132754626224438,
-                  "close": true
+                  "close": false
                 }
               }
             }
@@ -272,8 +272,8 @@
   },
   "active": "96987ceb010374fe",
   "lastOpenFiles": [
-    "知識/統計/存活分析/Kaplan-Meier估計/Kaplan-Meier方法.md",
     "知識/統計/存活分析/其他估計量/mrl(t)的估計.md",
+    "知識/統計/存活分析/Kaplan-Meier估計/Kaplan-Meier方法.md",
     "知識/統計/存活分析/其他估計量/E(T)的變異數估計.md",
     "知識/統計/存活分析/存活分析目錄.md",
     "知識/統計/存活分析/基礎知識/常用符號/mean residual life.md",

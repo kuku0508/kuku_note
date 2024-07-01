@@ -45,3 +45,4 @@ $$
 - - -
 parent::[[存活分析目錄]],[[Survival Function]]
 sibling::[[縱向／世代生命表]],[[當代／截斷面生命表]]
+child::[[mrl(t)的估計]]

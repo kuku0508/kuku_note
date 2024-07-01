@@ -16,3 +16,4 @@ $$
 ![[mean residual life 圖例.png]]
 - - -
 parent::[[Survival Time]],[[Survival Function]],[[常用符號目錄]],[[平均數]]
+child
