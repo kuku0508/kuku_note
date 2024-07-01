@@ -7,3 +7,5 @@
 | \bar{x}    | $\bar{x}$    |                 |                    |
 - - -
 parent::[[Latex語法表]]
+
+$\rightharpoonup{x}$
