@@ -7,5 +7,5 @@ $$
 $$
 - **Discrete time：**
 $$
-\hat{E}(T)=\sum^k_{j=1}(t_j-t_{j-1})
+\hat{E}(T)=\sum^k_{j=1}(t_j-t_{j-1})\hat{S}(t_{j-1})
 $$
