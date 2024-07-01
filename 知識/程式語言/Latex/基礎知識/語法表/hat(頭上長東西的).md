@@ -9,7 +9,13 @@ parent::[[Latex語法表]]
 
 
 $$
+\begin{align}
 \overline{x}
-
+\\
 \underline{x}
+\\
+\overset{x}{y}
+\\
+\underset{}{}{
+\end{align}
 $$
