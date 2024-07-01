@@ -3,9 +3,11 @@
 # 公式：
 - **Continuous time：**
 $$
-\hat{E}(T)=\int^{y_n}_0\hat{S}(t)dt\,,\,where y_n=max(y_i)
+\hat{E}(T)=\int^{y_n}_0\hat{S}(t)dt\,,\,where\,\,y_n=max\,(y_i)
 $$
 - **Discrete time：**
 $$
 \hat{E}(T)=\sum^k_{j=1}(t_j-t_{j-1})\hat{S}(t_{j-1})
 $$
+- - -
+parent::[[Survival Time]],[[trun
