@@ -4,101 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "297402cc5fbcac76",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "b35b3274ef44c969",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "文本/統計/時間數列/講義/老師筆記/Time Series-Session 5.md"
-              }
-            }
-          },
-          {
-            "id": "b99e3d1b0e9390a8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "文本/名言/粉紅色的雪.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          }
-        ],
-        "currentTab": 1
-      },
-      {
         "id": "d98e64acda6784f8",
         "type": "tabs",
         "children": [
           {
-            "id": "5b892db9e50ae63d",
+            "id": "4fc9f0305532ee6d",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "excalidraw",
               "state": {
-                "file": "知識/統計/存活分析/其他估計量/風險函數估計.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "7e7abe70d35a1e94",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "知識/統計/存活分析/其他估計量/百分位數估計.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c70caf932db25bc7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "知識/統計/存活分析/其他估計量/Greenwood's formula.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "23924a103f3bccb4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "知識/統計/存活分析/其他估計量/風險函數估計.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "40dadfc9c24b2fba",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "知識/統計/存活分析/其他估計量/累積風險函數的估計.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
+                "file": "文本/統計/存活分析/講義/Survival Analysis topic 2.md"
               }
             }
           },
@@ -115,8 +30,26 @@
               }
             }
           }
-        ],
-        "currentTab": 5
+        ]
+      },
+      {
+        "id": "ef52fa08848e2cd0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "28750edaf90b63be",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "知識/統計/存活分析/其他估計量/百分位數估計.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -322,46 +255,11 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "floating": {
-    "id": "3c875423191808f8",
-    "type": "floating",
-    "children": [
-      {
-        "id": "5179b79e135820a4",
-        "type": "window",
-        "children": [
-          {
-            "id": "99556c7de83cd265",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "aee137e9fd7fcedc",
-                "type": "leaf",
-                "state": {
-                  "type": "excalidraw",
-                  "state": {
-                    "file": "文本/統計/存活分析/講義/Survival Analysis topic 2.md"
-                  }
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": 2,
-        "y": 4,
-        "width": 1280,
-        "height": 1392,
-        "maximize": false,
-        "zoom": 0
-      }
-    ]
-  },
-  "active": "4aba918a0d87e07f",
+  "active": "28750edaf90b63be",
   "lastOpenFiles": [
-    "文本/名言/粉紅色的雪.md",
-    "知識/統計/存活分析/其他估計量/百分位數估計.md",
     "文本/統計/存活分析/講義/Survival Analysis topic 2.md",
+    "知識/統計/存活分析/其他估計量/百分位數估計.md",
+    "文本/名言/粉紅色的雪.md",
     "知識/統計/存活分析/其他估計量/風險函數估計.md",
     "知識/統計/存活分析/其他估計量/confidance Interval of Survival Function.md",
     "知識/統計/存活分析/其他估計量/累積風險函數的估計.md",
