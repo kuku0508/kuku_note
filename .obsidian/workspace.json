@@ -226,12 +226,47 @@
       "obsidian-kanban:Create new board": false
     }
   },
+  "floating": {
+    "id": "3c875423191808f8",
+    "type": "floating",
+    "children": [
+      {
+        "id": "3264ddb64277494f",
+        "type": "window",
+        "children": [
+          {
+            "id": "20e3807f391c67c9",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "0b40d4a384fc3653",
+                "type": "leaf",
+                "state": {
+                  "type": "excalidraw",
+                  "state": {
+                    "file": "文本/統計/存活分析/講義/Survival Analysis topic 2.md"
+                  }
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 0,
+        "y": 0,
+        "width": 1280,
+        "height": 1392,
+        "maximize": false,
+        "zoom": 0
+      }
+    ]
+  },
   "active": "96987ceb010374fe",
   "lastOpenFiles": [
+    "文本/統計/存活分析/講義/Survival Analysis topic 2.md",
+    "知識/統計/存活分析/其他估計量/百分位數估計.md",
     "知識/程式語言/Latex/基礎知識/語法表/hat(頭上長東西的).md",
     "知識/程式語言/Latex/基礎知識/語法表/箭頭.md",
-    "知識/統計/存活分析/其他估計量/百分位數估計.md",
-    "文本/統計/存活分析/講義/Survival Analysis topic 2.md",
     "知識/統計/統計學/基礎知識/母體參數／樣本統計量/百分位數.md",
     "知識/程式語言/Latex/基礎知識/語法表/特殊符號.md",
     "知識/程式語言/Latex/基礎知識/語法表/矩陣.md",
