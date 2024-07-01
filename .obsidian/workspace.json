@@ -19,8 +19,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "ea1d3058cd65bc75",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "未命名/Drawing 2024-07-01 15.34.23.excalidraw.md"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -86,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "文本/辯論/一辯稿/廉政盃.md",
+                "file": "未命名/Drawing 2024-07-01 15.34.23.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "文本/辯論/一辯稿/廉政盃.md",
+                "file": "未命名/Drawing 2024-07-01 15.34.23.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "文本/辯論/一辯稿/廉政盃.md"
+                "file": "未命名/Drawing 2024-07-01 15.34.23.excalidraw.md"
               }
             }
           },
@@ -168,7 +179,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "文本/辯論/一辯稿/廉政盃.md",
+                "file": "未命名/Drawing 2024-07-01 15.34.23.excalidraw.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -271,8 +282,11 @@
       }
     ]
   },
-  "active": "96987ceb010374fe",
+  "active": "ea1d3058cd65bc75",
   "lastOpenFiles": [
+    "文本/辯論/一辯稿/廉政盃.md",
+    "未命名/Drawing 2024-07-01 15.34.23.excalidraw.md",
+    "未命名",
     "知識/統計/存活分析/Bootstrap Confidence Interval.md",
     "知識/統計/存活分析/存活分析目錄.md",
     "知識/統計/存活分析/其他估計量/Greenwood's formula.md",
@@ -297,8 +311,6 @@
     "知識/統計/存活分析/生命表/當代／截斷面生命表.md",
     "知識/統計/存活分析/基礎知識/存活分析基礎知識目錄.md",
     "知識/統計/存活分析/基礎知識/event.md",
-    "知識/統計/存活分析/基礎知識/常用符號/mean life.md",
-    "知識/統計/存活分析/基礎知識/截斷/左截斷.md",
     "知識/統計/存活分析/其他估計量",
     "知識/用語/一般用語",
     "文本/歷史/希臘",
@@ -310,7 +322,6 @@
     "文本/統計/統計學/圖/相對次數直方圖 範例.png",
     "文本/統計/時間數列/表",
     "文本/統計/時間數列/圖",
-    "文本/統計/時間數列/講義",
     "文本/統計/時間數列/圖/時間序列圖範例 每年飛機乘客數.png",
     "文本/統計/統計學/圖/圓餅圖範例 台灣政黨席次.png",
     "文本/統計/存活分析/圖/當代生命表 美國人口的存活曲線(1989~1981年).png",
