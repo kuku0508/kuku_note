@@ -8,3 +8,8 @@
 parent::[[Latex語法表]]
 
 
+$$
+\overline{x}
+
+\underline{x}
+$$
