@@ -4,20 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "ef52fa08848e2cd0",
+        "id": "e2115b3090c2ff00",
         "type": "tabs",
         "children": [
           {
-            "id": "28750edaf90b63be",
+            "id": "96987ceb010374fe",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "知識/程式語言/Latex/基礎知識/語法表/hat(頭上長東西的).md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -49,7 +44,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "bar",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -66,8 +61,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -87,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "知識/程式語言/Latex/基礎知識/語法表/hat(頭上長東西的).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "知識/程式語言/Latex/基礎知識/語法表/hat(頭上長東西的).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "知識/程式語言/Latex/基礎知識/語法表/hat(頭上長東西的).md"
-              }
+              "state": {}
             }
           },
           {
@@ -169,7 +159,6 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "知識/程式語言/Latex/基礎知識/語法表/hat(頭上長東西的).md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -227,10 +216,10 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "c1eb8eaa520f8c0b",
+  "active": "418f87f864239790",
   "lastOpenFiles": [
-    "知識/程式語言/Latex/基礎知識/語法表/箭頭.md",
     "知識/程式語言/Latex/基礎知識/語法表/hat(頭上長東西的).md",
+    "知識/程式語言/Latex/基礎知識/語法表/箭頭.md",
     "知識/統計/存活分析/其他估計量/百分位數估計.md",
     "文本/統計/存活分析/講義/Survival Analysis topic 2.md",
     "知識/統計/統計學/基礎知識/母體參數／樣本統計量/百分位數.md",
