@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "文本/統計/存活分析/講義/Survival Analysis topic 1.md",
+                "file": "文本/統計/存活分析/講義/Survival Analysis topic 2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "文本/統計/存活分析/講義/Survival Analysis topic 1.md",
+                "file": "文本/統計/存活分析/講義/Survival Analysis topic 2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "文本/統計/存活分析/講義/Survival Analysis topic 1.md"
+                "file": "文本/統計/存活分析/講義/Survival Analysis topic 2.md"
               }
             }
           },
@@ -168,7 +168,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "文本/統計/存活分析/講義/Survival Analysis topic 1.md",
+                "file": "文本/統計/存活分析/講義/Survival Analysis topic 2.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -258,8 +258,7 @@
                   }
                 }
               }
-            ],
-            "currentTab": 1
+            ]
           }
         ],
         "direction": "vertical",
@@ -272,8 +271,9 @@
       }
     ]
   },
-  "active": "6e20e6793e7625c2",
+  "active": "0b40d4a384fc3653",
   "lastOpenFiles": [
+    "文本/統計/存活分析/講義/Survival Analysis topic 1.md",
     "知識/統計/存活分析/基礎知識/常用符號/Notations.md",
     "知識/統計/存活分析/基礎知識/常用符號/Survival Time.md",
     "知識/統計/存活分析/生命表/縱向／世代生命表.md",
@@ -286,7 +286,6 @@
     "知識/統計/存活分析/基礎知識/常用符號/mean life.md",
     "知識/統計/存活分析/基礎知識/截斷/截斷.md",
     "文本/統計/存活分析/講義/Survival Analysis topic 2.md",
-    "文本/統計/存活分析/講義/Survival Analysis topic 1.md",
     "知識/統計/存活分析/基礎知識/截斷/右截斷.md",
     "知識/統計/存活分析/基礎知識/截斷/左截斷.md",
     "知識/統計/存活分析/基礎知識/設限/設限.md",
