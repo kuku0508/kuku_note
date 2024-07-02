@@ -86,6 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "文本/統計/統計學/講義/ch3.1~ch3.5.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,6 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "文本/統計/統計學/講義/ch3.1~ch3.5.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,7 +125,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "文本/統計/統計學/講義/ch3.1~ch3.5.md"
+              }
             }
           },
           {
@@ -164,6 +168,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "文本/統計/統計學/講義/ch3.1~ch3.5.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -257,12 +262,13 @@
                 "id": "71dcd1f6938cfda5",
                 "type": "leaf",
                 "state": {
-                  "type": "empty",
-                  "state": {}
+                  "type": "excalidraw",
+                  "state": {
+                    "file": "文本/統計/統計學/講義/ch4.3~ch4.4.md"
+                  }
                 }
               }
-            ],
-            "currentTab": 2
+            ]
           }
         ],
         "direction": "vertical",
@@ -275,9 +281,10 @@
       }
     ]
   },
-  "active": "71dcd1f6938cfda5",
+  "active": "d8456ce9a5322cc8",
   "lastOpenFiles": [
     "文本/統計/統計學/講義/ch3.7~ch4.2.md",
+    "文本/統計/統計學/講義/ch4.3~ch4.4.md",
     "文本/統計/統計學/講義/ch3.1~ch3.5.md",
     "文本/統計/存活分析/講義/Survival Analysis topic 1.md",
     "知識/統計/R語言/time to event data_R.md",
@@ -304,7 +311,6 @@
     "知識/統計/存活分析/其他估計量/截斷平均時間(Truncated Mean Survival time)的估計.md",
     "知識/統計/存活分析/基礎知識/Time to event data.md",
     "知識/統計/存活分析/基礎知識/設限/隨機設限.md",
-    "知識/統計/存活分析/基礎知識/設限/右設限.md",
     "知識/統計/存活分析/其他估計量",
     "知識/用語/一般用語",
     "文本/歷史/希臘",
