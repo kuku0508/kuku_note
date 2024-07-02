@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "文本/辯論/一辯稿/廉政盃.md",
+                "file": "知識/統計/存活分析/存活分析目錄.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "文本/辯論/一辯稿/廉政盃.md",
+                "file": "文本/統計/存活分析/講義/Survival Analysis topic 2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "文本/辯論/一辯稿/廉政盃.md",
+                "file": "文本/統計/存活分析/講義/Survival Analysis topic 2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "文本/辯論/一辯稿/廉政盃.md"
+                "file": "文本/統計/存活分析/講義/Survival Analysis topic 2.md"
               }
             }
           },
@@ -168,7 +168,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "文本/辯論/一辯稿/廉政盃.md",
+                "file": "文本/統計/存活分析/講義/Survival Analysis topic 2.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -226,15 +226,50 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "96987ceb010374fe",
+  "floating": {
+    "id": "3c875423191808f8",
+    "type": "floating",
+    "children": [
+      {
+        "id": "7978bc72968938cb",
+        "type": "window",
+        "children": [
+          {
+            "id": "c9a1b1277348dc69",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "b293fbe7422e891e",
+                "type": "leaf",
+                "state": {
+                  "type": "excalidraw",
+                  "state": {
+                    "file": "文本/統計/存活分析/講義/Survival Analysis topic 2.md"
+                  }
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 0,
+        "y": 0,
+        "width": 1280,
+        "height": 1392,
+        "maximize": false,
+        "zoom": 0
+      }
+    ]
+  },
+  "active": "b293fbe7422e891e",
   "lastOpenFiles": [
+    "知識/統計/存活分析/存活分析目錄.md",
+    "知識/統計/存活分析/Bootstrap Confidence Interval.md",
+    "文本/辯論/一辯稿/廉政盃.md",
     "文本/統計/存活分析/講義/Survival Analysis topic 2.md",
     "文本/統計/存活分析/講義/Survival Analysis topic 1.md",
-    "文本/辯論/一辯稿/廉政盃.md",
     "未命名/Drawing 2024-07-01 15.34.23.excalidraw.md",
     "臨時",
-    "知識/統計/存活分析/Bootstrap Confidence Interval.md",
-    "知識/統計/存活分析/存活分析目錄.md",
     "知識/統計/存活分析/其他估計量/Greenwood's formula.md",
     "知識/統計/存活分析/其他估計量/mrl(t)的估計.md",
     "知識/統計/存活分析/基礎知識/常用符號/mean residual life.md",
