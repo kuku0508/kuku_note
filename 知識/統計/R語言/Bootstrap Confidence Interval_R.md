@@ -35,12 +35,9 @@ boot(data,statistic,R,sim="ordinary",stype="i",strata = NULL,...)
 ```
 ### 參數：
 - data：原始資料集。
-
 - statistic: 用於計算統計量的函數。這個函數應該接受兩個參數：原始數據和一個索引向量，並返回一個統計量值。
-
 - R: 重抽樣次數。
-
-- sim: 模擬類型。默認為 `"ordinary"`（普通的 Bootstrap），其他選項包括 `"balanced"`（平衡 Bootstrap）等。
+- sim: 模擬類型。默認為 "ordinary"（普通的 Bootstrap），其他選項包括 "balanced"（平衡 Bootstrap）等。
 - stype: 樣本類型。默認為 `"i"`，表示使用索引。
 - strata: 分層變量，用於分層抽樣。
 - ...: 傳遞給 `statistic` 函數的其他參數。
