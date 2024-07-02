@@ -17,7 +17,7 @@ B <- 1000
 # 使用boot函數進行Bootstrap
 bootstrap_results <- boot(data, statistic = mean_function, R = B)
 
-# 設定信賴水準
+# 設定信心水準
 confidence_level <- 0.95
 
 # 使用boot.ci函數計算信賴區間
