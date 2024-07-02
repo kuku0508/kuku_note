@@ -2,5 +2,5 @@
 - - -
 # 函數說明：
 ``` r
-Surv()
+Surv(time,event)
 ```
