@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "文本/統計/存活分析/講義/Survival Analysis topic 2.md",
+                "file": "文本/辯論/一辯稿/廉政盃.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "文本/統計/存活分析/講義/Survival Analysis topic 2.md",
+                "file": "文本/辯論/一辯稿/廉政盃.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "文本/統計/存活分析/講義/Survival Analysis topic 2.md"
+                "file": "文本/辯論/一辯稿/廉政盃.md"
               }
             }
           },
@@ -168,7 +168,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "文本/統計/存活分析/講義/Survival Analysis topic 2.md",
+                "file": "文本/辯論/一辯稿/廉政盃.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -226,47 +226,12 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "floating": {
-    "id": "3c875423191808f8",
-    "type": "floating",
-    "children": [
-      {
-        "id": "3264ddb64277494f",
-        "type": "window",
-        "children": [
-          {
-            "id": "20e3807f391c67c9",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "0b40d4a384fc3653",
-                "type": "leaf",
-                "state": {
-                  "type": "excalidraw",
-                  "state": {
-                    "file": "文本/統計/存活分析/講義/Survival Analysis topic 2.md"
-                  }
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": 1280,
-        "y": 0,
-        "width": 1280,
-        "height": 1392,
-        "maximize": false,
-        "zoom": 0
-      }
-    ]
-  },
-  "active": "0b40d4a384fc3653",
+  "active": "96987ceb010374fe",
   "lastOpenFiles": [
+    "文本/統計/存活分析/講義/Survival Analysis topic 2.md",
     "文本/統計/存活分析/講義/Survival Analysis topic 1.md",
     "文本/辯論/一辯稿/廉政盃.md",
     "未命名/Drawing 2024-07-01 15.34.23.excalidraw.md",
-    "文本/統計/存活分析/講義/Survival Analysis topic 2.md",
     "臨時",
     "知識/統計/存活分析/Bootstrap Confidence Interval.md",
     "知識/統計/存活分析/存活分析目錄.md",
