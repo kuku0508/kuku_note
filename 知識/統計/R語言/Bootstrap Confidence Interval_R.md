@@ -53,3 +53,5 @@ boot.ci(boot.out, conf = 0.95, type = c("norm", "basic", "stud", "perc", "bca"),
 - `conf`: 信心水準。默認為 0.95。
 - `type`: 要計算的信賴區間類型。可以是 "norm"（常態法）、"basic"（基本 Bootstrap）、"stud"（學生化 Bootstrap）、"perc"（百分位法）、"bca"（BCa Bootstrap）等。
 - `...`: 其他參數。
+- - -
+parent::[[Bootstrap Confidence Interval]],[[R語言目錄]]
