@@ -5,4 +5,5 @@ Bootstrap Confidence Interval，是一種無母數統計方法，用於估計參
 假設我們有一個原始資料集$X=\left\lbrace x_1,x_2,x_3 ,\ldots ,x_n\right\rbrace$
 ## 二、重新抽樣：
 我們從原始資料集中透過取後放回的抽樣方法，抽取一個與原始樣本大小相同的資料集
-，稱為一個Bootstrap樣本。這一步驟通常會重複個幾千次甚至上萬次，以獲得足夠多的Bootstrap
+，稱為一個Bootstrap樣本。這一步驟通常會重複個幾千次甚至上萬次，以獲得足夠多的Bootstrap樣本。
+## 三、
