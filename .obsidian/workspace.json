@@ -11,8 +11,13 @@
             "id": "96987ceb010374fe",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "知識/統計/統計知識總目錄.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "知識/統計/統計知識總目錄.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "知識/統計/統計知識總目錄.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +125,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "知識/統計/統計知識總目錄.md"
+              }
             }
           },
           {
@@ -159,6 +168,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "知識/統計/統計知識總目錄.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -253,6 +263,8 @@
   },
   "active": "96987ceb010374fe",
   "lastOpenFiles": [
+    "知識/統計/機器學習/機器學習.md",
+    "知識/統計/R語言",
     "知識/統計/R語言目錄.md",
     "知識/統計/統計知識總目錄.md",
     "知識/統計/存活分析/Bootstrap Confidence Interval.md",
@@ -279,7 +291,6 @@
     "知識/統計/存活分析/基礎知識/常用符號/Notations.md",
     "知識/統計/存活分析/基礎知識/常用符號/Survival Time.md",
     "知識/統計/存活分析/生命表/縱向／世代生命表.md",
-    "知識/統計/存活分析/生命表/當代／截斷面生命表.md",
     "知識/統計/存活分析/其他估計量",
     "知識/用語/一般用語",
     "文本/歷史/希臘",
@@ -290,7 +301,6 @@
     "文本/畫畫",
     "文本/統計/統計學/圖/相對次數直方圖 範例.png",
     "文本/統計/時間數列/表",
-    "文本/統計/時間數列/圖",
     "文本/統計/時間數列/圖/時間序列圖範例 每年飛機乘客數.png",
     "文本/統計/統計學/圖/圓餅圖範例 台灣政黨席次.png",
     "文本/統計/存活分析/圖/當代生命表 美國人口的存活曲線(1989~1981年).png",

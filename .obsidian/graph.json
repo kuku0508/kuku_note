@@ -43,10 +43,17 @@
       }
     },
     {
-      "query": "path:r語言",
+      "query": "path:知識/統計/R語言  ",
       "color": {
         "a": 1,
-        "rgb": 12446207
+        "rgb": 10067199
+      }
+    },
+    {
+      "query": "",
+      "color": {
+        "a": 1,
+        "rgb": 5395168
       }
     }
   ],
@@ -60,6 +67,6 @@
   "repelStrength": 10.625,
   "linkStrength": 1,
   "linkDistance": 118,
-  "scale": 0.45050811767601046,
+  "scale": 0.6316046762910709,
   "close": false
 }
