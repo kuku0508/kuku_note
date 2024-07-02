@@ -10,3 +10,7 @@ Bootstrap Confidence Interval，是一種無母數統計方法，用於估計參
 對每一個Bootstrap樣本計算目標統計量(如平均值、中位數等)，形成Bootstrap統計量的分配。
 ## 四、計算信賴區間：
 根據Bootstrap統計量的分配來計算目標統計量的信賴區間。
+- - - 
+# 應用：
+假設我們有一組樣本：
+$$

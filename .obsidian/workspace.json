@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "知識/統計/存活分析/Bootstrap Confidence Interval.md",
+                "file": "知識/統計/統計知識總目錄.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "知識/統計/存活分析/Bootstrap Confidence Interval.md",
+                "file": "知識/統計/統計知識總目錄.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "知識/統計/存活分析/Bootstrap Confidence Interval.md",
+                "file": "知識/統計/統計知識總目錄.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "知識/統計/存活分析/Bootstrap Confidence Interval.md"
+                "file": "知識/統計/統計知識總目錄.md"
               }
             }
           },
@@ -168,7 +168,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "知識/統計/存活分析/Bootstrap Confidence Interval.md",
+                "file": "知識/統計/統計知識總目錄.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -263,9 +263,9 @@
   },
   "active": "96987ceb010374fe",
   "lastOpenFiles": [
+    "知識/統計/存活分析/Bootstrap Confidence Interval.md",
     "知識/統計/存活分析/存活分析目錄.md",
     "文本/統計/存活分析/講義/Survival Analysis topic 2.md",
-    "知識/統計/存活分析/Bootstrap Confidence Interval.md",
     "文本/辯論/一辯稿/廉政盃.md",
     "文本/統計/存活分析/講義/Survival Analysis topic 1.md",
     "未命名/Drawing 2024-07-01 15.34.23.excalidraw.md",
