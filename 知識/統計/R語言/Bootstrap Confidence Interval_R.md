@@ -31,5 +31,8 @@ print(confidence_interval)
 # 函數說明：
 - ## boot：
 ``` R
-boot(data,statistic,R,sim="ordinary",stype="i",strata = NULL
+boot(data,statistic,R,sim="ordinary",stype="i",strata = NULL,...)
 ```
+### 參數：
+- data：原始資料集。
+- 
