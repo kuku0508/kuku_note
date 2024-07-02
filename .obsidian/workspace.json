@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "知識/統計/R語言/Bootstrap Confidence Interval_R.md",
+                "file": "知識/統計/R語言/R語言目錄.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "知識/統計/R語言/Bootstrap Confidence Interval_R.md",
+                "file": "知識/統計/R語言/R語言目錄.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "知識/統計/R語言/Bootstrap Confidence Interval_R.md",
+                "file": "知識/統計/R語言/R語言目錄.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "知識/統計/R語言/Bootstrap Confidence Interval_R.md"
+                "file": "知識/統計/R語言/R語言目錄.md"
               }
             }
           },
@@ -168,7 +168,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "知識/統計/R語言/Bootstrap Confidence Interval_R.md",
+                "file": "知識/統計/R語言/R語言目錄.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
