@@ -13,4 +13,6 @@ Bootstrap Confidence Interval，是一種無母數統計方法，用於估計參
 - - - 
 # 應用：
 假設我們有一組樣本：
-$X=\left\lbrace2,4,5,7,9\right\rbrace$
+1. 準備原始資料集：
+	$X=\left\lbrace2,4,5,7,9\right\rbrace$
+2. 重新抽樣：假設我們進行5次Bootstrap衝ㄒㄧㄣ
