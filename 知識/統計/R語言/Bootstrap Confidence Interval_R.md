@@ -30,3 +30,6 @@ print(confidence_interval)
 - - -
 # 函數說明：
 - ## boot：
+``` R
+boot(data,statistic,R,som
+```
