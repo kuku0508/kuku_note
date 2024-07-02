@@ -27,3 +27,4 @@ confidence_interval <- boot.ci(bootstrap_results, type = "perc", conf = confiden
 print(bootstrap_results)
 print(confidence_interval)
 ```
+# 函數書ㄇㄧ
