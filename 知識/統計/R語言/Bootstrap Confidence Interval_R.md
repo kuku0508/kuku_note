@@ -1,4 +1,4 @@
-這邊筆記會教你怎麼利用R來進行b
+這邊筆記會教你怎麼利用R來進行Bootstrap Confidence Interval。
 - - -
 # 函數說明：
 - ## boot：
