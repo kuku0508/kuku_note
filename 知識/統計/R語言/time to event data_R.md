@@ -4,3 +4,5 @@
 ``` r
 Surv(time,event)
 ```
+`time`：
+`event`：
