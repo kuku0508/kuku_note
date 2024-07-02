@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "文本/統計/類別資料分析/講義/CDA Topic 1.md",
+                "file": "文本/統計/存活分析/講義/Survival Analysis topic 2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "文本/統計/類別資料分析/講義/CDA Topic 1.md",
+                "file": "文本/統計/存活分析/講義/Survival Analysis topic 2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "文本/統計/類別資料分析/講義/CDA Topic 1.md"
+                "file": "文本/統計/存活分析/講義/Survival Analysis topic 2.md"
               }
             }
           },
@@ -168,7 +168,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "文本/統計/類別資料分析/講義/CDA Topic 1.md",
+                "file": "文本/統計/存活分析/講義/Survival Analysis topic 2.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -247,19 +247,8 @@
                     "file": "文本/統計/存活分析/講義/Survival Analysis topic 2.md"
                   }
                 }
-              },
-              {
-                "id": "e74bb4c9deab4cca",
-                "type": "leaf",
-                "state": {
-                  "type": "excalidraw",
-                  "state": {
-                    "file": "文本/統計/類別資料分析/講義/CDA Topic 1.md"
-                  }
-                }
               }
-            ],
-            "currentTab": 1
+            ]
           }
         ],
         "direction": "vertical",
@@ -272,8 +261,10 @@
       }
     ]
   },
-  "active": "e74bb4c9deab4cca",
+  "active": "b293fbe7422e891e",
   "lastOpenFiles": [
+    "文本/統計/類別資料分析/講義/CDA Topic 1.md",
+    "文本/統計/存活分析/講義/Survival Analysis topic 1.md",
     "文本/統計/存活分析/講義/Survival Analysis topic 2.md",
     "知識/統計/R語言/time to event data_R.md",
     "知識/統計/R語言/R語言目錄.md",
@@ -287,7 +278,6 @@
     "知識/統計/R語言",
     "知識/統計/存活分析/存活分析目錄.md",
     "文本/辯論/一辯稿/廉政盃.md",
-    "文本/統計/存活分析/講義/Survival Analysis topic 1.md",
     "未命名/Drawing 2024-07-01 15.34.23.excalidraw.md",
     "臨時",
     "知識/統計/存活分析/其他估計量/Greenwood's formula.md",
@@ -301,7 +291,6 @@
     "知識/統計/存活分析/基礎知識/設限/右設限.md",
     "知識/統計/存活分析/基礎知識/設限/設限.md",
     "知識/統計/存活分析/基礎知識/截斷/雙邊截斷.md",
-    "知識/統計/存活分析/基礎知識/截斷/截斷.md",
     "知識/統計/存活分析/其他估計量",
     "知識/用語/一般用語",
     "文本/歷史/希臘",
