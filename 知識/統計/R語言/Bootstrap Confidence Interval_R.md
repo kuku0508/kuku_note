@@ -43,6 +43,6 @@ boot(data,statistic,R,sim="ordinary",stype="i",strata = NULL,...)
 - `...`： 傳遞給 `statistic` 函數的其他參數。
 
 - ## boot.ci：
-```
-
+``` R
+boot.ci(boot.out, conf = 0.95, type = c("norm", "basic", "stud", "perc", "bca"), ...)
 ```
