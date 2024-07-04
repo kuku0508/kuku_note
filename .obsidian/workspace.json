@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "知識/統計/統計學/基礎知識/變數.md",
+                "file": "知識/統計/統計學/機率.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "知識/統計/統計學/基礎知識/變數.md",
+                "file": "知識/統計/統計學/機率.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "知識/統計/統計學/基礎知識/變數.md",
+                "file": "知識/統計/統計學/機率.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "知識/統計/統計學/基礎知識/變數.md"
+                "file": "知識/統計/統計學/機率.md"
               }
             }
           },
@@ -168,7 +168,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "知識/統計/統計學/基礎知識/變數.md",
+                "file": "知識/統計/統計學/機率.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -294,6 +294,7 @@
   },
   "active": "96987ceb010374fe",
   "lastOpenFiles": [
+    "知識/統計/統計學/基礎知識/變數.md",
     "知識/統計/統計學/機率.md",
     "知識/統計/統計學/分配/隨機變數.md",
     "文本/統計/統計學/講義/ch3.7~ch4.2.md",
@@ -321,7 +322,6 @@
     "文本/統計/類別資料分析/講義/CDA Topic 1.md",
     "知識/統計/R語言/R語言目錄.md",
     "知識/統計/存活分析/其他估計量/confidance Interval of Survival Function.md",
-    "知識/統計/時間數列.md",
     "知識/統計/R語言",
     "臨時",
     "知識/統計/存活分析/其他估計量",
