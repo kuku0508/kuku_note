@@ -11,8 +11,13 @@
             "id": "96987ceb010374fe",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "知識/統計/統計學/基礎知識/母體參數.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "知識/統計/統計學/基礎知識/母體參數.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "知識/統計/統計學/基礎知識/母體參數.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +125,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "知識/統計/統計學/基礎知識/母體參數.md"
+              }
             }
           },
           {
@@ -159,6 +168,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "知識/統計/統計學/基礎知識/母體參數.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -253,6 +263,8 @@
   },
   "active": "96987ceb010374fe",
   "lastOpenFiles": [
+    "知識/統計/統計學/基礎知識/母體.md",
+    "知識/統計/統計學/統計學目錄.md",
     "知識/統計/統計學/基礎知識/母體參數／樣本統計量/平均數.md",
     "知識/統計/統計學/基礎知識/離群值.md",
     "文本/統計/統計學/講義/ch3.1~ch3.5.md",
@@ -279,8 +291,6 @@
     "知識/統計/存活分析/其他估計量/mrl(t)的估計.md",
     "知識/統計/存活分析/基礎知識/常用符號/mean residual life.md",
     "知識/統計/存活分析/Kaplan-Meier估計/Kaplan-Meier方法.md",
-    "知識/統計/存活分析/其他估計量/E(T)的變異數估計.md",
-    "知識/統計/存活分析/其他估計量/截斷平均時間(Truncated Mean Survival time)的估計.md",
     "知識/統計/存活分析/其他估計量",
     "知識/用語/一般用語",
     "文本/歷史/希臘",
