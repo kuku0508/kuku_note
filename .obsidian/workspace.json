@@ -11,13 +11,8 @@
             "id": "96987ceb010374fe",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "知識/統計/統計學/分配/經驗法則.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ]
@@ -86,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "知識/統計/統計學/分配/經驗法則.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "知識/統計/統計學/分配/經驗法則.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "知識/統計/統計學/分配/經驗法則.md"
-              }
+              "state": {}
             }
           },
           {
@@ -168,7 +159,6 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "知識/統計/統計學/分配/經驗法則.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -293,10 +283,10 @@
   },
   "active": "96987ceb010374fe",
   "lastOpenFiles": [
+    "知識/統計/統計學/分配/經驗法則.md",
     "知識/統計/統計學/分配/隨機變數.md",
     "知識/統計/統計學/基礎知識/母體參數／樣本統計量/變異係數.md",
     "知識/統計/統計學/基礎知識/母體參數／樣本統計量/標準差.md",
-    "知識/統計/統計學/分配/經驗法則.md",
     "知識/統計/統計學/基礎知識/母體參數／樣本統計量/離均差.md",
     "知識/統計/統計學/基礎知識/母體參數／樣本統計量/變異數.md",
     "知識/統計/統計學/圖表/圖/散佈圖.md",
