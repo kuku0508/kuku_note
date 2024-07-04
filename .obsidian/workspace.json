@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "知識/統計/統計學/圖表/圖/點圖.md",
+                "file": "知識/統計/統計學/基礎知識/母體參數／樣本統計量/標準差.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "知識/統計/統計學/圖表/圖/點圖.md",
+                "file": "知識/統計/統計學/基礎知識/母體參數／樣本統計量/標準差.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "知識/統計/統計學/圖表/圖/點圖.md",
+                "file": "知識/統計/統計學/基礎知識/母體參數／樣本統計量/標準差.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "知識/統計/統計學/圖表/圖/點圖.md"
+                "file": "知識/統計/統計學/基礎知識/母體參數／樣本統計量/標準差.md"
               }
             }
           },
@@ -168,7 +168,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "知識/統計/統計學/圖表/圖/點圖.md",
+                "file": "知識/統計/統計學/基礎知識/母體參數／樣本統計量/標準差.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -293,9 +293,9 @@
   },
   "active": "96987ceb010374fe",
   "lastOpenFiles": [
-    "知識/統計/統計學/圖表/圖/莖葉圖.md",
-    "知識/統計/統計學/圖表/圖/點圖.md",
     "知識/統計/統計學/圖表/圖/散佈圖.md",
+    "知識/統計/統計學/圖表/圖/點圖.md",
+    "知識/統計/統計學/圖表/圖/莖葉圖.md",
     "知識/統計/統計學/圖表/圖/圓餅圖.md",
     "知識/統計/統計學/圖表/圖/相對次數直方圖.md",
     "知識/統計/統計學/圖表/圖/時間序列圖.md",
