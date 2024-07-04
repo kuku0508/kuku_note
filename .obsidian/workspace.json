@@ -11,9 +11,12 @@
             "id": "96987ceb010374fe",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "機率 0至1示意圖.png"
+                "file": "知識/統計/統計學/機率.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
               }
             }
           }
@@ -83,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "機率 0至1示意圖.png",
+                "file": "知識/統計/統計學/機率.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "機率 0至1示意圖.png",
+                "file": "知識/統計/統計學/機率.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "機率 0至1示意圖.png"
+                "file": "知識/統計/統計學/機率.md"
               }
             }
           },
@@ -165,7 +168,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "機率 0至1示意圖.png",
+                "file": "知識/統計/統計學/機率.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -289,10 +292,10 @@
       }
     ]
   },
-  "active": "418f87f864239790",
+  "active": "96987ceb010374fe",
   "lastOpenFiles": [
+    "文本/統計/存活分析/圖/機率 0至1示意圖.png",
     "知識/統計/統計學/機率.md",
-    "機率 0至1示意圖.png",
     "知識/統計/統計學/統計學目錄.md",
     "文本/統計/統計學/講義/ch5.md",
     "文本/統計/統計學/講義/ch4.3~ch4.4.md",
