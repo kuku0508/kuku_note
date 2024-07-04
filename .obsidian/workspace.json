@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "文本/統計/統計學/講義/ch5.md",
+                "file": "知識/統計/統計學/分配/分配.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "文本/統計/統計學/講義/ch5.md",
+                "file": "知識/統計/統計學/分配/分配.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "文本/統計/統計學/講義/ch5.md"
+                "file": "知識/統計/統計學/分配/分配.md"
               }
             }
           },
@@ -168,7 +168,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "文本/統計/統計學/講義/ch5.md",
+                "file": "知識/統計/統計學/分配/分配.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -292,8 +292,9 @@
       }
     ]
   },
-  "active": "3ebe57d22483acda",
+  "active": "96987ceb010374fe",
   "lastOpenFiles": [
+    "文本/統計/統計學/講義/ch5.md",
     "文本/統計/統計學/講義/ch4.3~ch4.4.md",
     "文本/統計/統計學/講義/ch3.7~ch4.2.md",
     "知識/統計/統計學/分配/分配.md",
@@ -322,7 +323,6 @@
     "知識/統計/機器學習/機器學習目錄.md",
     "知識/統計/統計知識總目錄.md",
     "知識/統計/R語言",
-    "知識/統計/存活分析/存活分析目錄.md",
     "臨時",
     "知識/統計/存活分析/其他估計量",
     "知識/用語/一般用語",
