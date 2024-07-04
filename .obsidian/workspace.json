@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "文本/統計/統計學/講義/ch3.7~ch4.2.md",
+                "file": "文本/統計/統計學/講義/ch5.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "文本/統計/統計學/講義/ch3.7~ch4.2.md",
+                "file": "文本/統計/統計學/講義/ch5.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "文本/統計/統計學/講義/ch3.7~ch4.2.md"
+                "file": "文本/統計/統計學/講義/ch5.md"
               }
             }
           },
@@ -168,7 +168,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "文本/統計/統計學/講義/ch3.7~ch4.2.md",
+                "file": "文本/統計/統計學/講義/ch5.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -257,9 +257,29 @@
                     "file": "文本/統計/統計學/講義/ch3.7~ch4.2.md"
                   }
                 }
+              },
+              {
+                "id": "98fe137430080896",
+                "type": "leaf",
+                "state": {
+                  "type": "excalidraw",
+                  "state": {
+                    "file": "文本/統計/統計學/講義/ch4.3~ch4.4.md"
+                  }
+                }
+              },
+              {
+                "id": "3ebe57d22483acda",
+                "type": "leaf",
+                "state": {
+                  "type": "excalidraw",
+                  "state": {
+                    "file": "文本/統計/統計學/講義/ch5.md"
+                  }
+                }
               }
             ],
-            "currentTab": 1
+            "currentTab": 3
           }
         ],
         "direction": "vertical",
@@ -272,8 +292,10 @@
       }
     ]
   },
-  "active": "72404698f6c4bc14",
+  "active": "3ebe57d22483acda",
   "lastOpenFiles": [
+    "文本/統計/統計學/講義/ch4.3~ch4.4.md",
+    "文本/統計/統計學/講義/ch3.7~ch4.2.md",
     "知識/統計/統計學/分配/分配.md",
     "知識/統計/統計學/統計學目錄.md",
     "知識/統計/機器學習/機器學習.md",
@@ -289,8 +311,6 @@
     "知識/統計/統計學/基礎知識/離群值.md",
     "文本/統計/統計學/講義/ch3.1~ch3.5.md",
     "知識/統計/R語言/time to event data_R.md",
-    "文本/統計/統計學/講義/ch3.7~ch4.2.md",
-    "文本/統計/統計學/講義/ch4.3~ch4.4.md",
     "文本/統計/存活分析/講義/Survival Analysis topic 1.md",
     "知識/統計/存活分析/Bootstrap Confidence Interval.md",
     "文本/統計/存活分析/講義/Survival Analysis topic 2.md",
