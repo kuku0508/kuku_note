@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "文本/統計/統計學/講義/ch3.1~ch3.5.md",
+                "file": "知識/統計/R語言/time to event data_R.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "文本/統計/統計學/講義/ch3.1~ch3.5.md",
+                "file": "知識/統計/R語言/time to event data_R.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "文本/統計/統計學/講義/ch3.1~ch3.5.md"
+                "file": "知識/統計/R語言/time to event data_R.md"
               }
             }
           },
@@ -168,7 +168,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "文本/統計/統計學/講義/ch3.1~ch3.5.md",
+                "file": "知識/統計/R語言/time to event data_R.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -247,26 +247,6 @@
                     "file": "文本/統計/統計學/講義/ch3.1~ch3.5.md"
                   }
                 }
-              },
-              {
-                "id": "64bd37242e40da25",
-                "type": "leaf",
-                "state": {
-                  "type": "excalidraw",
-                  "state": {
-                    "file": "文本/統計/統計學/講義/ch3.7~ch4.2.md"
-                  }
-                }
-              },
-              {
-                "id": "71dcd1f6938cfda5",
-                "type": "leaf",
-                "state": {
-                  "type": "excalidraw",
-                  "state": {
-                    "file": "文本/統計/統計學/講義/ch4.3~ch4.4.md"
-                  }
-                }
               }
             ]
           }
@@ -274,20 +254,20 @@
         "direction": "vertical",
         "x": 0,
         "y": 0,
-        "width": 1280,
+        "width": 1267,
         "height": 1392,
         "maximize": false,
         "zoom": 0
       }
     ]
   },
-  "active": "d8456ce9a5322cc8",
+  "active": "96987ceb010374fe",
   "lastOpenFiles": [
+    "文本/統計/統計學/講義/ch3.1~ch3.5.md",
+    "知識/統計/R語言/time to event data_R.md",
     "文本/統計/統計學/講義/ch3.7~ch4.2.md",
     "文本/統計/統計學/講義/ch4.3~ch4.4.md",
-    "文本/統計/統計學/講義/ch3.1~ch3.5.md",
     "文本/統計/存活分析/講義/Survival Analysis topic 1.md",
-    "知識/統計/R語言/time to event data_R.md",
     "知識/統計/存活分析/Bootstrap Confidence Interval.md",
     "文本/統計/存活分析/講義/Survival Analysis topic 2.md",
     "知識/統計/R語言/Bootstrap Confidence Interval_R.md",
