@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "知識/統計/統計學/分配/分配.md",
+                "file": "文本/統計/統計學/講義/ch3.7~ch4.2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "知識/統計/統計學/分配/分配.md",
+                "file": "文本/統計/統計學/講義/ch3.7~ch4.2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "知識/統計/統計學/分配/分配.md"
+                "file": "文本/統計/統計學/講義/ch3.7~ch4.2.md"
               }
             }
           },
@@ -168,7 +168,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "知識/統計/統計學/分配/分配.md",
+                "file": "文本/統計/統計學/講義/ch3.7~ch4.2.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -247,8 +247,19 @@
                     "file": "文本/統計/統計學/講義/ch3.1~ch3.5.md"
                   }
                 }
+              },
+              {
+                "id": "72404698f6c4bc14",
+                "type": "leaf",
+                "state": {
+                  "type": "excalidraw",
+                  "state": {
+                    "file": "文本/統計/統計學/講義/ch3.7~ch4.2.md"
+                  }
+                }
               }
-            ]
+            ],
+            "currentTab": 1
           }
         ],
         "direction": "vertical",
@@ -261,11 +272,11 @@
       }
     ]
   },
-  "active": "96987ceb010374fe",
+  "active": "72404698f6c4bc14",
   "lastOpenFiles": [
+    "知識/統計/統計學/分配/分配.md",
     "知識/統計/統計學/統計學目錄.md",
     "知識/統計/機器學習/機器學習.md",
-    "知識/統計/統計學/分配/分配.md",
     "知識/統計/統計學/分配/分配種類",
     "知識/統計/統計學/分配",
     "知識/統計/統計學/圖表/圖/莖葉圖.md",
