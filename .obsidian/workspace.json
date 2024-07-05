@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "知識/統計/統計學/樣本空間.md",
+                "file": "知識/統計/統計學/隨機實驗.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "知識/統計/統計學/樣本空間.md",
+                "file": "知識/統計/統計學/隨機實驗.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "知識/統計/統計學/樣本空間.md",
+                "file": "知識/統計/統計學/隨機實驗.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "知識/統計/統計學/樣本空間.md"
+                "file": "知識/統計/統計學/隨機實驗.md"
               }
             }
           },
@@ -168,7 +168,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "知識/統計/統計學/樣本空間.md",
+                "file": "知識/統計/統計學/隨機實驗.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -294,10 +294,10 @@
   },
   "active": "96987ceb010374fe",
   "lastOpenFiles": [
-    "文本/統計/統計學/講義/ch3.7~ch4.2.md",
     "知識/統計/統計學/樣本空間.md",
-    "知識/統計/統計學/隨機實驗.md",
     "知識/統計/統計學/統計學目錄.md",
+    "知識/統計/統計學/隨機實驗.md",
+    "文本/統計/統計學/講義/ch3.7~ch4.2.md",
     "知識/統計/統計學/分配/機率.md",
     "知識/統計/統計學/基礎知識/母體參數／樣本統計量/相關係數.md",
     "知識/統計/統計學/基礎知識/母體參數／樣本統計量/標準差.md",
