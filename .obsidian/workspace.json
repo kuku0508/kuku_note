@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "知識/程式語言/Latex/基礎知識/語法表/集合符號.md",
+                "file": "知識/程式語言/Latex/基礎知識/語法表/字體.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "知識/程式語言/Latex/基礎知識/語法表/集合符號.md",
+                "file": "知識/程式語言/Latex/基礎知識/語法表/字體.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "知識/程式語言/Latex/基礎知識/語法表/集合符號.md",
+                "file": "知識/程式語言/Latex/基礎知識/語法表/字體.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "知識/程式語言/Latex/基礎知識/語法表/集合符號.md"
+                "file": "知識/程式語言/Latex/基礎知識/語法表/字體.md"
               }
             }
           },
@@ -168,7 +168,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "知識/程式語言/Latex/基礎知識/語法表/集合符號.md",
+                "file": "知識/程式語言/Latex/基礎知識/語法表/字體.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -293,6 +293,10 @@
   },
   "active": "96987ceb010374fe",
   "lastOpenFiles": [
+    "知識/程式語言/Latex/基礎知識/語法表/尖括號〈〉.md",
+    "知識/程式語言/Latex/基礎知識/語法表/希臘字母.md",
+    "知識/程式語言/Latex/基礎知識/語法表/其他符號.md",
+    "知識/程式語言/Latex/基礎知識/語法表/集合符號.md",
     "知識/統計/統計學/集合/互斥.md",
     "知識/程式語言/Latex/基礎知識/語法表/交集.md",
     "文本/統計/統計學/講義/ch3.7~ch4.2.md",
@@ -316,10 +320,6 @@
     "知識/統計/統計學/分配/機率.md",
     "知識/統計/統計學/基礎知識/母體參數／樣本統計量/相關係數.md",
     "知識/統計/統計學/基礎知識/母體參數／樣本統計量/標準差.md",
-    "知識/統計/統計學/基礎知識/母體參數／樣本統計量/變異數.md",
-    "知識/統計/統計學/資料/資料預處理/標準化.md",
-    "知識/統計/統計學/分配/分配.md",
-    "知識/統計/統計學/分配/柴比雪夫不等式.md",
     "知識/統計/統計學/資料/資料預處理",
     "文本/未分類",
     "文本/統計/存活分析/圖/機率 0至1示意圖.png",
