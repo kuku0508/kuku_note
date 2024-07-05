@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "知識/程式語言/Latex/基礎知識/語法表/聯集.md",
+                "file": "知識/統計/統計學/統計學目錄.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "知識/程式語言/Latex/基礎知識/語法表/聯集.md",
+                "file": "知識/統計/統計學/統計學目錄.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "知識/程式語言/Latex/基礎知識/語法表/聯集.md",
+                "file": "知識/統計/統計學/統計學目錄.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "知識/程式語言/Latex/基礎知識/語法表/聯集.md"
+                "file": "知識/統計/統計學/統計學目錄.md"
               }
             }
           },
@@ -168,7 +168,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "知識/程式語言/Latex/基礎知識/語法表/聯集.md",
+                "file": "知識/統計/統計學/統計學目錄.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -294,15 +294,16 @@
   },
   "active": "96987ceb010374fe",
   "lastOpenFiles": [
-    "知識/統計/統計學/統計學目錄.md",
-    "知識/程式語言/Latex/基礎知識/語法表/聯集.md",
-    "知識/統計/統計學/集合/事件.md",
+    "知識/統計/統計學/集合/樣本空間.md",
     "知識/統計/統計學/集合/隨機實驗.md",
+    "知識/統計/統計學/集合/聯集.md",
+    "知識/程式語言/Latex/基礎知識/語法表/聯集.md",
+    "知識/統計/統計學/統計學目錄.md",
+    "知識/統計/統計學/集合/事件.md",
     "知識/統計/統計學/集合",
     "文本/統計/統計學/講義/ch3.7~ch4.2.md",
     "知識/統計/統計學/未命名.md",
     "知識/統計/統計學/集合/元素.md",
-    "知識/統計/統計學/集合/樣本空間.md",
     "知識/統計/存活分析/基礎知識/event.md",
     "知識/統計/統計學/圖表/表/次數分配表.md",
     "知識/統計/統計學/圖表/圖/次數多邊形圖.md",
@@ -322,7 +323,6 @@
     "文本/未分類",
     "知識/統計/統計學/分配/經驗法則.md",
     "文本/統計/統計學/講義/ch3.1~ch3.5.md",
-    "文本/書/新日檢N1標準模擬試題.md",
     "文本/統計/存活分析/圖/機率 0至1示意圖.png",
     "知識/統計/統計學/分配/分配種類",
     "知識/統計/統計學/分配",
