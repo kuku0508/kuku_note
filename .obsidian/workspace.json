@@ -11,13 +11,8 @@
             "id": "96987ceb010374fe",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "知識/統計/統計學/元素.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ]
@@ -86,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "知識/統計/統計學/元素.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "知識/統計/統計學/元素.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "知識/統計/統計學/元素.md"
-              }
+              "state": {}
             }
           },
           {
@@ -168,7 +159,6 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "知識/統計/統計學/元素.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -294,8 +284,8 @@
   },
   "active": "96987ceb010374fe",
   "lastOpenFiles": [
-    "知識/統計/統計學/樣本空間.md",
     "知識/統計/統計學/元素.md",
+    "知識/統計/統計學/樣本空間.md",
     "知識/統計/存活分析/基礎知識/event.md",
     "知識/統計/統計學/事件.md",
     "文本/統計/統計學/講義/ch3.7~ch4.2.md",
