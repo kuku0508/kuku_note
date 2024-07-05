@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "文本/統計/統計學/講義/ch3.7~ch4.2.md",
+                "file": "知識/統計/統計學/統計學目錄.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "文本/統計/統計學/講義/ch3.7~ch4.2.md",
+                "file": "知識/統計/統計學/統計學目錄.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "文本/統計/統計學/講義/ch3.7~ch4.2.md"
+                "file": "知識/統計/統計學/統計學目錄.md"
               }
             }
           },
@@ -168,7 +168,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "文本/統計/統計學/講義/ch3.7~ch4.2.md",
+                "file": "知識/統計/統計學/統計學目錄.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -292,8 +292,9 @@
       }
     ]
   },
-  "active": "72404698f6c4bc14",
+  "active": "96987ceb010374fe",
   "lastOpenFiles": [
+    "文本/統計/統計學/講義/ch3.7~ch4.2.md",
     "知識/統計/統計學/統計學目錄.md",
     "知識/統計/統計學/資料/資料預處理/標準化.md",
     "知識/統計/統計學/分配/分配.md",
@@ -322,7 +323,6 @@
     "文本/統計/統計學/講義/ch5.md",
     "文本/統計/存活分析/圖/機率 0至1示意圖.png",
     "文本/統計/統計學/講義/ch4.3~ch4.4.md",
-    "知識/統計/統計學/基礎知識/變數.md",
     "知識/統計/統計學/分配/分配種類",
     "知識/統計/統計學/分配",
     "知識/統計/R語言",
