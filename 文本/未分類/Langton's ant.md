@@ -1,1 +1,1 @@
-Langton's 
+Langton's ant，由Christopher Langton提出的細胞自動機。這個系統展示了一隻螞蟻在一個無限的平面上移動的行為
