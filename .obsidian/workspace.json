@@ -11,8 +11,13 @@
             "id": "96987ceb010374fe",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "知識/統計/統計學/事件.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "知識/統計/統計學/事件.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "知識/統計/統計學/事件.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +125,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "知識/統計/統計學/事件.md"
+              }
             }
           },
           {
@@ -159,6 +168,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "知識/統計/統計學/事件.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -284,18 +294,18 @@
   },
   "active": "96987ceb010374fe",
   "lastOpenFiles": [
+    "知識/統計/統計學/統計學目錄.md",
+    "文本/統計/統計學/講義/ch3.7~ch4.2.md",
     "知識/統計/統計學/元素.md",
     "知識/統計/統計學/樣本空間.md",
     "知識/統計/存活分析/基礎知識/event.md",
     "知識/統計/統計學/事件.md",
-    "文本/統計/統計學/講義/ch3.7~ch4.2.md",
     "知識/統計/統計學/圖表/表/次數分配表.md",
     "知識/統計/統計學/圖表/圖/次數多邊形圖.md",
     "知識/統計/統計學/圖表/圖表目錄.md",
     "知識/統計/統計學/圖表/圖/點圖.md",
     "知識/統計/統計學/圖表/圖/莖葉圖.md",
     "知識/統計/統計學/隨機實驗.md",
-    "知識/統計/統計學/統計學目錄.md",
     "知識/統計/統計學/分配/機率.md",
     "知識/統計/統計學/基礎知識/母體參數／樣本統計量/相關係數.md",
     "知識/統計/統計學/基礎知識/母體參數／樣本統計量/標準差.md",
