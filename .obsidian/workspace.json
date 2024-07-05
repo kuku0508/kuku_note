@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "知識/統計/統計學/樣本空間.md",
+                "file": "知識/統計/統計學/事件.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -70,8 +70,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 337.5,
-    "collapsed": true
+    "width": 337.5
   },
   "right": {
     "id": "1e2f35858b280e10",
@@ -87,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "知識/統計/統計學/樣本空間.md",
+                "file": "知識/統計/統計學/事件.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "知識/統計/統計學/樣本空間.md",
+                "file": "知識/統計/統計學/事件.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "知識/統計/統計學/樣本空間.md"
+                "file": "知識/統計/統計學/事件.md"
               }
             }
           },
@@ -169,7 +168,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "知識/統計/統計學/樣本空間.md",
+                "file": "知識/統計/統計學/事件.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -295,8 +294,9 @@
   },
   "active": "96987ceb010374fe",
   "lastOpenFiles": [
-    "文本/統計/統計學/講義/ch3.7~ch4.2.md",
     "知識/統計/統計學/樣本空間.md",
+    "知識/統計/統計學/事件.md",
+    "文本/統計/統計學/講義/ch3.7~ch4.2.md",
     "知識/統計/統計學/圖表/表/次數分配表.md",
     "知識/統計/統計學/圖表/圖/次數多邊形圖.md",
     "知識/統計/統計學/圖表/圖表目錄.md",
@@ -322,7 +322,6 @@
     "知識/統計/統計學/基礎知識/母體參數／樣本統計量/變異係數.md",
     "知識/統計/統計學/基礎知識/母體參數／樣本統計量/離均差.md",
     "知識/統計/統計學/圖表/圖/散佈圖.md",
-    "知識/統計/統計學/圖表/圖/圓餅圖.md",
     "文本/統計/存活分析/圖/機率 0至1示意圖.png",
     "知識/統計/統計學/分配/分配種類",
     "知識/統計/統計學/分配",
