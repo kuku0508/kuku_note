@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "文本/統計/統計學/講義/ch3.7~ch4.2.md",
+                "file": "知識/統計/統計學/集合/餘集.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "文本/統計/統計學/講義/ch3.7~ch4.2.md",
+                "file": "知識/統計/統計學/集合/餘集.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "文本/統計/統計學/講義/ch3.7~ch4.2.md"
+                "file": "知識/統計/統計學/集合/餘集.md"
               }
             }
           },
@@ -168,7 +168,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "文本/統計/統計學/講義/ch3.7~ch4.2.md",
+                "file": "知識/統計/統計學/集合/餘集.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -292,8 +292,9 @@
       }
     ]
   },
-  "active": "72404698f6c4bc14",
+  "active": "96987ceb010374fe",
   "lastOpenFiles": [
+    "文本/統計/統計學/講義/ch3.7~ch4.2.md",
     "知識/統計/統計學/集合/餘集.md",
     "知識/統計/統計學/集合/聯集.md",
     "知識/統計/統計學/集合/交集.md",
@@ -304,7 +305,6 @@
     "知識/統計/統計學/集合/隨機實驗.md",
     "知識/統計/統計學/集合/事件.md",
     "知識/統計/統計學/集合",
-    "文本/統計/統計學/講義/ch3.7~ch4.2.md",
     "知識/統計/統計學/未命名.md",
     "知識/統計/統計學/集合/元素.md",
     "知識/統計/存活分析/基礎知識/event.md",
