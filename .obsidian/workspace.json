@@ -11,12 +11,9 @@
             "id": "96987ceb010374fe",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "excalidraw",
               "state": {
-                "file": "知識/統計/統計學/機率/大數法則.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
+                "file": "文本/書/Analyzing Baseball Data with R, Second Edition.md"
               }
             }
           }
@@ -86,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "知識/統計/統計學/機率/大數法則.md",
+                "file": "文本/書/Analyzing Baseball Data with R, Second Edition.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +100,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "知識/統計/統計學/機率/大數法則.md",
+                "file": "文本/書/Analyzing Baseball Data with R, Second Edition.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +123,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "知識/統計/統計學/機率/大數法則.md"
+                "file": "文本/書/Analyzing Baseball Data with R, Second Edition.md"
               }
             }
           },
@@ -168,7 +165,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "知識/統計/統計學/機率/大數法則.md",
+                "file": "文本/書/Analyzing Baseball Data with R, Second Edition.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -294,8 +291,9 @@
   },
   "active": "96987ceb010374fe",
   "lastOpenFiles": [
-    "知識/統計/統計學/機率/經驗機率.md",
+    "文本/書/Time Series Analysis and Its Applications：With R Examples.md",
     "知識/統計/統計學/機率/大數法則.md",
+    "知識/統計/統計學/機率/經驗機率.md",
     "知識/統計/統計學/機率/機率.md",
     "文本/統計/統計學/講義/ch3.7~ch4.2.md",
     "知識/統計/統計學/機率/主觀機率.md",
@@ -320,7 +318,6 @@
     "知識/程式語言/Latex/基礎知識/語法表/其他符號.md",
     "知識/程式語言/Latex/基礎知識/語法表/交集.md",
     "知識/統計/統計學/集合/餘集.md",
-    "知識/統計/統計學/集合/聯集.md",
     "知識/統計/統計學/集合",
     "知識/統計/統計學/資料/資料預處理",
     "文本/未分類",
