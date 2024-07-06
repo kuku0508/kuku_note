@@ -13,7 +13,7 @@
             "state": {
               "type": "image",
               "state": {
-                "file": "蒙提霍爾問題.png"
+                "file": "文本/統計/統計學/圖/蒙提霍爾問題 贏的次數.png"
               }
             }
           }
@@ -83,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "蒙提霍爾問題.png",
+                "file": "文本/統計/統計學/圖/蒙提霍爾問題 贏的次數.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +100,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "蒙提霍爾問題.png",
+                "file": "文本/統計/統計學/圖/蒙提霍爾問題 贏的次數.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,7 +123,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "蒙提霍爾問題.png"
+                "file": "文本/統計/統計學/圖/蒙提霍爾問題 贏的次數.png"
               }
             }
           },
@@ -165,7 +165,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "蒙提霍爾問題.png",
+                "file": "文本/統計/統計學/圖/蒙提霍爾問題 贏的次數.png",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -292,8 +292,8 @@
   "active": "418f87f864239790",
   "lastOpenFiles": [
     "知識/統計/統計學/機率/大數法則.md",
-    "monty-hall_perc_100000_r.png",
-    "蒙提霍爾問題.png",
+    "文本/統計/統計學/圖/蒙提霍爾問題 贏的機率.png",
+    "文本/統計/統計學/圖/蒙提霍爾問題 贏的次數.png",
     "文本/書/Time Series Analysis and Its Applications：With R Examples.md",
     "文本/書/Analyzing Baseball Data with R, Second Edition.md",
     "知識/統計/統計學/機率/經驗機率.md",
