@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "知識/統計/統計學/機率/大數法則.md",
+                "file": "知識/統計/統計學/機率/蒙提霍爾問題.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "知識/統計/統計學/機率/大數法則.md",
+                "file": "知識/統計/統計學/機率/蒙提霍爾問題.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "知識/統計/統計學/機率/大數法則.md",
+                "file": "知識/統計/統計學/機率/蒙提霍爾問題.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "知識/統計/統計學/機率/大數法則.md"
+                "file": "知識/統計/統計學/機率/蒙提霍爾問題.md"
               }
             }
           },
@@ -168,7 +168,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "知識/統計/統計學/機率/大數法則.md",
+                "file": "知識/統計/統計學/機率/蒙提霍爾問題.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -294,8 +294,9 @@
   },
   "active": "96987ceb010374fe",
   "lastOpenFiles": [
-    "文本/統計/統計學/圖/蒙提霍爾問題 贏的次數.png",
     "知識/統計/統計學/機率/大數法則.md",
+    "知識/統計/統計學/機率/蒙提霍爾問題.md",
+    "文本/統計/統計學/圖/蒙提霍爾問題 贏的次數.png",
     "文本/統計/統計學/圖/蒙提霍爾問題 贏的機率.png",
     "文本/書/Time Series Analysis and Its Applications：With R Examples.md",
     "文本/書/Analyzing Baseball Data with R, Second Edition.md",
