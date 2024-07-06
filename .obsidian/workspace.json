@@ -11,13 +11,8 @@
             "id": "96987ceb010374fe",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "知識/統計/統計學/機率/蒙提霍爾問題.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ]
@@ -86,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "知識/統計/統計學/機率/蒙提霍爾問題.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "知識/統計/統計學/機率/蒙提霍爾問題.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "知識/統計/統計學/機率/蒙提霍爾問題.md"
-              }
+              "state": {}
             }
           },
           {
@@ -168,7 +159,6 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "知識/統計/統計學/機率/蒙提霍爾問題.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -294,9 +284,9 @@
   },
   "active": "96987ceb010374fe",
   "lastOpenFiles": [
-    "Pasted image 20240706132006.png",
-    "知識/統計/統計學/機率/大數法則.md",
     "知識/統計/統計學/機率/蒙提霍爾問題.md",
+    "文本/統計/統計學/圖/蒙提霍爾問題　圖解.png",
+    "知識/統計/統計學/機率/大數法則.md",
     "文本/統計/統計學/文本",
     "文本/統計/統計學/圖/蒙提霍爾問題 贏的次數.png",
     "文本/統計/統計學/圖/蒙提霍爾問題 贏的機率.png",
@@ -339,7 +329,6 @@
     "文本/統計/統計學/圖/圓餅圖範例 台灣政黨席次.png",
     "文本/統計/存活分析/圖/當代生命表 美國人口的存活曲線(1989~1981年).png",
     "文本/統計/統計學/圖/點圖範例 員工工作完成率.png",
-    "文本/統計/統計學/圖/離群值判斷方式　箱型圖說明.png",
     "未命名.canvas",
     "文本/問題/未命名.canvas"
   ]
