@@ -11,13 +11,8 @@
             "id": "96987ceb010374fe",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "知識/統計/統計學/機率/蒙提霍爾問題.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ]
@@ -86,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "知識/統計/統計學/機率/蒙提霍爾問題.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "知識/統計/統計學/機率/蒙提霍爾問題.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "知識/統計/統計學/機率/蒙提霍爾問題.md"
-              }
+              "state": {}
             }
           },
           {
@@ -168,7 +159,6 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "知識/統計/統計學/機率/蒙提霍爾問題.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -292,11 +282,11 @@
       }
     ]
   },
-  "active": "418f87f864239790",
+  "active": "96987ceb010374fe",
   "lastOpenFiles": [
-    "文本/統計/統計學/文本",
     "知識/統計/統計學/機率/大數法則.md",
     "知識/統計/統計學/機率/蒙提霍爾問題.md",
+    "文本/統計/統計學/文本",
     "文本/統計/統計學/圖/蒙提霍爾問題 贏的次數.png",
     "文本/統計/統計學/圖/蒙提霍爾問題 贏的機率.png",
     "文本/書/Time Series Analysis and Its Applications：With R Examples.md",
@@ -332,7 +322,6 @@
     "知識/統計/R語言",
     "臨時",
     "知識/統計/存活分析/其他估計量",
-    "知識/用語/一般用語",
     "文本/統計/統計學/圖/Normal Distribution 68 95 99.7.png",
     "文本/統計/統計學/圖/相對次數直方圖 範例.png",
     "文本/統計/時間數列/圖/時間序列圖範例 每年飛機乘客數.png",
