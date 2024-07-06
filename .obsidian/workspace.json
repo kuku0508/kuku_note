@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "知識/統計/統計學/集合/餘集.md",
+                "file": "文本/統計/統計學/文本/蒙提霍爾問題.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -100,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "知識/統計/統計學/集合/餘集.md",
+                "file": "文本/統計/統計學/文本/蒙提霍爾問題.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "知識/統計/統計學/集合/餘集.md",
+                "file": "文本/統計/統計學/文本/蒙提霍爾問題.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "知識/統計/統計學/集合/餘集.md"
+                "file": "文本/統計/統計學/文本/蒙提霍爾問題.md"
               }
             }
           },
@@ -182,7 +182,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "知識/統計/統計學/集合/餘集.md",
+                "file": "文本/統計/統計學/文本/蒙提霍爾問題.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -308,14 +308,14 @@
   },
   "active": "f9d6de6667b995ae",
   "lastOpenFiles": [
+    "知識/統計/統計學/機率/大數法則.md",
+    "知識/統計/統計學/集合/餘集.md",
     "此筆記介紹.md",
     "知識/統計/統計學/集合/加法法則.md",
     "文本/統計/統計學/文本/蒙提霍爾問題.md",
     "文本/統計/統計學/講義/ch3.7~ch4.2.md",
     "知識/統計/統計學/集合/餘集合法則.md",
-    "知識/統計/統計學/集合/餘集.md",
     "文本/統計/統計學/圖/蒙提霍爾問題　圖解.png",
-    "知識/統計/統計學/機率/大數法則.md",
     "文本/統計/統計學/文本",
     "文本/統計/統計學/圖/蒙提霍爾問題 贏的次數.png",
     "文本/統計/統計學/圖/蒙提霍爾問題 贏的機率.png",
