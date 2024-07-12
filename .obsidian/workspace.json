@@ -37,8 +37,13 @@
             "id": "bdc5958bcf22996a",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "此筆記介紹.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
             }
           }
         ],
@@ -108,7 +113,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "知識/統計/統計學/集合/加法法則.md",
+                "file": "此筆記介紹.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +130,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "知識/統計/統計學/集合/加法法則.md",
+                "file": "此筆記介紹.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,7 +153,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "知識/統計/統計學/集合/加法法則.md"
+                "file": "此筆記介紹.md"
               }
             }
           },
@@ -190,7 +195,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "知識/統計/統計學/集合/加法法則.md",
+                "file": "此筆記介紹.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -305,9 +310,9 @@
         ],
         "direction": "vertical",
         "x": 0,
-        "y": 696,
+        "y": 0,
         "width": 1280,
-        "height": 696,
+        "height": 1392,
         "maximize": false,
         "zoom": 0
       }
@@ -315,6 +320,7 @@
   },
   "active": "bdc5958bcf22996a",
   "lastOpenFiles": [
+    "文本/統計/統計學/講義/ch3.1~ch3.5.md",
     "此筆記介紹.md",
     "文本/統計/統計學/文本/蒙提霍爾問題.md",
     "文本/統計/統計學/講義/ch3.7~ch4.2.md",
@@ -345,7 +351,6 @@
     "知識/程式語言/Latex/基礎知識/語法表/箭頭.md",
     "知識/程式語言/Latex/基礎知識/語法表/箭頭圖表.md",
     "知識/程式語言/Latex/基礎知識/語法表/邏輯運算.md",
-    "知識/程式語言/Latex/基礎知識/語法表/聯集.md",
     "知識/統計/統計學/集合",
     "知識/統計/統計學/資料/資料預處理",
     "文本/未分類",
