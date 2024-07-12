@@ -32,9 +32,17 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "bdc5958bcf22996a",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -100,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "文本/統計/統計學/文本/蒙提霍爾問題.md",
+                "file": "知識/統計/統計學/集合/加法法則.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "文本/統計/統計學/文本/蒙提霍爾問題.md",
+                "file": "知識/統計/統計學/集合/加法法則.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "文本/統計/統計學/文本/蒙提霍爾問題.md"
+                "file": "知識/統計/統計學/集合/加法法則.md"
               }
             }
           },
@@ -182,7 +190,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "文本/統計/統計學/文本/蒙提霍爾問題.md",
+                "file": "知識/統計/統計學/集合/加法法則.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -221,6 +229,9 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "obsidian42-text-transporter:Text Transporter": false,
+      "templater-obsidian:Templater": false,
+      "excel:Create Excel File": false,
       "switcher:開啟快速切換": false,
       "graph:查看關聯圖": false,
       "canvas:建立新畫布": false,
@@ -233,9 +244,6 @@
       "workspaces:管理工作區配置": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "breadcrumbs:Breadcrumbs Visualisation": false,
-      "excel:Create Excel File": false,
-      "obsidian42-text-transporter:Text Transporter": false,
-      "templater-obsidian:Templater": false,
       "obsidian-excalidraw-plugin:Create new drawing": false,
       "obsidian-kanban:Create new board": false
     }
@@ -292,8 +300,7 @@
                   }
                 }
               }
-            ],
-            "currentTab": 1
+            ]
           }
         ],
         "direction": "vertical",
@@ -306,13 +313,13 @@
       }
     ]
   },
-  "active": "f9d6de6667b995ae",
+  "active": "bdc5958bcf22996a",
   "lastOpenFiles": [
-    "文本/統計/統計學/講義/ch3.7~ch4.2.md",
+    "此筆記介紹.md",
     "文本/統計/統計學/文本/蒙提霍爾問題.md",
+    "文本/統計/統計學/講義/ch3.7~ch4.2.md",
     "知識/統計/統計學/機率/大數法則.md",
     "知識/統計/統計學/集合/餘集.md",
-    "此筆記介紹.md",
     "知識/統計/統計學/集合/加法法則.md",
     "知識/統計/統計學/集合/餘集合法則.md",
     "文本/統計/統計學/圖/蒙提霍爾問題　圖解.png",
