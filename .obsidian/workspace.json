@@ -39,7 +39,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "文本/辯論/一辯稿/廉政盃.md",
+                "file": "文本/統計/統計學/文本/蒙提霍爾問題.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -113,7 +113,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "文本/辯論/一辯稿/廉政盃.md",
+                "file": "文本/統計/統計學/文本/蒙提霍爾問題.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,7 +130,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "文本/辯論/一辯稿/廉政盃.md",
+                "file": "文本/統計/統計學/文本/蒙提霍爾問題.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -153,7 +153,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "文本/辯論/一辯稿/廉政盃.md"
+                "file": "文本/統計/統計學/文本/蒙提霍爾問題.md"
               }
             }
           },
@@ -195,7 +195,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "文本/辯論/一辯稿/廉政盃.md",
+                "file": "文本/統計/統計學/文本/蒙提霍爾問題.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -320,6 +320,8 @@
   },
   "active": "bdc5958bcf22996a",
   "lastOpenFiles": [
+    "知識/統計/統計學/機率/大數法則.md",
+    "文本/辯論/一辯稿/廉政盃.md",
     "文本/辯論/一辯稿/網路讓人類思考多元or單一.md",
     "文本/辯論/健言公告.md",
     "文本/名言/粉紅色的雪.md",
@@ -330,7 +332,6 @@
     "文本/統計/統計學/講義/ch3.1~ch3.5.md",
     "文本/統計/統計學/文本/蒙提霍爾問題.md",
     "文本/統計/統計學/講義/ch3.7~ch4.2.md",
-    "知識/統計/統計學/機率/大數法則.md",
     "知識/統計/統計學/集合/餘集.md",
     "知識/統計/統計學/集合/加法法則.md",
     "知識/統計/統計學/集合/餘集合法則.md",
@@ -350,7 +351,6 @@
     "知識/統計/統計學/機率",
     "知識/程式語言/Latex/基礎知識/語法表/希臘字母.md",
     "知識/統計/統計學/集合/互斥.md",
-    "知識/程式語言/Latex/基礎知識/語法表/微分.md",
     "知識/統計/統計學/集合",
     "知識/統計/統計學/資料/資料預處理",
     "文本/未分類",
