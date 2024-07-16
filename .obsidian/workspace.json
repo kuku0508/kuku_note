@@ -46,8 +46,7 @@
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -113,7 +112,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "文本/統計/統計學/講義/ch3.1~ch3.5.md",
+                "file": "知識/統計/統計學/集合/加法法則.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,7 +129,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "文本/統計/統計學/講義/ch3.1~ch3.5.md",
+                "file": "知識/統計/統計學/集合/加法法則.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -153,7 +152,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "文本/統計/統計學/講義/ch3.1~ch3.5.md"
+                "file": "知識/統計/統計學/集合/加法法則.md"
               }
             }
           },
@@ -195,7 +194,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "文本/統計/統計學/講義/ch3.1~ch3.5.md",
+                "file": "知識/統計/統計學/集合/加法法則.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -318,8 +317,9 @@
       }
     ]
   },
-  "active": "d8456ce9a5322cc8",
+  "active": "96987ceb010374fe",
   "lastOpenFiles": [
+    "文本/統計/統計學/講義/ch3.1~ch3.5.md",
     "知識/統計/統計學/機率/大數法則.md",
     "文本/辯論/一辯稿/廉政盃.md",
     "文本/辯論/一辯稿/網路讓人類思考多元or單一.md",
@@ -329,7 +329,6 @@
     "文本/書/大數據分析與應用實戰 統計機器學習之資料導向程式設計.md",
     "知識/統計/存活分析/基礎知識/常用符號/Survival Time.md",
     "此筆記介紹.md",
-    "文本/統計/統計學/講義/ch3.1~ch3.5.md",
     "文本/統計/統計學/文本/蒙提霍爾問題.md",
     "文本/統計/統計學/講義/ch3.7~ch4.2.md",
     "知識/統計/統計學/集合/餘集.md",
